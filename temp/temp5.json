@@ -1,0 +1,49 @@
+{
+    "Healthcare Application Development": {
+        "Development and Interoperability": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/E9C01FD747E41EEDA8DE61F80CFBE7CE",
+            "content": {
+                "Clinical Study Master": {
+                    "content": {
+                        "Clinical Study Master (Clin. Supply Mgmt Planning)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EECA98C503517053D9A",
+                            "content": {
+                                "svp": "Support setup of study parameters, site groups, milestones, enrollment figures, treatment schedules, and kit design",
+                                "parent_description": "Clinical study master involves setting up study master data including completion checks, guided review, and integration to the material master in the SAP solution.",
+                                "description": [
+                                    "Create a new study master object in the SAP solution as a connection point.",
+                                    "Carry clinically relevant parameters such as site groups, milestones, enrollment figures, treatment groups, and packaging levels.",
+                                    "Define complex treatment schedules (including graphical visualization).",
+                                    "Provide built-in support for various study types such as titration, dose escalation, adaptive studies, and platform trials.",
+                                    "Integrate with clinical trial supplies management and interactive response technology dispensation data.",
+                                    "Integrate with the material master for SAP S/4HANA.<br>"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Clinical study master involves setting up study master data including completion checks, guided review, and integration to the material master in the SAP solution."
+                },
+                "Health Data Services": {
+                    "content": {
+                        "Health Data Services": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/E7E0E329C3991EDDA8DE63AC781868F3",
+                            "content": {
+                                "svp": "Accelerate design, implementation, and operation of a native cloud application or service relying on health-related data",
+                                "parent_description": "Health data services involves receiving, storing, and working with health data using international standards.",
+                                "description": [
+                                    "Implement the Health Level 7 Fast Healthcare Interoperability Resources (HL7 FHIR) standard using SAP Business Technology Platform (SAP BTP) as a platform as a service.",
+                                    "Manage health data with HL7 FHIR on SAP BTP and SAP HANA Cloud.",
+                                    "Connect with HL7 FHIR using REST and messaging APIs.",
+                                    "Profile resources, data types, extensions, and API features.",
+                                    "Leverage content-driven development with HL7 FHIR packages.",
+                                    "Support event-driven business processes in healthcare."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Health data services involves receiving, storing, and working with health data using international standards."
+                }
+            }
+        }
+    }
+}

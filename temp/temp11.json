@@ -1,0 +1,1498 @@
+{
+    "Supply Chain": {
+        "Logistics": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B28C5D91ED892E948747B96E0CC",
+            "content": {
+                "Advanced Business Process Scheduling": {
+                    "content": {
+                        "Advanced Business Process Scheduling (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF2BD7A91C9B2",
+                            "content": {
+                                "svp": "Optimize resource utilization with high scheduling precision&nbsp;",
+                                "parent_description": "Advanced business process scheduling involves planning dates and times for logistical activities in different business processes. It enables more-sophisticated scheduling capabilities, for example, more-granular definition of durations and working times of logistical activities for customer-specific use cases.",
+                                "description": [
+                                    "Leverage more-sophisticated scheduling capabilities for customer-specific use cases, such as more-granular definition of durations and working times of logistical activities.",
+                                    "Flexibly enable multiple scheduling providers to determine the durations and dates of events.",
+                                    "Calculate all logistically relevant dates based on the most-accurate durations and calendars for the involved activities and entities."
+                                ]
+                            }
+                        },
+                        "Advanced Business Process Scheduling (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EECB9FB617A0C875B40",
+                            "content": {
+                                "svp": "Optimize resource utilization with high scheduling precision",
+                                "parent_description": "Advanced business process scheduling involves planning dates and times for logistical activities in different business processes. It enables more-sophisticated scheduling capabilities, for example, more-granular definition of durations and working times of logistical activities for customer-specific use cases.",
+                                "description": [
+                                    "Leverage more-sophisticated scheduling capabilities for customer-specific use cases, such as more-granular definition of durations and working times of logistical activities.",
+                                    "Flexibly enable multiple scheduling providers to determine the durations and dates of events.",
+                                    "Calculate all logistically relevant dates based on the most-accurate durations and calendars for the involved activities and entities."
+                                ]
+                            }
+                        },
+                        "Advanced Business Process Scheduling (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EECB9FB4257979C06DE",
+                            "content": {
+                                "svp": "Optimize resource utilization with high scheduling precision&nbsp;",
+                                "parent_description": "Advanced business process scheduling involves planning dates and times for logistical activities in different business processes. It enables more-sophisticated scheduling capabilities, for example, more-granular definition of durations and working times of logistical activities for customer-specific use cases.",
+                                "description": [
+                                    "Leverage more-sophisticated scheduling capabilities for customer-specific use cases, such as more-granular definition of durations and working times of logistical activities.",
+                                    "Flexibly enable multiple scheduling providers to determine the durations and dates of events.",
+                                    "Calculate all logistically relevant dates based on the most-accurate durations and calendars for the involved activities and entities."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Advanced business process scheduling involves planning dates and times for logistical activities in different business processes. It enables more-sophisticated scheduling capabilities, for example, more-granular definition of durations and working times of logistical activities for customer-specific use cases."
+                },
+                "Augmented Reality for the workplace": {
+                    "content": {
+                        "Augmented Reality for the workplace (EWM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9299AB65600CC",
+                            "content": {
+                                "svp": "Transform user experience and productivity by enabling augmented reality for the workplace",
+                                "parent_description": "Augmented reality for the workplace involves using augmented reality through wearables and smart glasses to empower employees to work hands-free using gestures and voice recognition to access information.",
+                                "description": [
+                                    "Speed up decision making and boost productivity and service quality in the workplace using augmented reality through wearables and smart glasses across the value chain",
+                                    "Empower employees to work hands-free using gestures and voice recognition to access information",
+                                    "Narrow knowledge gaps quickly with remote expert calling, visualization, and animation"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Augmented reality for the workplace involves using augmented reality through wearables and smart glasses to empower employees to work hands-free using gestures and voice recognition to access information."
+                },
+                "Available-to-Promise": {
+                    "content": {
+                        "Available-to-Promise  (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D6D420CC",
+                            "content": {
+                                "svp": "Provide order commitments based on actual stock information to enhance customer satisfaction",
+                                "parent_description": "Available to promise involves providing commitment dates to orders according to business rules, taking into account material availability, and enforcing allocations.",
+                                "description": [
+                                    "Provide order promising commitment dates and quantities during order creation and change processes.",
+                                    "Consider material availability when promising orders.",
+                                    "Provide delivery commitments for promised orders."
+                                ]
+                            }
+                        },
+                        "Available-to-Promise (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF2DC4BB0C9CD",
+                            "content": {
+                                "svp": "Provide order commitments based on real-time stock information to enhance customer satisfaction",
+                                "parent_description": "Available to promise involves providing commitment dates to orders according to business rules, taking into account material availability, and enforcing allocations.",
+                                "description": [
+                                    "Provide order-promising commitment dates and quantities more quickly during order creation and change processes.",
+                                    "Consider material availability when promising orders.",
+                                    "Provide delivery commitments for promised orders to enhance customer satisfaction.​"
+                                ]
+                            }
+                        },
+                        "Available-to-Promise (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E925DF216660CC",
+                            "content": {
+                                "svp": "Provide order commitments based on real-time stock information to enhance customer satisfaction",
+                                "parent_description": "Available to promise involves providing commitment dates to orders according to business rules, taking into account material availability, and enforcing allocations.",
+                                "description": [
+                                    "Provide order-promising commitment dates and quantities during order creation and change processes.",
+                                    "Consider material availability when promising orders.",
+                                    "Provide delivery commitments for promised orders to enhance customer satisfaction.​"
+                                ]
+                            }
+                        },
+                        "Available-to-Promise (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E925DF216520CC",
+                            "content": {
+                                "svp": "Provide order commitments based on real-time stock information to enhance customer satisfaction",
+                                "parent_description": "Available to promise involves providing commitment dates to orders according to business rules, taking into account material availability, and enforcing allocations.",
+                                "description": [
+                                    "Provide order-promising commitment dates and quantities more quickly during order creation and change processes.",
+                                    "Consider material availability when promising orders.",
+                                    "Provide delivery commitments for promised orders to enhance customer satisfaction.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Available to promise involves providing commitment dates to orders according to business rules, taking into account material availability, and enforcing allocations."
+                },
+                "Basic Shipping": {
+                    "content": {
+                        "Basic Shipping (S/4 CLD Private comp. scope)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF318EEE4C9E3",
+                            "content": {
+                                "svp": "Efficiently plan and process transports with maximum control and transparency",
+                                "parent_description": "Basic shipping involves planning and execution for both inbound and outbound processes. It allows users to control and monitor the entire transportation process from the planning stage through goods issue at the shipping point (outbound) or vendor location (inbound) to goods receipt at the customer location or the user's own plant.",
+                                "description": [
+                                    "Receive deliveries and create shipments.",
+                                    "Execute transportation with related preparation steps and operational activities.",
+                                    "Monitor shipment completion.",
+                                    "Calculate and settle transportation costs with carriers."
+                                ]
+                            }
+                        },
+                        "Basic Shipping (S/4 comp. scope)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDBB1F0CA0D3B0E2802",
+                            "content": {
+                                "svp": "Efficiently plan and process transports with maximum control and transparency",
+                                "parent_description": "Basic shipping involves planning and execution for both inbound and outbound processes. It allows users to control and monitor the entire transportation process from the planning stage through goods issue at the shipping point (outbound) or vendor location (inbound) to goods receipt at the customer location or the user's own plant.",
+                                "description": [
+                                    "Receive deliveries and create shipments.",
+                                    "Execute transportation with related preparation steps and operational activities.",
+                                    "Monitor shipment completion.",
+                                    "Calculate and settle transportation costs with carriers."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Basic shipping involves planning and execution for both inbound and outbound processes. It allows users to control and monitor the entire transportation process from the planning stage through goods issue at the shipping point (outbound) or vendor location (inbound) to goods receipt at the customer location or the user's own plant."
+                },
+                "Capable to Promise": {
+                    "content": {
+                        "Capable to Promise (SCM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71EDA8E8C8133822FA0E0",
+                            "content": {
+                                "svp": "Provide commitments to orders considering production capacity",
+                                "parent_description": "Capable to Promise​ is a function that integrates APO global Available to Promise (gATP) with APO Production Planning and Detailed Scheduling (PP/DS), and during ATP check if the requested product is not completely available, it checks if the remaining quantities can be produced or procured externally to fulfill the requirement.​",
+                                "description": [
+                                    "Enhance customer satisfaction by providing accurate commitment dates to orders considering production capacity",
+                                    "Boost performance by considering actual production constraints while committing order promises",
+                                    "Help ensure profitability by choosing the right product mix with block planning while committing to orders ​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Capable to Promise​ is a function that integrates APO global Available to Promise (gATP) with APO Production Planning and Detailed Scheduling (PP/DS), and during ATP check if the requested product is not completely available, it checks if the remaining quantities can be produced or procured externally to fulfill the requirement.​"
+                },
+                "Carrier Booking": {
+                    "content": {
+                        "Carrier Booking (Transport Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463DFE0CC",
+                            "content": {
+                                "svp": "Automate a collaborative environment for carrier booking",
+                                "parent_description": "Carrier booking involves reserving ocean and air carrier capacity for domestic and international shipments.",
+                                "description": [
+                                    "Collaborate with carriers when booking ocean- and air-carrier capacity for domestic or international shipments.",
+                                    "Prebook or post-book capacity using a Web-enabled collaborative process.",
+                                    "Enable carrier booking confirmations and shipping instructions through flexible and automated workflows with dynamic change control."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Carrier booking involves reserving ocean and air carrier capacity for domestic and international shipments."
+                },
+                "Delivery Management": {
+                    "content": {
+                        "Delivery Management (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78D0C0CC",
+                            "content": {
+                                "svp": "Improve order fulfilment with integrated logistics execution across pick, pack, and ship processes",
+                                "parent_description": "Delivery management involves picking, packing, and shipping processes to deliver products on time to the correct locations.",
+                                "description": [
+                                    "Improve picking, packing, and shipping processes to ensure the right products are delivered to the right place at the right time and incoming goods are received into storage in an efficient manner.",
+                                    "Streamline material flows, manage customer communication and collaboration, and establish transparency across end-to-end warehouse operations.",
+                                    "Increase process transparency through stakeholder communication, for example, by sending and receiving advance shipping notifications"
+                                ]
+                            }
+                        },
+                        "Delivery Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF385F28A4A06",
+                            "content": {
+                                "svp": "Improve order fulfilment with integrated logistics execution across pick, pack, and ship processes",
+                                "parent_description": "Delivery management involves picking, packing, and shipping processes to deliver products on time to the correct locations.",
+                                "description": [
+                                    "Improve picking, packing, and shipping processes to ensure the right products are delivered to the right place at the right time and incoming goods are received into storage in an efficient manner.",
+                                    "Streamline material flows, manage customer communication and collaboration, and establish transparency across end-to-end warehouse operations with embedded analytics.",
+                                    "Increase process transparency through stakeholder communication, for example, by sending and receiving advance shipping notifications.​"
+                                ]
+                            }
+                        },
+                        "Delivery Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78D200CC",
+                            "content": {
+                                "svp": "Improve order fulfilment with integrated logistics execution across pick, pack, and ship processes",
+                                "parent_description": "Delivery management involves picking, packing, and shipping processes to deliver products on time to the correct locations.",
+                                "description": [
+                                    "Improve picking and shipping processes to ensure the right products are delivered to the right place at the right time and incoming goods are received into storage in an efficient manner.",
+                                    "Streamline material flows, manage customer communication and collaboration, and establish transparency across end-to-end warehouse operations.",
+                                    "Increase process transparency through stakeholder communication, for example, by sending and receiving advance shipping notifications."
+                                ]
+                            }
+                        },
+                        "Delivery Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78D160CC",
+                            "content": {
+                                "svp": "Improve order fulfilment with integrated logistics execution across pick, pack, and ship processes",
+                                "parent_description": "Delivery management involves picking, packing, and shipping processes to deliver products on time to the correct locations.",
+                                "description": [
+                                    "Improve picking, packing, and shipping processes to ensure the right products are delivered to the right place at the right time and incoming goods are received into storage in an efficient manner.",
+                                    "Streamline material flows, manage customer communication and collaboration, and establish transparency across end-to-end warehouse operations with embedded analytics.",
+                                    "Increase process transparency through stakeholder communication, for example, by sending and receiving advance shipping notifications.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Delivery management involves picking, packing, and shipping processes to deliver products on time to the correct locations."
+                },
+                "Dock Appointment Scheduling": {
+                    "content": {
+                        "Dock Appointment Scheduling (EWM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278B900CC",
+                            "content": {
+                                "svp": "Achieve more accurate and efficient dock planning and appointment scheduling",
+                                "parent_description": "Dock appointment scheduling includes planning and supervising appointments; collaborating with logistics, shippers, and receivers; orchestrating warehouse arrivals and departures; and scheduling available labor and resources.",
+                                "description": [
+                                    "Enable flexible dock appointment planning, supervision, and partner collaboration in an integrated platform.",
+                                    "Get real-time visibility of dock appointments, warehouse arrivals and departures, and available labor and resources.",
+                                    "Improve communication among shippers and carriers to reduce operational issues, manage appointments, and measure performance."
+                                ]
+                            }
+                        },
+                        "Dock Appointment Scheduling (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278B9A0CC",
+                            "content": {
+                                "svp": "Achieve easier and more accurate dock door planning and appointment scheduling",
+                                "parent_description": "Dock appointment scheduling includes planning and supervising appointments; collaborating with logistics, shippers, and receivers; orchestrating warehouse arrivals and departures; and scheduling available labor and resources.",
+                                "description": [
+                                    "Achieve flexible appointment planning, supervision, and partner collaboration using an integrated platform.",
+                                    "Get real-time visibility into dock appointments, warehouse arrivals and departures, and available labor and resources.",
+                                    "Improve communication among shippers and carriers to reduce operational issues, manage appointments, and measure performance."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Dock appointment scheduling includes planning and supervising appointments; collaborating with logistics, shippers, and receivers; orchestrating warehouse arrivals and departures; and scheduling available labor and resources."
+                },
+                "Explosives Warehouse Management": {
+                    "content": {
+                        "Explosives Warehouse Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8B093B89CEB7C00CF",
+                            "content": {
+                                "svp": "Streamline explosive stock management with precise insight into storage locations and bin contents according to compliance and safety rules",
+                                "parent_description": "Explosives warehouse management includes warehouse management processes in the area of&nbsp; explosives management like item unique identification, compliance check algorithm on explosives and visualize the storage of explosives.​",
+                                "description": [
+                                    "Enable \"item unique identification\" (IUID) across SAP S/4HANA, including in SAP EWM, allowing better sensitive material identification.",
+                                    "Support handling of stocks in SAP EWM application by introducing the \"Flexible Bin Creation\" concept allowing automatic creation and deletion of the storage bins during warehouse activities, bin ID syntax checks and consistency checks of bin coordinates.",
+                                    "Provides precise insight into the storage facility and bin contents as well as necessary information to make sure that the material is placed or taken away correctly – adhering to the compliance and safety rules for explosives"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Explosives warehouse management includes warehouse management processes in the area of  explosives management like item unique identification, compliance check algorithm on explosives and visualize the storage of explosives.​"
+                },
+                "Extended Warehouse Management": {
+                    "content": {
+                        "Extended Warehouse Management (EWM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1436B80CC",
+                            "content": {
+                                "svp": "Optimize warehouse operations and deliver orders efficiently with extended warehouse management",
+                                "parent_description": "Extended Warehouse management includes automating and optimizing warehouse oprations.",
+                                "description": [
+                                    "Optimize end to end warehouse operations, including inbound processing, cross-docking, outbound processing, labor management, storage and physical inventory processes.",
+                                    "Run decentralized EWM instance suitable for multi ERP connections, high volume operations for large warehouses, high availability and performance and connection to automation."
+                                ]
+                            }
+                        },
+                        "Extended Warehouse Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF3A840244A14",
+                            "content": {
+                                "svp": "Deliver the optimal order through extended warehouse management",
+                                "parent_description": "Extended Warehouse management includes automating and optimizing warehouse oprations.",
+                                "description": [
+                                    "Automate extended warehouse operations, including inbound processing, cross-docking, outbound processing, warehouse storage, and physical inventory management.",
+                                    "Support workforce management, slotting and advanced inventory optimization.",
+                                    "Improve asset utilization, throughput and safety, and ensure on-time compliant and accurate order fulfillment.",
+                                    "Support billing, transit warehousing for logistics service providers, and connectivity to warehouse automation equipment."
+                                ]
+                            }
+                        },
+                        "Extended Warehouse Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1436CC0CC",
+                            "content": {
+                                "svp": "Deliver the optimal order through extended warehouse management",
+                                "parent_description": "Extended Warehouse management includes automating and optimizing warehouse oprations.",
+                                "description": [
+                                    "Automate extended warehouse operations, including inbound processing, cross-docking, outbound processing, warehouse storage, and physical inventory management.",
+                                    "Support workforce management, slotting and advanced inventory optimization.",
+                                    "Improve asset utilization, throughput and safety, and ensure on-time compliant and accurate order fulfillment.",
+                                    "Support billing, transit warehousing for logistics service providers, and connectivity to warehouse automation equipment."
+                                ]
+                            }
+                        },
+                        "Extended Warehouse Management Integration (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1436D60CC",
+                            "content": {
+                                "svp": "Deliver the optimal order through extended warehouse management",
+                                "parent_description": "Extended Warehouse management includes automating and optimizing warehouse oprations.",
+                                "description": [
+                                    "Streamline location&nbsp;management&nbsp;and material handling operations with predefined business process&nbsp;integration.",
+                                    "Integrate these operations between SAP S/4HANA Cloud and SAP&nbsp;Extended Warehouse Management&nbsp;(SAP EWM) using qRFC technology.",
+                                    "Integrate product, customer, and vendor master data between SAP S/4HANA Cloud and SAP EWM.",
+                                    "Integrate inbound purchase order and receipts, outbound sales order and delivery processes, stock transfer, production, batch management, and customer returns."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Extended Warehouse management includes automating and optimizing warehouse oprations."
+                },
+                "Freight Collaboration": {
+                    "content": {
+                        "Freight Collaboration (SBNLog)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1433660CC",
+                            "content": {
+                                "svp": "Reduce costs and automate the contract-to-settlement process with visibility and insight with carriers and logistics services providers.",
+                                "parent_description": "<br><br><br>Freight Collaboration streamlines logistics and warehouse operations through efficient collaboration with a global network of carriers and logistics service providers",
+                                "description": [
+                                    "Onboard once and collaborate with many carriers from multimodal order contracting through settlement.",
+                                    "Benefit from real-time market pricing and capacity to tender and subcontract through the network, and jointly process disputes and the order settlement",
+                                    "Collaboratively align on dock appointments and manage gate processing"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Freight Collaboration streamlines logistics and warehouse operations through efficient collaboration with a global network of carriers and logistics service providers"
+                },
+                "Freight Planning and Optimization": {
+                    "content": {
+                        "Freight Planning and Optimization (Transport Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A14335C0CC",
+                            "content": {
+                                "svp": "Optimize planning processes to balance freight costs and constraints",
+                                "parent_description": "Freight planning and optimization involve arranging, consolidating, and optimizing freight shipments while considering applicable limitations, constraints, costs, and penalties.",
+                                "description": [
+                                    "Cut freight costs and improve customer service by planning and optimizing freight for limitations, constraints, and penalties.",
+                                    "Plan domestic, international, in- and outbound shipments with an optimized visual load planning user Interface.",
+                                    "Address international trade and hazardous goods management requirements with built-in compliance capabilities."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Freight planning and optimization involve arranging, consolidating, and optimizing freight shipments while considering applicable limitations, constraints, costs, and penalties."
+                },
+                "Freight and Forwarding Order Settlement": {
+                    "content": {
+                        "Freight and Forwarding Order Settlement (Transport Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8A2FEFD48B11EE0CB",
+                            "content": {
+                                "svp": "Achieve accurate and timely freight and forwarding order settlements",
+                                "parent_description": "Freight and forwarding order settlement includes carrier and customer freight agreement management, cost and tariff management, charge calculation, and dispute resolution.",
+                                "description": [
+                                    "Manage freight agreements, tariffs, and charges with comprehensive freight and forwarding order settlement.",
+                                    "Integrate transportation costs with financials for freight auditing, carrier payment, customer invoices, internal settlement, company logistics, and cost distribution.",
+                                    "Resolve freight cost disputes faster and collaboratively with partners."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Freight and forwarding order settlement includes carrier and customer freight agreement management, cost and tariff management, charge calculation, and dispute resolution."
+                },
+                "Global Track and Trace": {
+                    "content": {
+                        "Global Track and Trace (SBNLog)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460816B80CC",
+                            "content": {
+                                "svp": "Track order fulfilment and stock in transit and manage exceptions by sensing/responding to logistics insights",
+                                "parent_description": "Global Track and Trace involves tracking and managing the location and condition of goods along the entire supply chain, resolving roadblocks, and using insights for better decisions.",
+                                "description": [
+                                    "Gain visibility into order fulfilment and the location and condition of goods along your supply chain.",
+                                    "Get process transparency, collaborate to identify and address issues with in-transit tracking.",
+                                    "Enable collaboration with logistics partners to improve throughput, reduce wait times, and increase efficiencies.",
+                                    "Use this insight to make focused decisions to lower costs, costly firefighting and excess inventory."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Global Track and Trace involves tracking and managing the location and condition of goods along the entire supply chain, resolving roadblocks, and using insights for better decisions."
+                },
+                "Goods Movement": {
+                    "content": {
+                        "Goods Movement (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED89EDC1A2A023520CA",
+                            "content": {
+                                "svp": "Streamline inbound and outbound logistics processes",
+                                "parent_description": "Goods movement includes posting goods receipts for inbound deliveries and posting goods issues for outbound deliveries.",
+                                "description": [
+                                    "Improve inbound and outbound logistics by streamlining material flow and creating transparency",
+                                    "Integrate barcode and RFID technology to manage just-in-time availability, unit handling, serial numbers, electronic data exchange, and proof of delivery",
+                                    "Minimize delivery errors, speed up fulfillment, improve customer service, and cut operating costs"
+                                ]
+                            }
+                        },
+                        "Goods Movement (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF3D1F0BACA1B",
+                            "content": {
+                                "svp": "Streamline inbound and outbound logistics processes",
+                                "parent_description": "Goods movement includes posting goods receipts for inbound deliveries and posting goods issues for outbound deliveries.",
+                                "description": [
+                                    "Improve inbound and outbound logistics by streamlining material flow and creating transparency.",
+                                    "Integrate barcode and RFID technology to manage just-in-time availability, unit handling, serial numbers, electronic data exchange, and proof of delivery.",
+                                    "Minimize delivery errors, speed up fulfillment, improve customer service, and cut operating costs.",
+                                    "Predict stock-transport order delivery dates using predictive analytics.​"
+                                ]
+                            }
+                        },
+                        "Goods Movement (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/005056821C321ED89EDC1DCFDF8660FE",
+                            "content": {
+                                "svp": "Streamline inbound and outbound logistics processes",
+                                "parent_description": "Goods movement includes posting goods receipts for inbound deliveries and posting goods issues for outbound deliveries.",
+                                "description": [
+                                    "Improve inbound and outbound logistics by streamlining material flow and creating transparency",
+                                    "Integrate barcode and RFID technology to manage just-in-time availability, unit handling, serial numbers, electronic data exchange, and proof of delivery",
+                                    "Minimize delivery errors, speed up fulfillment, improve customer service, and cut operating costs"
+                                ]
+                            }
+                        },
+                        "Goods Movement (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED89EDC1D4FD52F20CC",
+                            "content": {
+                                "svp": "Streamline inbound and outbound logistics processes",
+                                "parent_description": "Goods movement includes posting goods receipts for inbound deliveries and posting goods issues for outbound deliveries.",
+                                "description": [
+                                    "Improve inbound and outbound logistics by streamlining material flow and creating transparency.",
+                                    "Integrate barcode and RFID technology to manage just-in-time availability, unit handling, serial numbers, electronic data exchange, and proof of delivery.",
+                                    "Minimize delivery errors, speed up fulfillment, improve customer service, and cut operating costs.",
+                                    "Predict stock-transport order delivery dates using predictive analytics.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Goods movement includes posting goods receipts for inbound deliveries and posting goods issues for outbound deliveries."
+                },
+                "Intelligent Insights": {
+                    "content": {
+                        "Intelligent Insights (SBNLog)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDC85D7F53413E5B830",
+                            "content": {
+                                "svp": "Improve visibility into global logistics movements, proactively manage risks, and enhance logistics performance",
+                                "parent_description": "Logistics monitoring involves tracking global logistics and freight movements from a centralized control tower view. Review risks and gain data insights from standard and customizable analytics.",
+                                "description": [
+                                    "Monitor global freight movements and in-transit shipments across different modes of transport on a single screen.",
+                                    "Understand supply chain performance with standard and customizable analytics content.",
+                                    "Integrate supply chain risk alerts and understand which in-transit freight movements may be affected and are at risk."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Logistics monitoring involves tracking global logistics and freight movements from a centralized control tower view. Review risks and gain data insights from standard and customizable analytics."
+                },
+                "Inventory Analytics and Control": {
+                    "content": {
+                        "Inventory Analytics and Control (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460813FC0CC",
+                            "content": {
+                                "svp": "Enable real-time reporting in inventory management using analytics",
+                                "parent_description": "Ability to extract insights into supply, stock on hand, and fulfillment activities to drive well-informed decision-making.",
+                                "description": [
+                                    "Make more-informed inventory management decisions with real-time and historical data.",
+                                    "Gain rapid access to relevant information when inquiring about, comparing, or choosing recommended actions for processes.",
+                                    "Accelerate decision-making aligned with supply, inventory, and fulfillment goals through increased insights from analytics.​"
+                                ]
+                            }
+                        },
+                        "Inventory Analytics and Control (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF428E03CCA37",
+                            "content": {
+                                "svp": "Enable real-time reporting in inventory management with SAP S/4HANA",
+                                "parent_description": "Ability to extract insights into supply, stock on hand, and fulfillment activities to drive well-informed decision-making.",
+                                "description": [
+                                    "Make more-informed inventory management decisions with real-time and historical data.",
+                                    "Gain rapid access to relevant information when inquiring about, comparing, or choosing recommended actions for processes.",
+                                    "Enable faster decision-making aligned with supply, inventory, and fulfillment goals through increased insights.",
+                                    "Support inventory managers and warehouse clerks in daily business using relevant operational analytics.​"
+                                ]
+                            }
+                        },
+                        "Inventory Analytics and Control (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED89FED49AADE91C0CC",
+                            "content": {
+                                "svp": "Enable real-time reporting in inventory management with SAP S/4HANA Cloud",
+                                "parent_description": "Ability to extract insights into supply, stock on hand, and fulfillment activities to drive well-informed decision-making.",
+                                "description": [
+                                    "Make more-informed inventory management decisions with real-time and historical data.",
+                                    "Gain rapid access to relevant information when inquiring about, comparing, or choosing recommended actions for processes.",
+                                    "Enable faster decision-making aligned with supply, inventory, and fulfillment goals through increased insights.",
+                                    "Support inventory managers and warehouse clerks in daily business using relevant operational analytics.​"
+                                ]
+                            }
+                        },
+                        "Inventory Analytics and Control (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460814060CC",
+                            "content": {
+                                "svp": "Enable real-time reporting in inventory management with SAP S/4HANA",
+                                "parent_description": "Ability to extract insights into supply, stock on hand, and fulfillment activities to drive well-informed decision-making.",
+                                "description": [
+                                    "Make more-informed inventory management decisions with real-time and historical data.",
+                                    "Gain rapid access to relevant information when inquiring about, comparing, or choosing recommended actions for processes.",
+                                    "Enable faster decision-making aligned with supply, inventory, and fulfillment goals through increased insights.",
+                                    "Support inventory managers and warehouse clerks in daily business using relevant operational analytics.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to extract insights into supply, stock on hand, and fulfillment activities to drive well-informed decision-making."
+                },
+                "Item Serialization and Product Traceability": {
+                    "content": {
+                        "Item Serialization and Product Traceability (EM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED980EEB5808AAC00D4",
+                            "content": {
+                                "svp": "Leverage item serialization for automation and product traceability for compliance",
+                                "parent_description": "Item serialization and product traceability include tracking the location and condition of serialized products over their lifecycles to enable regulatory compliance.",
+                                "description": [
+                                    "Offer full visibility into the lifecycle of serialized products and track products across multiple systems.",
+                                    "Commission and encode tags to GS1, EPCIS, and other standards and automate material handling with auto-ID technologies.",
+                                    "Expedite recalls, facilitate compliance with traceability directives, identify roadblocks, and improve customer service.​"
+                                ]
+                            }
+                        },
+                        "Item Serialization and Product Tracking (Corp. Serial.)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEC85BE9531E4920A74",
+                            "content": {
+                                "svp": "Gain high-resolution tracking insights spanning the lifecycle of uniquely identified products, parts, logistics assets, and components",
+                                "parent_description": "Item serialization and product traceability include tracking the location and condition of serialized products over their lifecycles to enable regulatory compliance.",
+                                "description": [
+                                    "Centrally manage the generation and distribution of unique identifiers for item serialization of products as well as parts, components, and logistics assets.",
+                                    "Perform lifecycle tracking of uniquely identified products and components as well as logistics assets and their aggregations.",
+                                    "Link item-serialized parts, components, and products to their related lots.",
+                                    "Run a central repository solution for item serialization optimized to manage high data volumes.",
+                                    "Integrate with SAP S/4HANA, SAP Extended Warehouse Management, and third-party solutions and capture business transactions and events from distributed systems."
+                                ]
+                            }
+                        },
+                        "Pharmaceutical Item Serialization for Regulatory Compliance (Adv. T&T, Info Collaboration)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/005056821C321ED8BEC17C024F7E2105",
+                            "content": {
+                                "svp": "Comply with worldwide regulations governing item-level serialization for pharmaceutical products",
+                                "parent_description": "Item serialization and product traceability include tracking the location and condition of serialized products over their lifecycles to enable regulatory compliance.",
+                                "description": [
+                                    "Manage all serialization data in an EPCIS-compliant corporate repository for greater efficiency",
+                                    "Streamline the compliance process by integrating line-level packaging systems, enterprise master data, as well as contract manufacturers and other logistics partners",
+                                    "Report serialization data compliant with individual requirements across a growing list of jurisdictions requiring such reporting (the EU, USA, China, and Russia, for example) with greater ease"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Item serialization and product traceability include tracking the location and condition of serialized products over their lifecycles to enable regulatory compliance."
+                },
+                "Material Traceability": {
+                    "content": {
+                        "Material Traceability (SBNMT)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B28C5D91ED9BDB13EF37E9D60E0",
+                            "content": {
+                                "svp": "Create a trust chain with up- and downstream product genealogy for batch-managed and serialized products",
+                                "parent_description": "Blockchain Based Material Traceability includes traceability of&nbsp;multi-ingredient food production across an n-tiered supply chain​ leveraging blockchain technology.",
+                                "description": [
+                                    "Enable data sharing across a multi-tier supply chain network to improve end-to-end visibility.",
+                                    "Support multicomponent provenance for batch-managed and serialized products.",
+                                    "Capture the complete material provenance, from raw material origin to finished product.",
+                                    "Share information and facilitate intercompany product recalls.",
+                                    "Alert supply chain partners of any product issues."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Blockchain Based Material Traceability includes traceability of multi-ingredient food production across an n-tiered supply chain​ leveraging blockchain technology."
+                },
+                "Mobile Inventory Management": {
+                    "content": {
+                        "Mobile Inventory Management (Asset Mgr, ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDC90C80D759B7D36D0",
+                            "content": {
+                                "svp": "Optimize stockroom productivity through efficient mobile inventory management",
+                                "parent_description": "Mobile inventory management involves the use of mobile devices to conduct physical and cycle counts, check availability of materials and stock, and support inbound receiving and outbound shipment processes.",
+                                "description": [
+                                    "Leverage the native mobile app to perform a wide range of material movements.",
+                                    "Receive and issue materials by inbound delivery, outbound delivery, purchase order, or production order (optionally through bar code scanning).",
+                                    "Look up and transfer stock between storage locations and between plants.",
+                                    "Use the native mobile app to increase accuracy and speed in physical inventory counting including cycle counts."
+                                ]
+                            }
+                        },
+                        "Mobile Inventory Management (Asset Mgr, S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF471B6470A50",
+                            "content": {
+                                "svp": "Optimize stockroom productivity through efficient mobile inventory management",
+                                "parent_description": "Mobile inventory management involves the use of mobile devices to conduct physical and cycle counts, check availability of materials and stock, and support inbound receiving and outbound shipment processes.",
+                                "description": [
+                                    "Leverage the native mobile app to perform a wide range of material movements.",
+                                    "Receive and issue materials by inbound delivery, outbound delivery, purchase order, or production order (optionally through bar code scanning).",
+                                    "Look up and transfer stock between storage locations and between plants.",
+                                    "Use the native mobile app to increase accuracy and speed in physical inventory counting including cycle counts."
+                                ]
+                            }
+                        },
+                        "Mobile Inventory Management (Asset Mgr, S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDBB6E7CACCE7AE071F",
+                            "content": {
+                                "svp": "Optimize stockroom productivity through efficient mobile inventory management",
+                                "parent_description": "Mobile inventory management involves the use of mobile devices to conduct physical and cycle counts, check availability of materials and stock, and support inbound receiving and outbound shipment processes.",
+                                "description": [
+                                    "Leverage the native mobile app to perform a wide range of material movements.",
+                                    "Receive and issue materials by inbound delivery, outbound delivery, purchase order, or production order (optionally through bar code scanning).",
+                                    "Look up and transfer stock between storage locations and between plants.",
+                                    "Use the native mobile app to increase accuracy and speed in physical inventory counting including cycle counts."
+                                ]
+                            }
+                        },
+                        "Mobile Inventory Management (Inventory, ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF87FC0CC",
+                            "content": {
+                                "svp": "Optimize stockroom productivity through efficient mobile inventory management",
+                                "parent_description": "Mobile inventory management involves the use of mobile devices to conduct physical and cycle counts, check availability of materials and stock, and support inbound receiving and outbound shipment processes.",
+                                "description": [
+                                    "Optimize operations and improve service using precise tracking and paperless mobile inventory management.",
+                                    "Perform physical and cycle counts quickly with greater accuracy and check availability of materials.",
+                                    "Accept and distribute materials by purchase or production order.",
+                                    "Speed receipt and back-order reporting to and from shipping and receiving."
+                                ]
+                            }
+                        },
+                        "Mobile Inventory Management (Inventory, S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3A4787E21EEB96F983EB3963255B",
+                            "content": {
+                                "svp": "Optimize stockroom productivity through efficient mobile inventory management",
+                                "parent_description": "Mobile inventory management involves the use of mobile devices to conduct physical and cycle counts, check availability of materials and stock, and support inbound receiving and outbound shipment processes.",
+                                "description": [
+                                    "Receive materials by inbound delivery, purchase order, or production order (optionally through bar code scanning) with responsive SAP Fiori apps in SAP S/4HANA.",
+                                    "Create initial stock; transfer stock between stock types, between storage locations, and between plants; and scrap stock using responsive SAP Fiori apps in SAP S/4HANA.",
+                                    "Use the native SAP Inventory Manager mobile app to perform mobile inventory operations independent from a network connection, with full scanning capabilities.",
+                                    "Leverage the native mobile app to perform a wide range of material movements and material receipts remotely.",
+                                    "Use the native mobile app to increase accuracy and speed in physical inventory counting including cycle counts."
+                                ]
+                            }
+                        },
+                        "Mobile Inventory Management (mInventory)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/2555F20284E91EEE85D094E975096642",
+                            "content": {
+                                "svp": "Enable a full range of warehouse transactions to be completed in real time",
+                                "parent_description": "Mobile inventory management involves the use of mobile devices to conduct physical and cycle counts, check availability of materials and stock, and support inbound receiving and outbound shipment processes.",
+                                "description": [
+                                    "Digitize and automate processes to eliminate paper work.",
+                                    "Provide real-time tracking of inventory, including the batch wise stock available in respective storage locations.",
+                                    "Integrate with SAP and barcode technologies"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Mobile inventory management involves the use of mobile devices to conduct physical and cycle counts, check availability of materials and stock, and support inbound receiving and outbound shipment processes."
+                },
+                "Physical Inventory": {
+                    "content": {
+                        "Physical Inventory (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF49A43E4CA5A",
+                            "content": {
+                                "svp": "Enable real-time reporting on your company’s warehouse stocks and inventory for greater transparency",
+                                "parent_description": "Physical inventory involves recording the physical quantities of your&nbsp;company’s warehouse stocks for balance sheet purposes.​",
+                                "description": [
+                                    "Improve transparent view on available stocks.",
+                                    "Enable faster and more-efficient processing of inventory adjustments.",
+                                    "Record the physical quantities of your&nbsp;company’s warehouse for a company’s own stock and for special stocks."
+                                ]
+                            }
+                        },
+                        "Physical Inventory (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/005056821C321ED99F9051F97A72010B",
+                            "content": {
+                                "svp": "Enable real-time reporting on your company’s warehouse stocks and inventory for greater transparency",
+                                "parent_description": "Physical inventory involves recording the physical quantities of your&nbsp;company’s warehouse stocks for balance sheet purposes.​",
+                                "description": [
+                                    "Improve transparent view on available stocks.",
+                                    "Enable faster and more-efficient processing of inventory adjustments.",
+                                    "Record the physical quantities of your&nbsp;company’s warehouse for a company’s own stock and for special stocks."
+                                ]
+                            }
+                        },
+                        "Physical Inventory (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED99F90512B502CA0D8",
+                            "content": {
+                                "svp": "Enable real-time reporting on your company’s warehouse stocks and inventory for greater transparency",
+                                "parent_description": "Physical inventory involves recording the physical quantities of your&nbsp;company’s warehouse stocks for balance sheet purposes.​",
+                                "description": [
+                                    "Improve transparent view on available stocks.",
+                                    "Enable faster and more-efficient processing of inventory adjustments.",
+                                    "Record the physical quantities of your&nbsp;company’s warehouse for a company’s own stock and for special stocks."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Physical inventory involves recording the physical quantities of your company’s warehouse stocks for balance sheet purposes.​"
+                },
+                "Product Genealogy": {
+                    "content": {
+                        "Product Genealogy (Global Batch)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E470A80CC",
+                            "content": {
+                                "svp": "Comprehensively trace batch-managed products and components across the supply network",
+                                "parent_description": "Product Genealogy involves tracing batch-managed materials and components as well as the associated handling units across distributed batch record systems. It includes collaborative analysis to identify the root cause of quality defects and reporting to facilitate targeted holds, withdrawals, or recalls.",
+                                "description": [
+                                    "Product genealogy enables the traceability of batch managed materials and components",
+                                    "Product genealogy enables associated handling units across distributed batch record systems",
+                                    "It supports you in performing collaborative root cause analysis in case of quality defects and provides instant reporting to facilitate targeted holds, withdrawals or recalls."
+                                ]
+                            }
+                        },
+                        "Product Genealogy (SAP Global Batch Traceability on SAP S/4HANA)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/29FF794B25B91EDF96F625C1C3657681",
+                            "content": {
+                                "svp": "Trace batches and perform reporting on data captured from distributed corporate batch record systems",
+                                "parent_description": "Product Genealogy involves tracing batch-managed materials and components as well as the associated handling units across distributed batch record systems. It includes collaborative analysis to identify the root cause of quality defects and reporting to facilitate targeted holds, withdrawals, or recalls.",
+                                "description": [
+                                    "Trace the genealogy and distribution of batch managed products.",
+                                    "Capture and link batch usage data from distributed batch record systems in a single corporate batch traceability repository.",
+                                    "If batch quality issues arise, use reports to immediately place holds, make withdrawals, or take recall actions.",
+                                    "Protect your brand from quality issues.",
+                                    "Assure customers of product quality by promoting the traceability of your batch managed products."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Product Genealogy involves tracing batch-managed materials and components as well as the associated handling units across distributed batch record systems. It includes collaborative analysis to identify the root cause of quality defects and reporting to facilitate targeted holds, withdrawals, or recalls."
+                },
+                "Returnable Packaging Logistics": {
+                    "content": {
+                        "Returnable Packaging Logistics (Return Pack Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631EDB80AE8D1961F600FD",
+                            "content": {
+                                "svp": "Manage the inventory and logistics of returnable packaging in the supply chain",
+                                "parent_description": "Returnable packaging logistics includes managing the tracking, shipping, and receiving of returnable packaging materials to and from business partners to minimize loss, waste, and damage of the packages.",
+                                "description": [
+                                    "Track shipping and receiving of returnable packaging materials to and from business partners using a real-time solution.",
+                                    "Gain visibility in materials distribution and reduce overall volume of materials by integrating logistics information into a single version of the truth.",
+                                    "Analyze and monitor KPIs in an analytical dashboard.",
+                                    "Integrate with multiple backend systems.",
+                                    "Cut cost by avoiding stock-outs for packing and supplying goods.",
+                                    "Reduce operating costs arising from deviant packaging materials.​"
+                                ]
+                            }
+                        },
+                        "Returnable Packaging Logistics (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF4C3FED18A69",
+                            "content": {
+                                "svp": "Manage the inventory and logistics of returnable packaging in the supply chain",
+                                "parent_description": "Returnable packaging logistics includes managing the tracking, shipping, and receiving of returnable packaging materials to and from business partners to minimize loss, waste, and damage of the packages.",
+                                "description": [
+                                    "Track shipping and receiving of returnable packaging materials to and from business partners using a real-time solution.",
+                                    "Gain visibility in materials distribution and reduce overall volume of materials by integrating logistics information into a single version of the truth.",
+                                    "Cut cost by avoiding stock-outs for packing and supplying goods.",
+                                    "Reduce operating costs arising from deviant packaging materials."
+                                ]
+                            }
+                        },
+                        "Returnable Packaging Logistics (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9275D5F00C0CC",
+                            "content": {
+                                "svp": "Manage the inventory and logistics of returnable packaging in the supply chain",
+                                "parent_description": "Returnable packaging logistics includes managing the tracking, shipping, and receiving of returnable packaging materials to and from business partners to minimize loss, waste, and damage of the packages.",
+                                "description": [
+                                    "Track shipping and receiving of returnable packaging materials to and from business partners using a real-time solution.",
+                                    "Gain visibility in materials distribution and reduce overall volume of materials by integrating logistics information into a single version of the truth.",
+                                    "Cut cost by avoiding stock-outs for packing and supplying goods.",
+                                    "Reduce operating costs arising from deviant packaging materials."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Returnable packaging logistics includes managing the tracking, shipping, and receiving of returnable packaging materials to and from business partners to minimize loss, waste, and damage of the packages."
+                },
+                "Sense and Respond to Logistics Insights": {
+                    "content": {
+                        "Sense and Respond to Logistics Insights (EM S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDC9589F5B130B04642",
+                            "content": {
+                                "svp": "Track assets and stock in transit and manage exceptions by sensing/responding to logistics insights",
+                                "parent_description": "Sense and Respond to Logistics Insights involves tracking and managing the location and condition of goods and assets along the entire supply chain, resolving roadblocks, and using insights for better decisions.",
+                                "description": [
+                                    "Gain visibility into the location and condition of goods and assets along your supply chain.",
+                                    "Get process transparency, collaborate to identify and address issues with in-transit tracking.",
+                                    "Enable collaboration with logistics partners to improve throughput, reduce wait times, and increase efficiencies.",
+                                    "Use this insight to make focused decisions to lower costs, costly firefighting and excess inventory."
+                                ]
+                            }
+                        },
+                        "Sense and Respond to Logistics Insights (EM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C842680CC",
+                            "content": {
+                                "svp": "Track assets and stock in transit and manage exceptions by sensing/responding to logistics insights",
+                                "parent_description": "Sense and Respond to Logistics Insights involves tracking and managing the location and condition of goods and assets along the entire supply chain, resolving roadblocks, and using insights for better decisions.",
+                                "description": [
+                                    "Gain visibility into the location and condition of goods and assets along your supply chain.",
+                                    "Get process transparency, collaborate to identify and address issues with in-transit tracking.",
+                                    "Enable collaboration with logistics partners to improve throughput, reduce wait times, and increase efficiencies.",
+                                    "Use this insight to make focused decisions to lower costs, costly firefighting and excess inventory."
+                                ]
+                            }
+                        },
+                        "Sense and Respond to Logistics Insights (SBNLog)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED999D17FE5281D00D7",
+                            "content": {
+                                "svp": "Track assets and stock in transit and manage exceptions by sensing/responding to logistics insights",
+                                "parent_description": "Sense and Respond to Logistics Insights involves tracking and managing the location and condition of goods and assets along the entire supply chain, resolving roadblocks, and using insights for better decisions.",
+                                "description": [
+                                    "Gain visibility into the location and condition of goods and assets along your supply chain.",
+                                    "Get process transparency, collaborate to identify and address issues with in-transit tracking.",
+                                    "Enable collaboration with logistics partners to improve throughput, reduce wait times, and increase efficiencies.",
+                                    "Use this insight to make focused decisions to lower costs, costly firefighting and excess inventory."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Sense and Respond to Logistics Insights involves tracking and managing the location and condition of goods and assets along the entire supply chain, resolving roadblocks, and using insights for better decisions."
+                },
+                "Service Parts Fulfillment": {
+                    "content": {
+                        "Service Parts Fulfillment (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C843120CC",
+                            "content": {
+                                "svp": "Streamline service fulfillment processes with integrated service parts management",
+                                "parent_description": "Service Parts Fulfillment involves provisioning service parts for specific discrete activities based on service orders to ensure the parts required for these activities are available when needed.",
+                                "description": [
+                                    "Improve service parts fulfillment through integrated functionality for global parts sourcing, availability, and price optimization.",
+                                    "Gain real-time visibility into service parts inventory across the supply chain and increase efficiency for service parts through aligned processes for parts planning, warehousing, and fulfillment."
+                                ]
+                            }
+                        },
+                        "Service Parts Fulfillment (S/4 CLD Private comp. scope)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF51013294A82",
+                            "content": {
+                                "svp": "Streamline service fulfillment processes with integrated service parts management",
+                                "parent_description": "Service Parts Fulfillment involves provisioning service parts for specific discrete activities based on service orders to ensure the parts required for these activities are available when needed.",
+                                "description": [
+                                    "Improve service parts fulfillment through integrated functionality for global parts sourcing, availability, and price optimization.",
+                                    "Gain real-time visibility into service parts inventory across the supply chain and increase efficiency for service parts through aligned processes for parts planning, warehousing, and fulfillment."
+                                ]
+                            }
+                        },
+                        "Service Parts Fulfillment (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDED5119DA47CF",
+                            "content": {
+                                "svp": "Streamline service fulfillment processes with integrated service parts management",
+                                "parent_description": "Service Parts Fulfillment involves provisioning service parts for specific discrete activities based on service orders to ensure the parts required for these activities are available when needed.",
+                                "description": [
+                                    "Improve service parts fulfillment through integrated functionality for global parts sourcing, availability, and price optimization.",
+                                    "Gain real-time visibility into service parts inventory across the supply chain and increase efficiency for service parts through aligned processes for parts planning, warehousing, and fulfillment."
+                                ]
+                            }
+                        },
+                        "Service Parts Fulfillment (S/4 comp. scope)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C8431C0CC",
+                            "content": {
+                                "svp": "Streamline service fulfillment processes with integrated service parts management",
+                                "parent_description": "Service Parts Fulfillment involves provisioning service parts for specific discrete activities based on service orders to ensure the parts required for these activities are available when needed.",
+                                "description": [
+                                    "Improve service parts fulfillment through integrated functionality for global parts sourcing, availability, and price optimization.",
+                                    "Gain real-time visibility into service parts inventory across the supply chain and increase efficiency for service parts through aligned processes for parts planning, warehousing, and fulfillment."
+                                ]
+                            }
+                        },
+                        "Service Parts Fulfillment (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92B18C68640CC",
+                            "content": {
+                                "svp": "Streamline service fulfillment processes with integrated service parts management",
+                                "parent_description": "Service Parts Fulfillment involves provisioning service parts for specific discrete activities based on service orders to ensure the parts required for these activities are available when needed.",
+                                "description": [
+                                    "Improve service parts fulfillment through integrated functionality for global parts sourcing, availability, and price optimization.",
+                                    "Gain real-time visibility into service parts inventory across the supply chain and increase efficiency for service parts through aligned processes for parts planning, warehousing, and fulfillment."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Service Parts Fulfillment involves provisioning service parts for specific discrete activities based on service orders to ensure the parts required for these activities are available when needed."
+                },
+                "Service Parts Warehousing": {
+                    "content": {
+                        "Service Parts Warehousing (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C843440CC",
+                            "content": {
+                                "svp": "Optimize warehousing activities, including inbound and outbound processing, distribution, and storage",
+                                "parent_description": "Service parts warehousing involves managing logistics and inventory processes related to the warehousing of service parts to optimize their availability.",
+                                "description": [
+                                    "Optimize warehousing activities for service parts, from inbound and outbound processing to distribution and storage.",
+                                    "Increase service levels and control costs by balancing capacity, maximizing throughput, and effectively managing high order volumes.",
+                                    "Streamline supply chain operations with enhanced alignment of parts planning, warehousing, and fulfillment processes.​"
+                                ]
+                            }
+                        },
+                        "Service Parts Warehousing (S/4 CLD Private comp. scope)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF55E1B360AA8",
+                            "content": {
+                                "svp": "Automate service parts warehousing and distribution operations for greater efficiency",
+                                "parent_description": "Service parts warehousing involves managing logistics and inventory processes related to the warehousing of service parts to optimize their availability.",
+                                "description": [
+                                    "Optimize warehousing activities for service parts with inventory analysis apps.",
+                                    "Optimize spare part stock processing to improve asset use and safety and help ensure on-time, compliant, and accurate order fulfillment.",
+                                    "Integrate parts fulfillment, planning, procurement, and warehousing into core materials management to boost efficiency.",
+                                    "Balance capacity, maximize throughput and effectively manage high order volumes to increase service levels and control cost."
+                                ]
+                            }
+                        },
+                        "Service Parts Warehousing (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDED7B610307DA",
+                            "content": {
+                                "svp": "Automate service parts warehousing and distribution operations for greater efficiency",
+                                "parent_description": "Service parts warehousing involves managing logistics and inventory processes related to the warehousing of service parts to optimize their availability.",
+                                "description": [
+                                    "Optimize warehousing activities for service parts with inventory analysis apps.",
+                                    "Optimize spare part stock processing to improve asset use and safety and help ensure on-time, compliant, and accurate order fulfillment.",
+                                    "Integrate parts fulfillment, planning, procurement, and warehousing into core materials management to boost efficiency.",
+                                    "Balance capacity, maximize throughput and effectively manage high order volumes to increase service levels and control cost."
+                                ]
+                            }
+                        },
+                        "Service Parts Warehousing (S/4 comp. scope)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C8434E0CC",
+                            "content": {
+                                "svp": "Automate service parts warehousing and distribution operations for greater efficiency",
+                                "parent_description": "Service parts warehousing involves managing logistics and inventory processes related to the warehousing of service parts to optimize their availability.",
+                                "description": [
+                                    "Optimize warehousing activities for service parts with inventory analysis apps.",
+                                    "Optimize spare part stock processing to improve asset use and safety and help ensure on-time, compliant, and accurate order fulfillment.",
+                                    "Integrate parts fulfillment, planning, procurement, and warehousing into core materials management to boost efficiency.",
+                                    "Balance capacity, maximize throughput and effectively manage high order volumes to increase service levels and control cost."
+                                ]
+                            }
+                        },
+                        "Service Parts Warehousing (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EDBB8F9A46BE19B1B2A",
+                            "content": {
+                                "svp": "Automate service parts warehousing and distribution operations for greater efficiency",
+                                "parent_description": "Service parts warehousing involves managing logistics and inventory processes related to the warehousing of service parts to optimize their availability.",
+                                "description": [
+                                    "Optimize warehousing activities for service parts with inventory analysis apps.",
+                                    "Optimize spare part stock processing to improve asset use and safety and help ensure on-time, compliant, and accurate order fulfillment.",
+                                    "Integrate parts fulfillment, planning, procurement, and warehousing into core materials management to boost efficiency.",
+                                    "Balance capacity, maximize throughput and effectively manage high order volumes to increase service levels and control cost."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Service parts warehousing involves managing logistics and inventory processes related to the warehousing of service parts to optimize their availability."
+                },
+                "Strategic Freight Management": {
+                    "content": {
+                        "Strategic Freight Management (Transport Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C845BA0CC",
+                            "content": {
+                                "svp": "Optimize transportation services with strategic carrier-shipper collaboration and freight management",
+                                "parent_description": "Strategic freight management includes forecasting and assessing transportation requirements as a customer or shipper, investigating rates, requesting transportation bids, negotiating contracts, and ensuring compliance.",
+                                "description": [
+                                    "Forecast and assess transportation requirements, request transportation bids from carriers, and negotiate optimal contracts.",
+                                    "Investigate the best rates, lower spend, gain full cost transparency, and improve service-level predictability.",
+                                    "Determine the best freight forwarder rates to sell transportation services and negotiate freight contracts."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Strategic freight management includes forecasting and assessing transportation requirements as a customer or shipper, investigating rates, requesting transportation bids, negotiating contracts, and ensuring compliance."
+                },
+                "Transportation Execution Monitoring": {
+                    "content": {
+                        "Transportation Execution Monitoring (EM S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3A4780A51EDB959BB3C0D46228DF",
+                            "content": {
+                                "svp": "Obtain transparency into transportation execution processes for users in roles such as transportation dispatcher, shipper, or ordering party",
+                                "parent_description": "Transportation execution includes managing communications with carriers and dispatching and tracking freight orders.",
+                                "description": [
+                                    "Monitor and report on planned events.<br>",
+                                    "Monitor and report on unplanned events such as delays or damage.",
+                                    "Leverage flexible features for event notifications, handling, and status visibility."
+                                ]
+                            }
+                        },
+                        "Transportation Execution and Monitoring": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78D020CC",
+                            "content": {
+                                "svp": "Execute your transportation plan and monitor your freight from loading through delivery",
+                                "parent_description": "Transportation execution includes managing communications with carriers and dispatching and tracking freight orders.",
+                                "description": [
+                                    "Manage your transportation plans and execute through carrier communication and collaboration.",
+                                    "Dispatch and track freight orders and maintain documentation, including printing and reporting.",
+                                    "Achieve dynamic, responsive logistics execution and improve cargo handling with seamless integration of warehouses, international customs, and compliance."
+                                ]
+                            }
+                        },
+                        "Transportation Execution monitoring (SBNLog)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEC85D7811C45B3B8C0",
+                            "content": {
+                                "svp": "Execute your transportation plan and monitor your freight from loading through delivery",
+                                "parent_description": "Transportation execution includes managing communications with carriers and dispatching and tracking freight orders.",
+                                "description": [
+                                    "Manage and execute your transportation plans through carrier communication and collaboration in the logistics network.",
+                                    "Dispatch and track freight orders through integration with carriers and visibility of providers on the network."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Transportation execution includes managing communications with carriers and dispatching and tracking freight orders."
+                },
+                "Transportation Management": {
+                    "content": {
+                        "Advanced Transportation Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF5824CAB8AAE",
+                            "content": {
+                                "svp": "Improve transportation efficiency by holistically managing all inbound and outbound freight",
+                                "parent_description": "Transportation Management supports the complete transportation management lifecycle for both domestic and international freight to improve customer satisfaction. Manage&nbsp;the transportation requirements by planning, optimizing, tendering, and settling freight; booking carriers; managing forwarding orders; and complying with international trade and hazardous goods requirements.",
+                                "description": [
+                                    "Fulfill transportation business goals efficiently and flexibly by improving transportation planning, execution, and costing processes and providing real-time visibility.",
+                                    "Lower operational and administrative costs by holistically managing end-to-end freight requirements.",
+                                    "Optimize carrier costs and reduce revenue leakage by accurately calculating freight.​"
+                                ]
+                            }
+                        },
+                        "Advanced Transportation Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D6C7A0CC",
+                            "content": {
+                                "svp": "Improve transportation efficiency by holistically managing all inbound and outbound freight",
+                                "parent_description": "Transportation Management supports the complete transportation management lifecycle for both domestic and international freight to improve customer satisfaction. Manage&nbsp;the transportation requirements by planning, optimizing, tendering, and settling freight; booking carriers; managing forwarding orders; and complying with international trade and hazardous goods requirements.",
+                                "description": [
+                                    "Fulfill transportation business goals efficiently and flexibly by improving transportation planning, execution, and costing processes and providing real-time visibility.",
+                                    "Lower operational and administrative costs by holistically managing end-to-end freight requirements.",
+                                    "Optimize carrier costs and reduce revenue leakage by accurately calculating freight.​"
+                                ]
+                            }
+                        },
+                        "Bulk Transportation (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463E4E0CC",
+                            "content": {
+                                "svp": "Streamline bulk transportation planning, automate execution with tickets, and calculate demurrage fees",
+                                "parent_description": "Transportation Management supports the complete transportation management lifecycle for both domestic and international freight to improve customer satisfaction. Manage&nbsp;the transportation requirements by planning, optimizing, tendering, and settling freight; booking carriers; managing forwarding orders; and complying with international trade and hazardous goods requirements.",
+                                "description": [
+                                    "Run bulk shipment planning and execution integrated with sales and purchasing processes to reduce costs.",
+                                    "Perform nomination planning and electronic exchange of documents.",
+                                    "Use marine schedules to calculate lay-time and demurrage fees, and perform berth scheduling to improve on-time shipping and handling"
+                                ]
+                            }
+                        },
+                        "Transportation Management (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED8BB9961FD698940D3",
+                            "content": {
+                                "svp": "Process shipments faster with integrated logistics execution to increase customer satisfaction",
+                                "parent_description": "Transportation Management supports the complete transportation management lifecycle for both domestic and international freight to improve customer satisfaction. Manage&nbsp;the transportation requirements by planning, optimizing, tendering, and settling freight; booking carriers; managing forwarding orders; and complying with international trade and hazardous goods requirements.",
+                                "description": [
+                                    "Manage shipping processes for inbound and outbound shipments.",
+                                    "Streamline material flows and manage collaboration with integrated logistics processes for added efficiency.",
+                                    "Automate basic freight costing to receive the total cost of shipment, including transportation and overhead costs.​"
+                                ]
+                            }
+                        },
+                        "Transportation Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF5824CABAAAE",
+                            "content": {
+                                "svp": "Deliver perfect orders with integrated logistics execution processes that improve shipping quality",
+                                "parent_description": "Transportation Management supports the complete transportation management lifecycle for both domestic and international freight to improve customer satisfaction. Manage&nbsp;the transportation requirements by planning, optimizing, tendering, and settling freight; booking carriers; managing forwarding orders; and complying with international trade and hazardous goods requirements.",
+                                "description": [
+                                    "Consolidate shipping processes for inbound and outbound shipments.",
+                                    "Streamline material flows and reduce logistics costs through improved stakeholder communication and transparency across basic transportation processes.",
+                                    "Define comprehensive freight agreements with complex calculation rules and perform accurate freight costing.",
+                                    "Streamline the integration of freight costing with procurement and finance functions.​"
+                                ]
+                            }
+                        },
+                        "Transportation Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/005056821C321ED8A1B97EC702AF40FF",
+                            "content": {
+                                "svp": "Streamline your company’s transportation planning and execution for better process efficiency",
+                                "parent_description": "Transportation Management supports the complete transportation management lifecycle for both domestic and international freight to improve customer satisfaction. Manage&nbsp;the transportation requirements by planning, optimizing, tendering, and settling freight; booking carriers; managing forwarding orders; and complying with international trade and hazardous goods requirements.",
+                                "description": [
+                                    "Manage inbound or outbound transportation for purchase orders or sales orders, to lower transportation costs and achieve on-time delivery.",
+                                    "Perform manual freight planning to create a transportation plan by assigning transportation demand to transportation capacities in SAP S/4HANA Cloud.",
+                                    "Manage freight execution in SAP S/4HANA ​Cloud.",
+                                    "Define comprehensive freight agreements with charge calculation rules and perform accurate freight costing.",
+                                    "Streamline the integration of freight costing and settlement with procurement and finance functions."
+                                ]
+                            }
+                        },
+                        "Transportation Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8A1B97DAFA79780CD",
+                            "content": {
+                                "svp": "Deliver perfect orders with integrated logistics execution processes that improve shipping quality",
+                                "parent_description": "Transportation Management supports the complete transportation management lifecycle for both domestic and international freight to improve customer satisfaction. Manage&nbsp;the transportation requirements by planning, optimizing, tendering, and settling freight; booking carriers; managing forwarding orders; and complying with international trade and hazardous goods requirements.",
+                                "description": [
+                                    "Consolidate shipping processes for inbound and outbound shipments.",
+                                    "Streamline material flows and reduce logistics costs through improved stakeholder communication and transparency across basic transportation processes.",
+                                    "Define comprehensive freight agreements with complex calculation rules and perform accurate freight costing.",
+                                    "Streamline the integration of freight costing with procurement and finance functions.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Transportation Management supports the complete transportation management lifecycle for both domestic and international freight to improve customer satisfaction. Manage the transportation requirements by planning, optimizing, tendering, and settling freight; booking carriers; managing forwarding orders; and complying with international trade and hazardous goods requirements."
+                },
+                "Transportation Requirements Management": {
+                    "content": {
+                        "Transportation Requirements Management (Transport Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78AA00CC",
+                            "content": {
+                                "svp": "Centralize transportation requirements management, from entry through final settlement",
+                                "parent_description": "Transportation requirements management involves receiving and creating order- or delivery-based transportation requirements, managing those requirements from entry to final settlement, and supporting freight planning activities.",
+                                "description": [
+                                    "Manage transportation requirements cohesively by integrating transportation order processing with order-to-cash and order-to-pay processes.",
+                                    "Manage order and delivery-based requirements received manually or electronically with change management.",
+                                    "Reduce redundancy and focus on value-added activities through centralization of requirements management."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Transportation requirements management involves receiving and creating order- or delivery-based transportation requirements, managing those requirements from entry to final settlement, and supporting freight planning activities."
+                },
+                "Transportation Resource Planning": {
+                    "content": {
+                        "Transportation Resource Planning (Transport Planning)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/901B0ED1A0641EDB84ED8B125EDAC0F9",
+                            "content": {
+                                "svp": "Plan, manage, and optimize the use of your transportation resources",
+                                "parent_description": "Transportation resource planning involves planning, managing, and optimizing the use of transportation resources, including forecasting demand for resources, balance transportation resource availability, optimize resource movements and tracking and monitoring of transportation assets.​",
+                                "description": [
+                                    "Monitor the current stock and status of your resources",
+                                    "Obtain forecasts of your supply and demand situation",
+                                    "Track and monitor key performance indicators (KPIs) related to your resources",
+                                    "Optimize the locations and dates for the pick-up and return of your transportation resources",
+                                    "Make the best decision for correcting and preventing resource imbalances​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Transportation resource planning involves planning, managing, and optimizing the use of transportation resources, including forecasting demand for resources, balance transportation resource availability, optimize resource movements and tracking and monitoring of transportation assets.​"
+                },
+                "Warehouse Insights": {
+                    "content": {
+                        "Warehouse Insights (WH Insights)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631ED9BC9454E7476320F0",
+                            "content": {
+                                "svp": "Increase warehouse efficiency through improved visualization, improved resource utilization and optimization.",
+                                "parent_description": "Warehouse Insights involves optimizing warehouse tasks assignment to resources, visualizing warehouse layout, analyzes warehouse operation KPIs, monitoring warehouse operations and integration with IoT.​",
+                                "description": [
+                                    "Leverage algorithms to optimize resource task assignment, simulate resource demand and optimization scenarios and integrate optimized task assignment with backend Warehouse execution.",
+                                    "Visualizes warehouse layout, analyzes warehouse operational KPIs, monitor real-time warehouse operations, and integrate with IOT solutions.​​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Warehouse Insights involves optimizing warehouse tasks assignment to resources, visualizing warehouse layout, analyzes warehouse operation KPIs, monitoring warehouse operations and integration with IoT.​"
+                },
+                "Warehouse Management": {
+                    "content": {
+                        "Warehouse Management (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92B18C692C0CC",
+                            "content": {
+                                "svp": "Deliver the right products to the right place, on time, with integrated logistics execution processes",
+                                "parent_description": "Warehouse management includes controlling warehouse pick, pack, and ship activities and optimizing asset use and throughput.",
+                                "description": [
+                                    "Automate warehouse operations to improve asset usage, increase throughput, and support on-time, accurate order fulfillment.&nbsp;",
+                                    "Increase warehouse operations transparency with streamlined material flows and enhanced customer communication and collaboration.&nbsp;",
+                                    "Accelerate fulfillment and prevent stock-outs for improved customer service.&nbsp;"
+                                ]
+                            }
+                        },
+                        "Warehouse Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF5CB47754AD1",
+                            "content": {
+                                "svp": "Deliver the right products to the right place, on time, with integrated logistics execution processes",
+                                "parent_description": "Warehouse management includes controlling warehouse pick, pack, and ship activities and optimizing asset use and throughput.",
+                                "description": [
+                                    "Automate warehouse operations to improve asset usage, increase throughput, support on-time, and accurate order fulfillment.&nbsp;",
+                                    "Increase warehouse operations transparency with streamlined material flows and enhanced customer communication and collaboration.&nbsp;",
+                                    "Accelerate fulfillment and prevent stock-outs for improved customer service with embedded analytics.&nbsp;"
+                                ]
+                            }
+                        },
+                        "Warehouse Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED897D1D40E0702C0C9",
+                            "content": {
+                                "svp": "Deliver the right products to the right place, on time, with integrated logistics execution processes",
+                                "parent_description": "Warehouse management includes controlling warehouse pick, pack, and ship activities and optimizing asset use and throughput.",
+                                "description": [
+                                    "Automate warehouse operations to improve asset usage, increase throughput, and support on-time, accurate order fulfillment.&nbsp;",
+                                    "Increase warehouse operations transparency with streamlined material flows and enhanced customer communication and collaboration.&nbsp;",
+                                    "Accelerate fulfillment and prevent stock-outs for improved customer service.&nbsp;"
+                                ]
+                            }
+                        },
+                        "Warehouse Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78CF80CC",
+                            "content": {
+                                "svp": "Deliver the right products to the right place, on time, with integrated logistics execution processes",
+                                "parent_description": "Warehouse management includes controlling warehouse pick, pack, and ship activities and optimizing asset use and throughput.",
+                                "description": [
+                                    "Automate warehouse operations to improve asset usage, increase throughput, support on-time, and accurate order fulfillment.&nbsp;",
+                                    "Increase warehouse operations transparency with streamlined material flows and enhanced customer communication and collaboration.&nbsp;",
+                                    "Accelerate fulfillment and prevent stock-outs for improved customer service with embedded analytics.&nbsp;"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Warehouse management includes controlling warehouse pick, pack, and ship activities and optimizing asset use and throughput."
+                },
+                "Warehouse Operator": {
+                    "content": {
+                        "Warehouse Operator (WH Operator)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/EBB49452EF911EEDB3F8FBB0A1FC792C",
+                            "content": {
+                                "svp": "Bring greater flexibility, efficiency, and productivity to the warehouse workforce",
+                                "parent_description": "Warehouse operator involves supporting warehouse workers with all their daily warehouse tasks (inbound, outbound, and internal), by leveraging the latest on-device technologies such as computer vision, contextual awareness, augmented reality, and indoor navigation.",
+                                "description": [
+                                    "Use iPhones to efficiently perform critical warehouse tasks by tapping into the on-device innovations in SAP Warehouse Operator, the next-generation, native iOS mobile app – both now and in the future."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Warehouse operator involves supporting warehouse workers with all their daily warehouse tasks (inbound, outbound, and internal), by leveraging the latest on-device technologies such as computer vision, contextual awareness, augmented reality, and indoor navigation."
+                },
+                "Warehouse Robotics": {
+                    "content": {
+                        "Warehouse Robotics (WH Insights)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EEC98ABDDB9D5707A75",
+                            "content": {
+                                "svp": "Simplifies and speeds up integration of collaborative robots with SAP EWM and makes warehouse automation affordable and intuitive&nbsp;",
+                                "parent_description": "Warehouse robotics involves integration of heterogenous robots from different providers with warehouse management systems to make warehouse automation affordable and straightforward.",
+                                "description": [
+                                    "Streamlines integration of a new generation of collaborative robots with SAP Extended Warehouse Management (SAP EWM), and makes it quicker and easier.",
+                                    "Makes warehouse automation affordable and straightforward.",
+                                    "Enables you to avoid vendor lock-in and run heterogeneous fleets – with no extra integration effort."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Warehouse robotics involves integration of heterogenous robots from different providers with warehouse management systems to make warehouse automation affordable and straightforward."
+                },
+                "Yard and Hub Logistics": {
+                    "content": {
+                        "Yard Logistics (Yard Log S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460816FE0CC",
+                            "content": {
+                                "svp": "Plan, execute and monitor yard processes in a comprehensive solution utilizing mobile UIs and a 3D Yard representation",
+                                "parent_description": "Yard and hub logistics includes managing truck yards, container yards, rail yards, and logistics hubs. It also involves controlling yard- and hub-related movements, loading, and communication between all parties to improve throughput and productivity.",
+                                "description": [
+                                    "Support of automated in-yard steering of vehicles to gain efficient throughput in yard",
+                                    "Industry 4.0 basic features for location based services and mobile edge devices support",
+                                    "Extension of core logistical process in the yard by adding basic maintenance scenarios",
+                                    "Accelerated processes throughout the yard – enabling the customer to process more tasks in the same timeframe and significantly reducing labor costs",
+                                    "Cost reduction through optimal usage of resources through automation of tasks reflecting a higher workload processing at the same timeframe",
+                                    "Fiori-based user experience for end users over the SCM platform on-premise applications"
+                                ]
+                            }
+                        },
+                        "Yard and Hub Logistics (Yard Log ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78C6C0CC",
+                            "content": {
+                                "svp": "Boost visibility into supply chain logistics in yards and hubs through real-time management",
+                                "parent_description": "Yard and hub logistics includes managing truck yards, container yards, rail yards, and logistics hubs. It also involves controlling yard- and hub-related movements, loading, and communication between all parties to improve throughput and productivity.",
+                                "description": [
+                                    "Reduce time needed to allocate vehicles to loads and prioritize shipment arrivals by monitoring and controlling shipments in real time.",
+                                    "Increase throughput of goods and reduce idle time by facilitating communication among all parties.",
+                                    "Reduce time needed to allocate vehicles to loads and prioritize shipment arrivals by monitoring and controlling shipments in real time.",
+                                    "Increase throughput of goods and reduce idle time by facilitating communication between all parties."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Yard and hub logistics includes managing truck yards, container yards, rail yards, and logistics hubs. It also involves controlling yard- and hub-related movements, loading, and communication between all parties to improve throughput and productivity."
+                }
+            }
+        },
+        "Logistics Cross Topics": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/42F2E964F4E71ED9B2CC646D161C60DB",
+            "content": {
+                "Batch Management": {
+                    "content": {
+                        "Batch Management (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED9B2C6E9E007F3A0DB",
+                            "content": {
+                                "svp": "Leverage batch management to improve your product quality, ensure end-to-end traceability, and reduce customer and legal risks",
+                                "parent_description": "Batch management involves handling a quantity or partial quantity of a certain product that has been produced according to the same specification​​",
+                                "description": [
+                                    "Create batch master records and assign specific batch numbers.",
+                                    "Classify batches and reflect important specifications by assigning characteristics.",
+                                    "Build a batch genealogy to automatically comply with legal requirements and track the batches throughout the inventory and the logistic processes.",
+                                    "Use batch management in the logistic processes to improve quality and ensure optimal usage of batches."
+                                ]
+                            }
+                        },
+                        "Batch Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF33BC667C9F2",
+                            "content": {
+                                "svp": "Leverage batch management to improve your product quality, ensure end-to-end traceability, and reduce customer and legal risks",
+                                "parent_description": "Batch management involves handling a quantity or partial quantity of a certain product that has been produced according to the same specification​​",
+                                "description": [
+                                    "Create batch master records and assign specific batch numbers.",
+                                    "Classify batches and reflect important specifications by assigning characteristics.",
+                                    "Build a batch genealogy to automatically comply with legal requirements and track the batches throughout the inventory and the logistic processes.",
+                                    "Use batch management in the logistic processes to improve quality and ensure optimal usage of batches."
+                                ]
+                            }
+                        },
+                        "Batch Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED9B2C6EBD47643A0DD",
+                            "content": {
+                                "svp": "Leverage batch management to improve your product quality, ensure end-to-end traceability, and reduce customer and legal risks",
+                                "parent_description": "Batch management involves handling a quantity or partial quantity of a certain product that has been produced according to the same specification​​",
+                                "description": [
+                                    "Create batch master records and assign specific batch numbers.",
+                                    "Classify batches and reflect important specifications by assigning characteristics.",
+                                    "Build a batch genealogy to automatically comply with legal requirements and track the batches throughout the inventory and the logistic processes.",
+                                    "Use batch management in the logistic processes to improve quality and ensure optimal usage of batches."
+                                ]
+                            }
+                        },
+                        "Batch Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631ED9B2C6EAB73D6DE0EE",
+                            "content": {
+                                "svp": "Leverage batch management to improve your product quality, ensure end-to-end traceability, and reduce customer and legal risks",
+                                "parent_description": "Batch management involves handling a quantity or partial quantity of a certain product that has been produced according to the same specification​​",
+                                "description": [
+                                    "Create batch master records and assign specific batch numbers.",
+                                    "Classify batches and reflect important specifications by assigning characteristics.",
+                                    "Build a batch genealogy to automatically comply with legal requirements and track the batches throughout the inventory and the logistic processes.",
+                                    "Use batch management in the logistic processes to improve quality and ensure optimal usage of batches."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Batch management involves handling a quantity or partial quantity of a certain product that has been produced according to the same specification​​"
+                },
+                "Business Process Scheduling": {
+                    "content": {
+                        "Business Process Scheduling (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF35F00BEC9FB",
+                            "content": {
+                                "svp": "Optimize resource utilization with high scheduling precision&nbsp;",
+                                "parent_description": "Business process scheduling involves planning of dates and times for logistical activities in different business processes.",
+                                "description": [
+                                    "Configure business processes for different business documents such as for sales, stock transports, and outbound deliveries.",
+                                    "Schedule with time granularity in days or seconds."
+                                ]
+                            }
+                        },
+                        "Business Process Scheduling (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EECB9FB2DD1D0634152",
+                            "content": {
+                                "svp": "Optimize resource utilization with high scheduling precision",
+                                "parent_description": "Business process scheduling involves planning of dates and times for logistical activities in different business processes.",
+                                "description": [
+                                    "Configure business processes for different business documents such as for sales, stock transports, and outbound deliveries.",
+                                    "Schedule with time granularity in days or seconds."
+                                ]
+                            }
+                        },
+                        "Business Process Scheduling (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDCB9FABDD62EE130D6",
+                            "content": {
+                                "svp": "Optimize resource utilization with high scheduling precision&nbsp;",
+                                "parent_description": "Business process scheduling involves planning of dates and times for logistical activities in different business processes.",
+                                "description": [
+                                    "Configure business processes for different business documents such as for sales, stock transports, and outbound deliveries.",
+                                    "Schedule with time granularity in days or seconds."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business process scheduling involves planning of dates and times for logistical activities in different business processes."
+                },
+                "Handling Unit Management": {
+                    "content": {
+                        "Handling Unit Management (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/901B0ED1A0641ED9B58C984EA7A2E0E7",
+                            "content": {
+                                "svp": "Reflect packing-based logistics structures and track the movements of entire handling units rather than each material individually",
+                                "parent_description": "Handling unit management includes reflecting packing-based logistics structures in the SAP software system​.​",
+                                "description": [
+                                    "Manage materials that are relevant for segmentation in handling units from cartons to containers and reduce costs through process efficiency.",
+                                    "Use handling unit management in inbound and outbound business processes, goods movement, and transfer posting to improve product traceability.",
+                                    "Expand on the existing packing function in shipping and warehouse processing in the warehouse management system."
+                                ]
+                            }
+                        },
+                        "Handling Unit Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF3F3BF9B8A20",
+                            "content": {
+                                "svp": "Reflect packing-based logistics structures and track the movements of entire handling units rather than each material individually",
+                                "parent_description": "Handling unit management includes reflecting packing-based logistics structures in the SAP software system​.​",
+                                "description": [
+                                    "Manage materials that are relevant for segmentation in handling units from cartons to containers and reduce costs through process efficiency.",
+                                    "Use handling unit management in inbound and outbound business processes, goods movement, and transfer posting to improve product traceability.",
+                                    "Expand on the existing packing function in shipping and warehouse processing in the warehouse management system."
+                                ]
+                            }
+                        },
+                        "Handling Unit Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/901B0ED1A0641EDAA8B0D191CFE000F1",
+                            "content": {
+                                "svp": "Reflect packing-based logistics structures and track the movements of entire handling units rather than each material individually",
+                                "parent_description": "Handling unit management includes reflecting packing-based logistics structures in the SAP software system​.​",
+                                "description": [
+                                    "Manage materials that are relevant for segmentation in handling units from cartons to containers and reduce costs through process efficiency.",
+                                    "Use handling unit management in outbound business processes, goods movement, and transfer posting to improve product traceability.",
+                                    "Expand on the existing packing function in shipping and warehouse processing in the warehouse management system."
+                                ]
+                            }
+                        },
+                        "Handling Unit Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED9B58C98E01626E0DC",
+                            "content": {
+                                "svp": "Reflect packing-based logistics structures and track the movements of entire handling units rather than each material individually",
+                                "parent_description": "Handling unit management includes reflecting packing-based logistics structures in the SAP software system​.​",
+                                "description": [
+                                    "Manage materials that are relevant for segmentation in handling units from cartons to containers and reduce costs through process efficiency.",
+                                    "Use handling unit management in inbound and outbound business processes, goods movement, and transfer posting to improve product traceability.",
+                                    "Expand on the existing packing function in shipping and warehouse processing in the warehouse management system."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Handling unit management includes reflecting packing-based logistics structures in the SAP software system​.​"
+                },
+                "Serial Number Management": {
+                    "content": {
+                        "Serial Number Management (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631ED9B2C72CAD560140EE",
+                            "content": {
+                                "svp": "Uniquely identify an item to track it in inventory through the logistic processes",
+                                "parent_description": "Serial number management involves identifying and differentiating between individual items of a material or equipment​",
+                                "description": [
+                                    "Create specific serial number profiles for materials.",
+                                    "Create serial number master records to carry important data on the serialized material.",
+                                    "Identify single items of equipment and materials to track in inventory management, physical inventory, and equipment."
+                                ]
+                            }
+                        },
+                        "Serial Number Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF4E963644A6F",
+                            "content": {
+                                "svp": "Uniquely identify an item to track it in inventory through the logistic processes",
+                                "parent_description": "Serial number management involves identifying and differentiating between individual items of a material or equipment​",
+                                "description": [
+                                    "Create specific serial number profiles for materials.",
+                                    "Create serial number master records to carry important data on the serialized material.",
+                                    "Identify single items of equipment and materials to track in inventory management, physical inventory, and equipment."
+                                ]
+                            }
+                        },
+                        "Serial Number Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631ED9B2C72F81D2E680EE",
+                            "content": {
+                                "svp": "Uniquely identify an item to track it in the inventory through the logistic processes​",
+                                "parent_description": "Serial number management involves identifying and differentiating between individual items of a material or equipment​",
+                                "description": [
+                                    "Create specific serial number profiles for materials.",
+                                    "Create serial number master records to carry important data on the serialized material.",
+                                    "Identify single items of equipment and materials to track in inventory management, physical inventory, and equipment."
+                                ]
+                            }
+                        },
+                        "Serial Number Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED9B2C72E2436D380DB",
+                            "content": {
+                                "svp": "Uniquely identify an item to track it in inventory through the logistic processes",
+                                "parent_description": "Serial number management involves identifying and differentiating between individual items of a material or equipment​",
+                                "description": [
+                                    "Create specific serial number profiles for materials.",
+                                    "Create serial number master records to carry important data on the serialized material.",
+                                    "Identify single items of equipment and materials to track in inventory management, physical inventory, and equipment."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Serial number management involves identifying and differentiating between individual items of a material or equipment​"
+                }
+            }
+        }
+    }
+}

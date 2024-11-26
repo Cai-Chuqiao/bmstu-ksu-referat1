@@ -1,0 +1,922 @@
+{
+    "Marketing": {
+        "Commerce Marketing": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B28C5D91ED892E954AFB756A0CC",
+            "content": {
+                "Marketing Recommendations": {
+                    "content": {
+                        "Marketing Recommendations (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EECB5D286B1DE3D4A87",
+                            "content": {
+                                "svp": "Deliver personalized recommendations across channels that drive revenue",
+                                "parent_description": "Marketing recommendations involve using an individual’s interactions and purchasing behaviors to develop relevant, personalized online experiences and real-time product and offer recommendations across channels.",
+                                "description": [
+                                    "Develop contextual, individualized recommendations based on buying behavior, interactions, and predictive intelligence.",
+                                    "Optimize product and content recommendations for the best offers with AI-driven insights such as visual affinity or purchase predictions.",
+                                    "Personalize digital experiences in real time to increase cross-sell and up-sell conversion and average order size."
+                                ]
+                            }
+                        },
+                        "Marketing Recommendations (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF86BC0CC",
+                            "content": {
+                                "svp": "Increase profits with real-time personalization of marketing recommendations across channels",
+                                "parent_description": "Marketing recommendations involve using an individual’s interactions and purchasing behaviors to develop relevant, personalized online experiences and real-time product and offer recommendations across channels.",
+                                "description": [
+                                    "Develop contextual, individualized marketing recommendations based on buying behavior and interactions, and predictive algorithms.",
+                                    "Optimize marketing recommendations for the best offers with self-learning models.",
+                                    "Personalize online marketing experiences in real time to increase cross-sell and up-sell conversion and average order size."
+                                ]
+                            }
+                        },
+                        "Marketing Recommendations (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF86B20CC",
+                            "content": {
+                                "svp": "Increase profits with real-time personalization of marketing recommendations across channels",
+                                "parent_description": "Marketing recommendations involve using an individual’s interactions and purchasing behaviors to develop relevant, personalized online experiences and real-time product and offer recommendations across channels.",
+                                "description": [
+                                    "Develop contextual, individualized marketing recommendations based on buying behavior and interactions, and predictive algorithms.",
+                                    "Optimize marketing recommendations for the best offers with self-learning models.",
+                                    "Personalize online marketing experiences in real time to increase cross-sell and up-sell conversion and average order size."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Marketing recommendations involve using an individual’s interactions and purchasing behaviors to develop relevant, personalized online experiences and real-time product and offer recommendations across channels."
+                },
+                "Remarketing": {
+                    "content": {
+                        "Remarketing (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EECB5D2909BE2C80D52",
+                            "content": {
+                                "svp": "Combine real-time session data with historical CRM data to personalize engagement across channels",
+                                "parent_description": "Remarketing involves employing follow-up actions with abandoned shopping carts to improve lead-conversion rates and convince online shoppers to complete their purchases.&nbsp;​",
+                                "description": [
+                                    "Capture behavioral data in real time to personalize messages and automate retargeting efforts across e-mail, mobile, and digital ads to optimize shopping carts and encourage wish-list and shopping-cart abandoners to finish their purchases.",
+                                    "Target customers with product recommendations, special offers, and personalized content on the channels they are most likely to engage with, to increase conversion rates and revenue."
+                                ]
+                            }
+                        },
+                        "Remarketing (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9275D5EF300CC",
+                            "content": {
+                                "svp": "Analyze browsing behavior and improve customer experiences with advanced remarketing capabilities",
+                                "parent_description": "Remarketing involves employing follow-up actions with abandoned shopping carts to improve lead-conversion rates and convince online shoppers to complete their purchases.&nbsp;​",
+                                "description": [
+                                    "Assess and score online behaviors in real time and automate retargeting efforts to personalize follow-ups and convince shopping-cart abandoners to finish their purchase.",
+                                    "Use lead scoring to trigger marketing and follow-up actions for accounts (business-to-busines) and consumers (business-to-consumer).​",
+                                    "Improve conversion rates by immediately delivering relevant messages in the moment."
+                                ]
+                            }
+                        },
+                        "Remarketing (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9275D5EF260CC",
+                            "content": {
+                                "svp": "Analyze browsing behavior and improve customer experiences with advanced remarketing capabilities",
+                                "parent_description": "Remarketing involves employing follow-up actions with abandoned shopping carts to improve lead-conversion rates and convince online shoppers to complete their purchases.&nbsp;​",
+                                "description": [
+                                    "Assess and score online behaviors in real time to personalize messages and automate retargeting efforts to convince shopping-cart abandoners to finish their purchase.",
+                                    "Use lead scoring to trigger marketing and follow-up actions for business-to-business customers.",
+                                    "Improve conversion rates by immediately delivering relevant messages in the moment."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Remarketing involves employing follow-up actions with abandoned shopping carts to improve lead-conversion rates and convince online shoppers to complete their purchases. ​"
+                }
+            }
+        },
+        "Customer Attribution": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/42F2E964F4E71ED89EDD7FC60193C0CC",
+            "content": {
+                "Multichannel Customer Attribution": {
+                    "content": {
+                        "Multichannel Customer Attribution (Cust. Attribution)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D6C340CC",
+                            "content": {
+                                "svp": "Optimize every marketing touch point to drive more efficient and relevant customer experiences",
+                                "parent_description": "Multichannel customer attribution involves capturing data across channels&nbsp;and touchpoints&nbsp;to measure the customer journey –&nbsp;helping&nbsp;marketers react to opportunities and optimize&nbsp;marketing spend on the right channels and touchpoints.&nbsp;​",
+                                "description": [
+                                    "Capture and enrich your marketing and customer data across all channels into a single view.",
+                                    "Improve insight into performance of every marketing touch point through data driven, machine learning measurement.",
+                                    "Speed reaction to opportunities with continuous daily learning measurement and optimization."
+                                ]
+                            }
+                        },
+                        "Multichannel Customer Attribution (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE772D1EDCB5D29F0BEE1B80AF",
+                            "content": {
+                                "svp": "Orchestrate cross-channel campaigns at scale and know how campaigns impact growth and revenue",
+                                "parent_description": "Multichannel customer attribution involves capturing data across channels&nbsp;and touchpoints&nbsp;to measure the customer journey –&nbsp;helping&nbsp;marketers react to opportunities and optimize&nbsp;marketing spend on the right channels and touchpoints.&nbsp;​",
+                                "description": [
+                                    "Capture and enrich your marketing and customer data across all channels into a unified profile.",
+                                    "Improve insight into performance of every marketing interaction through data-driven insights and analytics.",
+                                    "Access revenue attribution and know how marketing activities are impacting growth and revenue."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Multichannel customer attribution involves capturing data across channels and touchpoints to measure the customer journey – helping marketers react to opportunities and optimize marketing spend on the right channels and touchpoints. ​"
+                }
+            }
+        },
+        "Customer Data Management": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B27FCC11ED892EA536C1D98C0CC",
+            "content": {
+                "Audience and Journey Management": {
+                    "content": {
+                        "Audience and Journey Management (CustData Platform)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EED80D61E94350103B9",
+                            "content": {
+                                "svp": "Activate customer data in real time to create personalized engagements",
+                                "parent_description": "Audience and journey management involves leveraging customer profile and data insights to provide the right message at the right time to customers across the customer journey. It includes building and enhancing audiences, to manage campaigns and identify sales targets.",
+                                "description": [
+                                    "Create on-demand audiences based on the unified customer profile and data insights collected.",
+                                    "Relay the right message at the right time to customers across any channel at scale, using preconfigured connectors with real-time customer journeys.",
+                                    "Make account, contact, and household data available when needed.",
+                                    "Leverage the audience builder to create audiences on demand, based on the unified customer profile and data insights collected, and use them in managing campaigns and identifying sales targets.",
+                                    "Build an audience once and schedule it to run again when customer data is enriched and customers enter new segments."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Audience and journey management involves leveraging customer profile and data insights to provide the right message at the right time to customers across the customer journey. It includes building and enhancing audiences, to manage campaigns and identify sales targets."
+                },
+                "Customer Data Insights and Analytics": {
+                    "content": {
+                        "Customer Data Insights and Analytics (CustData Platform)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EED80D5FC1B37F46B0F",
+                            "content": {
+                                "svp": "Monitor customer behavior in real time, track key customer activities, and segment customer data for personalized omnichannel experiences",
+                                "parent_description": "Customer data insights and analytics involves analyzing customer behavior, demands, and needs to gain insights. It includes tracking customer activities and segmenting data to provide personalized experiences.",
+                                "description": [
+                                    "Leverage activity tracking, artificial intelligence, and machine learning capabilities to analyze customer behavior, demands, and needs.",
+                                    "Segment customers for accounts, contacts, and households to provide deep and meaningful insights into your customers to better engage with them across omnichannel experiences."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer data insights and analytics involves analyzing customer behavior, demands, and needs to gain insights. It includes tracking customer activities and segmenting data to provide personalized experiences."
+                },
+                "Customer Data Platform": {
+                    "content": {
+                        "Customer Data Platform (CustData Platform)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3A4787E21EEB98AF1E6A80AE6F17",
+                            "content": {
+                                "svp": "Unify all customer data sources, respect data privacy, and activate rich insights in real time to deliver hyper-personalized experiences",
+                                "parent_description": "Customer data platform involves unifying anonymous and known first-party, second-party, and third-party data, ensuring customer data privacy and governance, and leveraging real-time customer insights to deliver hyper-personalized experiences.",
+                                "description": [
+                                    "Gain a holistic view of your customer by unifying customer data around a foundation identity, connecting back-office data to the front office, and processing high-volumes of customer date for use in other applications.",
+                                    "Address data privacy and governance requirements across all brands and regions by combining customers’ identity and purpose data and orchestrating the data across engagement systems based on data privacy permissions.",
+                                    "Define unique customer profile views for marketing and operational use cases enabling real-time decision-making and bush customer data, based on purpose, to the right engagement systems in real-time."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer data platform involves unifying anonymous and known first-party, second-party, and third-party data, ensuring customer data privacy and governance, and leveraging real-time customer insights to deliver hyper-personalized experiences."
+                },
+                "Customer Identity Management for B2B": {
+                    "content": {
+                        "Customer Identity Management for B2B (Cust Ident)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B28C5D91ED9B4B0428D7ABA60DF",
+                            "content": {
+                                "svp": "Build trusted business relationships and drive growth",
+                                "parent_description": "Customer identity management for B2B involves&nbsp;accelerating time to market through ​frictionless, personalized, self-service customer ​and partner onboarding to drive growth through ​trusted relationships​.​",
+                                "description": [
+                                    "Accelerate time to market through ​frictionless, personalized, self-service customer ​and partner onboarding to drive growth through ​trusted relationships​.",
+                                    "Simplify end-to-end partner onboarding ​management and reduce IT complexities to increase ​revenue and lower costs across all aspects of the ​value chain​",
+                                    "Protect​ the business by securely sharing ​intellectual property and sensitive data with the ​right partner users at the right time while addressing ​evolving privacy and compliance requirements to ​reduce security, legal, and regulatory risks."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer identity management for B2B involves accelerating time to market through ​frictionless, personalized, self-service customer ​and partner onboarding to drive growth through ​trusted relationships​.​"
+                },
+                "Customer Identity Management for B2C": {
+                    "content": {
+                        "Customer Identity Management for B2C (CustData CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463DC20CC",
+                            "content": {
+                                "svp": "Identify and engage customers across all channels and devices to improve customer experiences",
+                                "parent_description": "Customer identity management for B2C creates a frictionless experience across brands, channels and devices, with secure registration and social authentication&nbsp; and securely identify online visitors from any touchpoint.",
+                                "description": [
+                                    "Create a frictionless experience across brands, channels and devices, with secure registration and social authentication screens and flows customizable for your particular business case.",
+                                    "Securely identify online visitors from any touchpoint, with federation standards, single sign-on functionality, and risk-based, multi-factor, and password-less authentication options.",
+                                    "Capture customers’ permission-based likes and interests through progressive profiling"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer identity management for B2C creates a frictionless experience across brands, channels and devices, with secure registration and social authentication  and securely identify online visitors from any touchpoint."
+                },
+                "Customer Profile Management": {
+                    "content": {
+                        "Customer Profile Management (CustData CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278A960CC",
+                            "content": {
+                                "svp": "Power trusted digital experiences with first-party data",
+                                "parent_description": "Customer profile management includes transforming customer identity, profile, and account status into a unified customer profile.",
+                                "description": [
+                                    "Transform customer identity, profile, and account status into a unified customer profile.",
+                                    "Share data from each profile to any application.",
+                                    "Manage and govern profile, status, and consent data across the enterprise for consistent customer experiences."
+                                ]
+                            }
+                        },
+                        "Customer Profile Management (CustData Platform)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EDD80D5E1B086571BC7",
+                            "content": {
+                                "svp": "Unify customer data from the front to the back office, earning customer trust by respecting privacy and the purpose for providing their data",
+                                "parent_description": "Customer profile management includes transforming customer identity, profile, and account status into a unified customer profile.",
+                                "description": [
+                                    "Build rich customer profiles for accounts, contacts, and households with an extendable data model.",
+                                    "Assure data quality and consistency with validation, normalization, and data transformation capabilities.",
+                                    "Define rules to meet your business needs for unifying and merging data based on your business identifiers.",
+                                    "Allow your DPO to define which customer data can be used and where based on the consent provided."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer profile management includes transforming customer identity, profile, and account status into a unified customer profile."
+                },
+                "Enterprise Preference and Consent Management": {
+                    "content": {
+                        "Enterprise Preference and Consent Management (CustData CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278A8C0CC",
+                            "content": {
+                                "svp": "Enable customers to control their profile, preference and consent data with a self-service preference center.​",
+                                "parent_description": "Enterprise preference and consent management​ involves enabling customers to control their profile, preference and consent data with a self-service preference center.",
+                                "description": [
+                                    "Gain loyal customers by allowing them to control their profile, preference and consent data.",
+                                    "Increase customer transparency and trust with a self-service preference center.",
+                                    "Remain regulatory compliant and audit ready with timestamped consent history."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Enterprise preference and consent management​ involves enabling customers to control their profile, preference and consent data with a self-service preference center."
+                }
+            }
+        },
+        "Lead and Account-Based Marketing": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/089E017A62AB1ED89EDCFD3E56ED80CA",
+            "content": {
+                "Account Engagement": {
+                    "content": {
+                        "Account Engagement (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE772D1EECBDDA12DA3F9BAEB1",
+                            "content": {
+                                "svp": "Accelerate revenue generation with personalized account engagement",
+                                "parent_description": "Account engagement involves creating campaigns that sales teams can personalize for accounts and contacts using CRM data. It includes using reporting to measure program performance and impact on revenue and customer growth.",
+                                "description": [
+                                    "Create campaigns that sales teams can automate and personalize for accounts and contacts using CRM data.",
+                                    "Use built-in workflows for approvals, to maintain brand message consistency while enabling sales customization.",
+                                    "Track responses with centralized reporting to measure program performance and impact on revenue and customer growth.",
+                                    "Collaborate with sales reps on campaign participation and content."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Account engagement involves creating campaigns that sales teams can personalize for accounts and contacts using CRM data. It includes using reporting to measure program performance and impact on revenue and customer growth."
+                },
+                "Account-Based Marketing": {
+                    "content": {
+                        "Account-Based Marketing (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/0050568241CA1ED98DA47BB9F9876107",
+                            "content": {
+                                "svp": "Put the customer at the center of engagement with account-based marketing",
+                                "parent_description": "Account-Based Marketing (ABM) involves coordinating marketing and sales activities to drive business growth by identifying and engaging with a targeted set of accounts.",
+                                "description": [
+                                    "Drive sales at target accounts, including account identification, prioritization, engagement strategy, execution, and performance tracking.",
+                                    "Identify and prioritize target accounts with data enrichment.",
+                                    "Understand top accounts through intent and mapping of contacts to accounts.",
+                                    "Personalize engagement to contact and account with targeted campaigns.",
+                                    "Orchestrate across sales and marketing by providing visibility into marketing activities.",
+                                    "Measure account-based programs by understanding engagement and assessing performance of account-based marketing on revenue and customer growth."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Account-Based Marketing (ABM) involves coordinating marketing and sales activities to drive business growth by identifying and engaging with a targeted set of accounts."
+                },
+                "Marketing Lead Management": {
+                    "content": {
+                        "Marketing Lead Management (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF86760CC",
+                            "content": {
+                                "svp": "Streamline marketing lead management processes and improve sales and marketing collaboration",
+                                "parent_description": "Marketing lead management involves nurturing prospects using personalized content and offers, scoring their behaviors, transferring high-quality leads to sales for follow-up and conversion, and tracking lead performance.",
+                                "description": [
+                                    "Nurture contacts and generate high-quality leads with personalized marketing content and offers.",
+                                    "Increase conversion rates and revenue by using machine learning to identify leads that have a high conversion propensity.",
+                                    "Capture lead history in a central profile and score online behavior in real-time.",
+                                    "Capture opportunities quickly, improve sales effectiveness and track conversion rates through automated lead transfer and creation of sales pipeline activities.",
+                                    "Ensure alignment of marketing initiatives by sharing demand generation calendars and centralizing lead management and nurturing​"
+                                ]
+                            }
+                        },
+                        "Marketing Lead Management (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF866C0CC",
+                            "content": {
+                                "svp": "Streamline marketing lead management processes and improve sales and marketing collaboration",
+                                "parent_description": "Marketing lead management involves nurturing prospects using personalized content and offers, scoring their behaviors, transferring high-quality leads to sales for follow-up and conversion, and tracking lead performance.",
+                                "description": [
+                                    "Nurture contacts and generate high-quality leads with personalized marketing content and offers.",
+                                    "Capture lead history in a central profile and score online behavior in real time.",
+                                    "Automate lead transfer and creation of sales pipeline activities to capture opportunities quickly, improve sales effectiveness, and track conversion rate."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Marketing lead management involves nurturing prospects using personalized content and offers, scoring their behaviors, transferring high-quality leads to sales for follow-up and conversion, and tracking lead performance."
+                }
+            }
+        },
+        "Loyalty Marketing": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B27FCC11ED892E9AA49919DC0CC",
+            "content": {
+                "Loyalty Management": {
+                    "content": {
+                        "Loyalty Management (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E924608165E0CC",
+                            "content": {
+                                "svp": "Track customer behavior, and identify valuable customers to take steps and retain them",
+                                "parent_description": "Loyalty management involves attracting and retaining customers by rewarding them for their repeated spending and continuous brand advocacy.",
+                                "description": [
+                                    "Offer relevant and personalized rewards through targeted loyalty programs.",
+                                    "Build loyalty with incentives and rewards without dropping prices.",
+                                    "Fine-tune your loyalty program by continually capturing customer behavioral information."
+                                ]
+                            }
+                        },
+                        "Loyalty Management (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EECB5D2B9DF1D7F32AB",
+                            "content": {
+                                "svp": "Create personalized cross-channel customer experiences that drive customer loyalty",
+                                "parent_description": "Loyalty management involves attracting and retaining customers by rewarding them for their repeated spending and continuous brand advocacy.",
+                                "description": [
+                                    "Leverage AI and predictive intelligence to track customers throughout the customer lifecycle and improve customer loyalty with personalized offers and product recommendations.",
+                                    "Turn loyal customers into brand advocates who share experiences with contacts across channels.",
+                                    "Reward returning customers for purchases and loyalty and obtain deeper insights that enrich each unified profile.",
+                                    "Integrate loyalty programs across marketing and commerce channels to drive long-lasting relationships and develop loyal customers for life."
+                                ]
+                            }
+                        },
+                        "Loyalty Management (Loyalty CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460816680CC",
+                            "content": {
+                                "svp": "Create omnichannel loyalty programs that provide contextual and personalized customer experiences",
+                                "parent_description": "Loyalty management involves attracting and retaining customers by rewarding them for their repeated spending and continuous brand advocacy.",
+                                "description": [
+                                    "Reward returning customer for purchases and loyalty to get more data and insight to create fuller customer profiles.",
+                                    "Turn loyal customers into brand advocates who share experiences with contacts using cloud-based, advocacy-driven, and mobile-delivered programs.",
+                                    "Integrate loyalty programs with core commerce and marketing operations across channels."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Loyalty management involves attracting and retaining customers by rewarding them for their repeated spending and continuous brand advocacy."
+                }
+            }
+        },
+        "Marketing Analytics": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/40F2E9281A631ED892E990CFF9D940DC",
+            "content": {
+                "Insights and Performance Management": {
+                    "content": {
+                        "Insights and Performance Management (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDCB5D2D2274976E206",
+                            "content": {
+                                "svp": "Measure the revenue impact of marketing campaigns and use AI to optimize performance across the customer lifecycle",
+                                "parent_description": "Insights and performance management involves analyzing in-depth customer data to gain insights and identify opportunities, and tracking marketing activities and business goals to optimize marketing performance.",
+                                "description": [
+                                    "Measure the impacts of all marketing campaigns and use the insights to optimize and maximize engagement.",
+                                    "Gain insights on customer lifecycle analytics that work on purchase, product, service, contact, and behavioral data and use the information for decision-making and strategy planning.",
+                                    "Use revenue analytics to report on how your marketing activities contribute to your business's overall success.",
+                                    "Use AI to predict segment lifecycle behavior across any commerce and marketing channels and improve new customer acquisition, increase loyal customer conversion, and drive lifetime value."
+                                ]
+                            }
+                        },
+                        "Insights and Performance Management (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1436900CC",
+                            "content": {
+                                "svp": "Optimize marketing with real-time customer insights and performance measurement and management",
+                                "parent_description": "Insights and performance management involves analyzing in-depth customer data to gain insights and identify opportunities, and tracking marketing activities and business goals to optimize marketing performance.",
+                                "description": [
+                                    "Identify opportunities and optimize marketing performance by relying on in-depth customer data and analysis.",
+                                    "Track marketing effectiveness and alignment with sales easily using prebuilt reports and a lead management dashboard.",
+                                    "Gain visibility into marketing performance and ROI using real-time campaign success tracking and an executive dashboard.",
+                                    "Capture an accurate view of marketing financials, budgets, and expenses.",
+                                    "Measure campaign performance more effectively through real-time, multitouch attribution of online and offline channels.",
+                                    "Understand the impact of incremental marketing through multivariate machine learning.​"
+                                ]
+                            }
+                        },
+                        "Insights and Performance Management (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1436860CC",
+                            "content": {
+                                "svp": "Optimize marketing with real-time customer insights and performance measurement and management",
+                                "parent_description": "Insights and performance management involves analyzing in-depth customer data to gain insights and identify opportunities, and tracking marketing activities and business goals to optimize marketing performance.",
+                                "description": [
+                                    "Use in-depth customer data and analysis to identify opportunities and optimize marketing performance.",
+                                    "Easily track marketing effectiveness and alignment with sales using prebuilt reports and a lead management dashboard.",
+                                    "Gain transparency into marketing performance and ROI using real-time campaign success tracking and an executive dashboard."
+                                ]
+                            }
+                        },
+                        "Marketing Performance Management (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A14367C0CC",
+                            "content": {
+                                "svp": "Make better, well-informed decisions with timely insight into marketing performance",
+                                "parent_description": "Insights and performance management involves analyzing in-depth customer data to gain insights and identify opportunities, and tracking marketing activities and business goals to optimize marketing performance.",
+                                "description": [
+                                    "Provide timely insight into campaign performance and marketing results using advanced analytics and prebuilt dashboards and reports.",
+                                    "Drive revenue by empowering marketers to make confident decisions.",
+                                    "Promote the best offers to the right customers by identifying changing customer needs."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Insights and performance management involves analyzing in-depth customer data to gain insights and identify opportunities, and tracking marketing activities and business goals to optimize marketing performance."
+                },
+                "Sentiment and Interest Analysis": {
+                    "content": {
+                        "Sentiment and Interest Analysis (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C8443E0CC",
+                            "content": {
+                                "svp": "Gain insight into customer sentiment and interests to deliver personalized in-the-moment experiences",
+                                "parent_description": "Sentiment and interest analysis involves&nbsp;analyzing customer sentiment and social media signals to improve campaigns, increase brand loyalty, and better engage customers.&nbsp;​",
+                                "description": [
+                                    "Extract insights from sentiment analysis based on structured and unstructured data sources by using platform capabilities such as natural language processing",
+                                    "Assess sentiment and social media analytics to improve campaigns and brand loyalty",
+                                    "Engage customers in the right context by understanding each journey, sentiment, interest, and interaction"
+                                ]
+                            }
+                        },
+                        "Sentiment and Interest Analysis (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C844340CC",
+                            "content": {
+                                "svp": "Gain insight into customer sentiment and interests to deliver personalized in-the-moment experiences",
+                                "parent_description": "Sentiment and interest analysis involves&nbsp;analyzing customer sentiment and social media signals to improve campaigns, increase brand loyalty, and better engage customers.&nbsp;​",
+                                "description": [
+                                    "Extract insights from sentiment analysis based on structured and unstructured data sources by using platform capabilities such as natural language processing",
+                                    "Assess sentiment and social media analytics to improve campaigns and brand loyalty",
+                                    "Engage customers in the right context by understanding each journey, sentiment, interest, and interaction"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Sentiment and interest analysis involves analyzing customer sentiment and social media signals to improve campaigns, increase brand loyalty, and better engage customers. ​"
+                }
+            }
+        },
+        "Marketing Planning and Performance": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/40F2E9281A631ED892E95703ACF520DC",
+            "content": {
+                "Digital Asset Management": {
+                    "content": {
+                        "Digital Asset Management (OpenText CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D6EAA0CC",
+                            "content": {
+                                "svp": "Enhance productivity, compliance, and revenues using digital asset management processes",
+                                "parent_description": "Digital asset management involves managing the entire content lifecycle – including the creative production, cataloguing, retrieval, and distribution across channels – for rich media and video in a centralized repository.",
+                                "description": [
+                                    "Tap into a central repository for metadata handling, advanced search, versioning, and flexible workflows.",
+                                    "Streamline usage tracking by uniting digital assets with marketing processes.",
+                                    "Improve management processes by reducing duplicates and supporting brand compliance, asset rights obligations, and efficient distribution of approved assets."
+                                ]
+                            }
+                        },
+                        "Digital Asset Management (OpenText OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278AB40CC",
+                            "content": {
+                                "svp": "Enhance productivity, compliance, and revenues using digital asset management processes",
+                                "parent_description": "Digital asset management involves managing the entire content lifecycle – including the creative production, cataloguing, retrieval, and distribution across channels – for rich media and video in a centralized repository.",
+                                "description": [
+                                    "Tap into a central repository for metadata handling, advanced search, versioning, and flexible workflows.",
+                                    "Streamline usage tracking by uniting digital assets with marketing processes.",
+                                    "Improve management processes by reducing duplicates and supporting brand compliance, asset rights obligations, and efficient distribution of approved assets."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Digital asset management involves managing the entire content lifecycle – including the creative production, cataloguing, retrieval, and distribution across channels – for rich media and video in a centralized repository."
+                },
+                "Document Presentment": {
+                    "content": {
+                        "Document Presentment (OpenText S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278BB80CC",
+                            "content": {
+                                "svp": "Turn routine customer documents into powerful communication tools",
+                                "parent_description": "Document presentment includes the design, deployment, and multichannel delivery of personalized documents and correspondence.",
+                                "description": [
+                                    "Streamline communications with automated creation and presentation of campaigns, forms,and invoices.",
+                                    "Present targeted,consistent information across channels with intuitive tools, and accelerate processes by integrating with SAP software.",
+                                    "Boost effectiveness of offers by embedding relevant cross-sell and up-sell messages."
+                                ]
+                            }
+                        },
+                        "Document Presentment (OpenText)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278BAE0CC",
+                            "content": {
+                                "svp": "Turn routine customer documents into powerful communication tools",
+                                "parent_description": "Document presentment includes the design, deployment, and multichannel delivery of personalized documents and correspondence.",
+                                "description": [
+                                    "Streamline communications with automated creation and presentation of campaigns, forms,and invoices.",
+                                    "Present targeted,consistent information across channels with intuitive tools, and accelerate processes by integrating with SAP software.",
+                                    "Boost effectiveness of offers by embedding relevant cross-sell and up-sell messages."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Document presentment includes the design, deployment, and multichannel delivery of personalized documents and correspondence."
+                },
+                "Market Development Funds": {
+                    "content": {
+                        "Market Development Funds (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF86440CC",
+                            "content": {
+                                "svp": "Strengthen cooperative marketing efforts to increase revenue, team with partners, and reduce costs",
+                                "parent_description": "Market development funds involves offering financial resources to channel partners to pay for funded marketing initiatives that can extend their reach to new markets.",
+                                "description": [
+                                    "Make marketing funds more accessible to channel partners by aligning fund-driven activities with brand owners’ business strategies.",
+                                    "Enable timely, compliant reimbursements by letting brand owners validate, approve, and settle partner claims against allotted funds.",
+                                    "Gain better control of marketing expenditures with brand-consistent activities."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Market development funds involves offering financial resources to channel partners to pay for funded marketing initiatives that can extend their reach to new markets."
+                },
+                "Marketing Collaboration": {
+                    "content": {
+                        "Marketing Collaboration": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF864E0CC",
+                            "content": {
+                                "svp": "Collaborate with key stakeholders to increase speed to market and optimize decision making",
+                                "parent_description": "Marketing collaboration involves streamlining teamwork with stakeholders, including external vendors, by sharing information centrally and capturing discussions and decisions to improve productivity and efficiency.",
+                                "description": [
+                                    "Streamline processes, share best practices, and collaborate by reducing boundaries across departments and geographies.",
+                                    "Drive better business results by bringing together people, data, processes, and content to strategize and solve problems faster.",
+                                    "Reduce duplication and improve productivity by centralizing discussions around projects."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Marketing collaboration involves streamlining teamwork with stakeholders, including external vendors, by sharing information centrally and capturing discussions and decisions to improve productivity and efficiency."
+                },
+                "Marketing Content Management": {
+                    "content": {
+                        "Marketing Content Management (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EDCB7B69F7507589C5E",
+                            "content": {
+                                "svp": "Understand what each customer wants and needs, then deliver personalized campaigns across channels",
+                                "parent_description": "  Marketing content management involves creating, managing, and providing personalized and targeted content across multi-campaigns and channels.",
+                                "description": [
+                                    "Create content that will inspire and engage customers with intuitive drag-and-drop images, block-based content, and personalization tokens.",
+                                    "Build personalized content once and apply it across every channel.",
+                                    "Use templates and content blocks to intuitively update and personalize content for various brands, regions, and countries across multiple campaigns in a single click."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Marketing content management involves creating, managing, and providing personalized and targeted content across multi-campaigns and channels."
+                },
+                "Marketing Planning and Budgeting": {
+                    "content": {
+                        "Marketing Planning and Budgeting (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF86940CC",
+                            "content": {
+                                "svp": "Improve agility and transparency with a centralized and real-time view on marketing budget and spend",
+                                "parent_description": "Marketing planning and budgeting involves creating marketing plans and budgets collaboratively, aligning and managing marketing activities using a central calendar, and tracking spend in real time to improve decisions. ",
+                                "description": [
+                                    "Streamline planning processes and accelerate replanning cycles by centralizing the creation of marketing plans and budgets and collaborating better across the organization.​",
+                                    "Make strategic decisions quickly by tracking marketing spend in real-time.​",
+                                    "Maximize results by using a centralized marketing calendar to coordinate complementary marketing activities.",
+                                    "Improve collaboration among marketing teams located in different geographies by enabling budget, program, and campaign planning in multiple currencies.​",
+                                    "Ensure that budgets are effective and aligned with business objectives through integrated spend management and finance functions.​"
+                                ]
+                            }
+                        },
+                        "Marketing Planning and Budgeting (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF868A0CC",
+                            "content": {
+                                "svp": "Improve agility and transparency with a centralized and real-time view on marketing budget and spend",
+                                "parent_description": "Marketing planning and budgeting involves creating marketing plans and budgets collaboratively, aligning and managing marketing activities using a central calendar, and tracking spend in real time to improve decisions. ",
+                                "description": [
+                                    "Centrally create marketing plans and budgets, and collaborate better across the organization to streamline planning processes and accelerate replanning cycles.",
+                                    "Track marketing spend in real-time to make strategic decisions quickly.",
+                                    "Coordinate marketing activities that complement each other and maximize results with a centralized marketing calendar."
+                                ]
+                            }
+                        },
+                        "Planning and Program Management (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF86800CC",
+                            "content": {
+                                "svp": "Enable results-driven marketing activities through better alignment and coordination",
+                                "parent_description": "Marketing planning and budgeting involves creating marketing plans and budgets collaboratively, aligning and managing marketing activities using a central calendar, and tracking spend in real time to improve decisions. ",
+                                "description": [
+                                    "Manage and streamline marketing activities – from planning to coordination and execution – using robust management tools.",
+                                    "Manage budgets and track spending with funds management.",
+                                    "Coordinate marketing activities with a centralized marketing calendar."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Marketing planning and budgeting involves creating marketing plans and budgets collaboratively, aligning and managing marketing activities using a central calendar, and tracking spend in real time to improve decisions."
+                }
+            }
+        },
+        "Real-Time Audience Profiling": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/42F2E964F4E71ED89EDC99E91A7C80CC",
+            "content": {
+                "Marketing Profile": {
+                    "content": {
+                        "Marketing Profile (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDCB5D2DDFCB8EBE549",
+                            "content": {
+                                "svp": "Unify historical and real-time data to create a holistic customer view and activate personalized experiences",
+                                "parent_description": "Marketing profile involves capturing, merging, and enriching customer and prospect data across channels to create a centralized and contextual contact profile that is used to launch personalized engagements.",
+                                "description": [
+                                    "Bring together data sources across the business and activate them across every channel.",
+                                    "Enrich profile data with AI, to better understand what your customers like, what channels they prefer for interacting with you, and what they’re likely to do next.",
+                                    "Analyze contact and behavior data to deliver personalized recommendations to your customers across e-mail, mobile, and Web communications."
+                                ]
+                            }
+                        },
+                        "Marketing Profile (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF86A80CC",
+                            "content": {
+                                "svp": "Gain an unprecedented insight with a centralized, real-time, and contextual profile",
+                                "parent_description": "Marketing profile involves capturing, merging, and enriching customer and prospect data across channels to create a centralized and contextual contact profile that is used to launch personalized engagements.",
+                                "description": [
+                                    "Improve insight into customer sentiment by centralizing the collection of customer and prospect data to track both implicit and explicit behavior.​",
+                                    "Gain a 360-degree view of your customers with real-time profiles that track context, interests, and predictive scores.​",
+                                    "Uncover hidden trends and accurately define the best marketing audiences with discovery tools that enable you to analyze sentiment and customer behavior.​",
+                                    "Capture up-to-the-minute views of customers’ interests, sentiments, motives, and anticipated behavior.",
+                                    "React instantly with individualized marketing and proactive opportunities by blending implicit and explicit customer signals.​​"
+                                ]
+                            }
+                        },
+                        "Marketing Profile (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF869E0CC",
+                            "content": {
+                                "svp": "Gain unprecedented insight with a centralized, real-time, and contextual profile",
+                                "parent_description": "Marketing profile involves capturing, merging, and enriching customer and prospect data across channels to create a centralized and contextual contact profile that is used to launch personalized engagements.",
+                                "description": [
+                                    "Centralize collection of customer and prospect data to track both implicit and explicit behavior.",
+                                    "Gain a 360-degree customer view with real-time profiles that track context, interests, and predictive scores.",
+                                    "Analyze sentiment and customer behavior with discovery tools to uncover hidden trends and accurately define the best marketing audiences."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Marketing profile involves capturing, merging, and enriching customer and prospect data across channels to create a centralized and contextual contact profile that is used to launch personalized engagements."
+                },
+                "Real-Time Predictions and Scoring": {
+                    "content": {
+                        "Real-Time Predictions and Scoring (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9275D5EE9A0CC",
+                            "content": {
+                                "svp": "Optimize customer experiences with machine-learning based, real-time predictions and scoring",
+                                "parent_description": "Real-time predictions and scoring involve capturing customer behaviors and using predictive algorithms to calculate various scores that can be used to create targeted segments and real-time,&nbsp;personalized recommendations.&nbsp;​",
+                                "description": [
+                                    "Use real-time marketing and machine learning to create target audiences, trigger personalized recommendations across channels,&nbsp;and identify customers with a high buying propensity or high probability of churn.",
+                                    "Create and manage predictive models by leveraging customer data and interactions. ​",
+                                    "Identify the right predictive scoring approach and the best model for your marketing processes.​",
+                                    "Gain insight on customer behavior faster by building custom scores and running score calculations on the fly​.",
+                                    "Enhance prediction accuracy by basing predictive scores on insights derived from both structured and unstructured data in real-time.​"
+                                ]
+                            }
+                        },
+                        "Real-Time Predictions and Scoring (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9275D5EE900CC",
+                            "content": {
+                                "svp": "Optimize customer experiences with real-time predictions and scoring",
+                                "parent_description": "Real-time predictions and scoring involve capturing customer behaviors and using predictive algorithms to calculate various scores that can be used to create targeted segments and real-time,&nbsp;personalized recommendations.&nbsp;​",
+                                "description": [
+                                    "Use real-time marketing and predictive scoring to create target audiences or trigger personalized recommendations and initiatives across channels.",
+                                    "Manage predictive customer intelligence models and run score calculations on the fly.",
+                                    "Identify the right predictive scoring approach and the best model for marketing processes."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Real-time predictions and scoring involve capturing customer behaviors and using predictive algorithms to calculate various scores that can be used to create targeted segments and real-time, personalized recommendations. ​"
+                }
+            }
+        },
+        "Segments, Campaigns, and Journeys": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B27FCC11ED892E94F2AD9C540CC",
+            "content": {
+                "Audience Targeting and Segmentation": {
+                    "content": {
+                        "Audience Targeting and Segmentation (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EDCB5D2EB53647521FA",
+                            "content": {
+                                "svp": "Create data-driven segments and know which contacts to target to drive the highest growth in revenue",
+                                "parent_description": "Audience targeting and segmentation involves dividing people into homogeneous subgroups based upon defined criteria such as product usage, demographics, psychographics, purchase behaviors, and campaign response. ",
+                                "description": [
+                                    "Segment contacts based on how they engage through Web, mobile, and e-mail mediums or on properties such as interests, locations, and demographics.",
+                                    "Build dynamic segments by lifecycle stage, such as first-time buyers, active customers, defecting customers, and inactive customers.",
+                                    "Use AI-built segments that predict customer behavior and target customers with campaigns that drive loyalty and customer lifetime value."
+                                ]
+                            }
+                        },
+                        "Audience Targeting and Segmentation (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E920A54D4EE0CC",
+                            "content": {
+                                "svp": "Find the best audience for your marketing message with advanced targeting and segmentation",
+                                "parent_description": "Audience targeting and segmentation involves dividing people into homogeneous subgroups based upon defined criteria such as product usage, demographics, psychographics, purchase behaviors, and campaign response. ",
+                                "description": [
+                                    "Discover hidden trends and identify microsegments quickly with visualization tools and real-time scoring and predictive modeling.",
+                                    "Build complex segmentation trees rapidly using a waterfall interface with a rich set of targeting tools.",
+                                    "Improve marketing ROI by defining accurate target groups that maximize response and conversion rate while reducing costs."
+                                ]
+                            }
+                        },
+                        "Audience Targeting and Segmentation (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E920A54D4DA0CC",
+                            "content": {
+                                "svp": "Find the best audience for your marketing message with advanced targeting and segmentation",
+                                "parent_description": "Audience targeting and segmentation involves dividing people into homogeneous subgroups based upon defined criteria such as product usage, demographics, psychographics, purchase behaviors, and campaign response. ",
+                                "description": [
+                                    "Discover hidden trends and identify microsegments quickly with visualization tools and real-time scoring and predictive modeling.",
+                                    "Build complex segmentation trees rapidly using a waterfall interface with a rich set of targeting tools.",
+                                    "Improve marketing ROI by defining accurate target groups that maximize response and conversion rate while reducing costs."
+                                ]
+                            }
+                        },
+                        "Customer Segmentation (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E920A54D4E40CC",
+                            "content": {
+                                "svp": "Enable selective marketing by classifying prospects into different target group based on attributes",
+                                "parent_description": "Audience targeting and segmentation involves dividing people into homogeneous subgroups based upon defined criteria such as product usage, demographics, psychographics, purchase behaviors, and campaign response. ",
+                                "description": [
+                                    "Segment and accurately target your audience by tapping relevant customer information.",
+                                    "Perform customer segmentation, without technical support, by using a user-friendly, drag-and-drop interface.",
+                                    "Accelerate your campaign launch with personalized, relevant messages reaching the correct target audience."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Audience targeting and segmentation involves dividing people into homogeneous subgroups based upon defined criteria such as product usage, demographics, psychographics, purchase behaviors, and campaign response."
+                },
+                "Campaign Management and Optimization": {
+                    "content": {
+                        "Campaign Management (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463D860CC",
+                            "content": {
+                                "svp": "Analyze, plan, execute, measure marketing activities on all channels to create and sustain profitable relationships",
+                                "parent_description": "Campaign management and optimization involves planning and executing targeted multi-wave campaigns across various channels, reacting to customers and prospects’ behavior in real-time, and measuring campaign performance.",
+                                "description": [
+                                    "Orchestrate consistent customer experiences across multiple touch points.",
+                                    "Achieve greater efficiency through automated multiwave campaigns across channels.",
+                                    "Accurately evaluate,plan, and measure marketing activities using marketing analytics"
+                                ]
+                            }
+                        },
+                        "Campaign Management and Optimization (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EDCB5D2F46AF43FA161",
+                            "content": {
+                                "svp": "Build, launch, and optimize personalized cross-channel campaigns with speed and agility",
+                                "parent_description": "Campaign management and optimization involves planning and executing targeted multi-wave campaigns across various channels, reacting to customers and prospects’ behavior in real-time, and measuring campaign performance.",
+                                "description": [
+                                    "Execute straightforward, single-channel campaigns or create sophisticated, cross-channel journeys at scale.",
+                                    "Reach customers in the moments that matter with real-time, automated triggers.",
+                                    "Accelerate time to value with quick-to-deploy, adaptable, fully customizable journeys.",
+                                    "Effectively measure and improve revenue impact using built-in channel analytics and reporting."
+                                ]
+                            }
+                        },
+                        "Campaign Management and Optimization (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463DA40CC",
+                            "content": {
+                                "svp": "Engage customers with in-moment, individualized experiences by optimizing campaign management",
+                                "parent_description": "Campaign management and optimization involves planning and executing targeted multi-wave campaigns across various channels, reacting to customers and prospects’ behavior in real-time, and measuring campaign performance.",
+                                "description": [
+                                    "Plan and execute targeted multichannel, multiwave campaigns with personalized, dynamic content and react in real-time to customer behavior with trigger-based marketing.",
+                                    "Improve alignment of campaign activities with a centralized marketing calendar.",
+                                    "Optimize marketing performance with in-depth customer intelligence and real-time campaign analytics.",
+                                    "Customize, organize, and distribute finished sales and marketing content quickly to both online and offline channels by enabling marketers to store their content in a central repository while designing it​"
+                                ]
+                            }
+                        },
+                        "Campaign Management and Optimization (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463D900CC",
+                            "content": {
+                                "svp": "Engage customers with in-moment, individualized experiences by optimizing campaign management",
+                                "parent_description": "Campaign management and optimization involves planning and executing targeted multi-wave campaigns across various channels, reacting to customers and prospects’ behavior in real-time, and measuring campaign performance.",
+                                "description": [
+                                    "Plan and execute targeted multichannel, multiwave campaigns with personalized, dynamic content and react in real-time to customer behavior with trigger-based marketing.",
+                                    "Improve alignment of campaign activities with a centralized marketing calendar.",
+                                    "Optimize marketing performance with in-depth customer intelligence and real-time campaign analytics."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Campaign management and optimization involves planning and executing targeted multi-wave campaigns across various channels, reacting to customers and prospects’ behavior in real-time, and measuring campaign performance."
+                },
+                "Channel Marketing": {
+                    "content": {
+                        "Channel Marketing (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463E940CC",
+                            "content": {
+                                "svp": "Drive product demand through collaboration with channel partners",
+                                "parent_description": "Channel marketing involves driving product demand through collaboration with channel partners by providing campaign management tools and aligning marketing efforts to maximize the partners’ market reach and revenues.",
+                                "description": [
+                                    "Enable collaboration among brand owners and channel marketing partners with brand promotion, demand generation, and campaign management tools.",
+                                    "Enhance partner-customer relationships with cross-channel campaign management processes and in-house marketing resources.",
+                                    "Extend market reach and gains for partners with coordinated marketing efforts."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Channel marketing involves driving product demand through collaboration with channel partners by providing campaign management tools and aligning marketing efforts to maximize the partners’ market reach and revenues."
+                },
+                "Cross-Channel Engagement": {
+                    "content": {
+                        "Cross-Channel Engagement (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDCB5D2FE3C679AA7A3",
+                            "content": {
+                                "svp": "Engage customers wherever they are and deliver consistent, relevant messaging across channels",
+                                "parent_description": "Cross-channel engagement involves personalizing and coordinating the interactions with customers and prospects across multiple marketing channels.",
+                                "description": [
+                                    "Send transactional e-mails that blend with your brand’s look and feel or orchestrate strategic multichannel campaigns from a single platform.",
+                                    "Experience plug-and-play setup that connects with your marketing channels in minutes.",
+                                    "Use contact and behavior data to personalize content across channels, such as e-mail, mobile, digital ads, SMS, in-store, and contact center."
+                                ]
+                            }
+                        },
+                        "Cross-Channel Engagement (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92223759F40CC",
+                            "content": {
+                                "svp": "Engage customers in the moment with contextually relevant experiences across the customer journey",
+                                "parent_description": "Cross-channel engagement involves personalizing and coordinating the interactions with customers and prospects across multiple marketing channels.",
+                                "description": [
+                                    "Deliver contextually relevant engagements based on real-time events captured in a central, continuously enriched customer profile.",
+                                    "Launch multiwave campaigns that are event-triggered or automate relevant, omnichannel marketing content, messaging, and offers.",
+                                    "Personalize online experiences to convert buying behavior and interests into sales."
+                                ]
+                            }
+                        },
+                        "Cross-Channel Engagement (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92223759EA0CC",
+                            "content": {
+                                "svp": "Engage customers in the moment with contextually relevant experiences across the customer journey",
+                                "parent_description": "Cross-channel engagement involves personalizing and coordinating the interactions with customers and prospects across multiple marketing channels.",
+                                "description": [
+                                    "Deliver contextually relevant engagements based on real-time events captured in a central, continuously enriched customer profile.",
+                                    "Launch multiwave campaigns that are event-triggered or automate relevant, omnichannel marketing content, messaging, and offers.",
+                                    "Personalize online experiences to convert buying behavior and interests into sales."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Cross-channel engagement involves personalizing and coordinating the interactions with customers and prospects across multiple marketing channels."
+                },
+                "Social Campaigns and Engagement": {
+                    "content": {
+                        "Social Campaigns and Engagement (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EDCB5D307DDD63C65AC",
+                            "content": {
+                                "svp": "Personalize advertising across displays, searches, and social media to drive cross-channel revenue",
+                                "parent_description": "Social campaigns and engagement involve driving sales by reaching and engaging prospects with targeted social campaigns and personalized experiences&nbsp;to quickly answer customer inquiries, issues, or comments.&nbsp;​",
+                                "description": [
+                                    "Use CRM data to engage with contacts in real time using automated, data-driven digital advertising campaigns.",
+                                    "Increase conversions with highly personalized ads tailored to customer lifecycle stage, e-mail responses, and purchase and browsing history.",
+                                    "Optimize media spend by making sure the right ads reach the right audiences at the right time."
+                                ]
+                            }
+                        },
+                        "Social Campaigns and Engagement (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C844200CC",
+                            "content": {
+                                "svp": "Deliver impactful social campaigns and engagements that drive sales and increase brand advocacy",
+                                "parent_description": "Social campaigns and engagement involve driving sales by reaching and engaging prospects with targeted social campaigns and personalized experiences&nbsp;to quickly answer customer inquiries, issues, or comments.&nbsp;​",
+                                "description": [
+                                    "Engage your audience with targeted social campaigns to reach known and unknown prospects with similar buying behaviors and interests",
+                                    "Create new Facebook campaign or track existing ones as part of an overall omnichannel marketing plan.",
+                                    "Track planned spend versus actuals and measure campaign success in real time."
+                                ]
+                            }
+                        },
+                        "Social Campaigns and Engagement (Marketing OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C844160CC",
+                            "content": {
+                                "svp": "Deliver impactful social campaigns and engagements that drive sales and increase brand advocacy",
+                                "parent_description": "Social campaigns and engagement involve driving sales by reaching and engaging prospects with targeted social campaigns and personalized experiences&nbsp;to quickly answer customer inquiries, issues, or comments.&nbsp;​",
+                                "description": [
+                                    "Engage your audience with targeted social campaigns to reach known and unknown prospects with similar buying behaviors and interests",
+                                    "Create new Facebook campaigns or track existing ones as part of an overall omnichannel marketing plan.",
+                                    "Track planned spend versus actuals and measure campaign success in real time."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Social campaigns and engagement involve driving sales by reaching and engaging prospects with targeted social campaigns and personalized experiences to quickly answer customer inquiries, issues, or comments. ​"
+                }
+            }
+        }
+    }
+}

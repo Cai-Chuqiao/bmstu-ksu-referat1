@@ -1,0 +1,1504 @@
+{
+    "Asset Management": {
+        "Asset Acquisition and Building": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B28C5D91ED892E989797FA1C0CC",
+            "content": {
+                "Project Financials Control": {
+                    "content": {
+                        "Project Financials Control (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D70940CC",
+                            "content": {
+                                "svp": "Manage and control project financials effectively and deliver projects within budget",
+                                "parent_description": "Project financials control involves defining work breakdown structures accurately, tracking actual versus planned costs, and identifying deviations and at-risk activities or issues.",
+                                "description": [
+                                    "Create a basis for hierarchical project financials and accounting by defining work breakdown structures accurately.",
+                                    "Plan and control costs and budgets efficiently by tracking actual versus planned costs.",
+                                    "Improve monitoring of progress and financial performance of projects by identifying deviations and at-risk activities or issues."
+                                ]
+                            }
+                        },
+                        "Project Financials Control (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB692E5351BE8",
+                            "content": {
+                                "svp": "Manage project financials effectively and deliver projects within budget",
+                                "parent_description": "Project financials control involves defining work breakdown structures accurately, tracking actual versus planned costs, and identifying deviations and at-risk activities or issues.",
+                                "description": [
+                                    "Create a basis for hierarchical project accounting by defining work breakdown structures accurately.",
+                                    "Plan costs and budgets efficiently by tracking actual versus planned costs.",
+                                    "Improve monitoring of progress and financial performance of projects by identifying deviations and at-risk activities or issues."
+                                ]
+                            }
+                        },
+                        "Project Financials Control (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D709E0CC",
+                            "content": {
+                                "svp": "Manage project financials effectively and deliver projects within budget",
+                                "parent_description": "Project financials control involves defining work breakdown structures accurately, tracking actual versus planned costs, and identifying deviations and at-risk activities or issues.",
+                                "description": [
+                                    "Define work breakdown structures accurately, creating a basis for hierarchical project accounting.",
+                                    "Plan costs and budgets efficiently, and track actual versus planned costs.",
+                                    "Monitor the progress and financial performance of projects, identifying deviations and at-risk activities or issues."
+                                ]
+                            }
+                        },
+                        "Project Financials Control (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E472880CC",
+                            "content": {
+                                "svp": "Manage project financials effectively and deliver projects within budget",
+                                "parent_description": "Project financials control involves defining work breakdown structures accurately, tracking actual versus planned costs, and identifying deviations and at-risk activities or issues.",
+                                "description": [
+                                    "Create a basis for hierarchical project accounting by defining work breakdown structures accurately.",
+                                    "Plan costs and budgets efficiently by tracking actual versus planned costs.",
+                                    "Improve monitoring of progress and financial performance of projects by identifying deviations and at-risk activities or issues."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Project financials control involves defining work breakdown structures accurately, tracking actual versus planned costs, and identifying deviations and at-risk activities or issues."
+                },
+                "Project Logistics Control": {
+                    "content": {
+                        "Project Logistics Control (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D70A80CC",
+                            "content": {
+                                "svp": "Optimize project efficiency and deliver high-quality projects on time and within scope",
+                                "parent_description": "Project logistics control includes defining suitable work-breakdown and network structures to support project logistics planning and execution.",
+                                "description": [
+                                    "Improve planning and scheduling of project activities, resource demands, and materials with execution of project logistics and confirmation of work.",
+                                    "Prevent business disruptions by understanding all logistics-related execution aspects of a project",
+                                    "Support project logistics planning and execution by defining project structures."
+                                ]
+                            }
+                        },
+                        "Project Logistics Control (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB6B875869BEC",
+                            "content": {
+                                "svp": "Optimize project efficiency and deliver high-quality projects on time and within scope",
+                                "parent_description": "Project logistics control includes defining suitable work-breakdown and network structures to support project logistics planning and execution.",
+                                "description": [
+                                    "Define project structures comprising suitable work breakdown and network structures for project logistics planning and execution.",
+                                    "Use simplified code and an optimized data model to streamline authorization and external views of core data services.",
+                                    "Prevent business disruptions by understanding logistics-related execution aspects of a project."
+                                ]
+                            }
+                        },
+                        "Project Logistics Control (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8AEFC77555701C0CF",
+                            "content": {
+                                "svp": "Optimize project efficiency and deliver high-quality projects on time and within scope",
+                                "parent_description": "Project logistics control includes defining suitable work-breakdown and network structures to support project logistics planning and execution.",
+                                "description": [
+                                    "Improve planning and scheduling of project activities, resource demands, and materials with execution of project logistics and confirmation of work.",
+                                    "Prevent business disruptions by understanding all logistics-related execution aspects of a project",
+                                    "Support project logistics planning and execution by defining project structures."
+                                ]
+                            }
+                        },
+                        "Project Logistics Control (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E472CE0CC",
+                            "content": {
+                                "svp": "Optimize project efficiency and deliver high-quality projects on time and within scope",
+                                "parent_description": "Project logistics control includes defining suitable work-breakdown and network structures to support project logistics planning and execution.",
+                                "description": [
+                                    "Define project structures comprising suitable work breakdown and network structures for project logistics planning and execution.",
+                                    "Use simplified code and an optimized data model to streamline authorization and external views of core data services.",
+                                    "Prevent business disruptions by understanding logistics-related execution aspects of a project."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Project logistics control includes defining suitable work-breakdown and network structures to support project logistics planning and execution."
+                },
+                "Project Schedule Management": {
+                    "content": {
+                        "Project Schedule Management (ProjRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1EDAB39741CE70F6E0E9",
+                            "content": {
+                                "svp": "Streamline and automate a bidirectional exchange of project information with external scheduling tools",
+                                "parent_description": "Project schedule management includes synchronizing project information between SAP and third-party project management tools by using field-mapping rules and process orchestration to ensure data integrity and accuracy at all stages of the communication process.",
+                                "description": [
+                                    "Synchronize project master data and project schedules with external third-party project management tools.",
+                                    "Translate project information into external formats and vice versa.",
+                                    "Use flexible field-mapping rules to automate value checks and create new data entries if missing in the target system.&nbsp;",
+                                    "Orchestrate the exchange process through business rules defining the sequence for dynamically creating and modifying project elements based on project types and other criteria.",
+                                    "Aggregate project information from lower project levels using predefined business rules.​"
+                                ]
+                            }
+                        },
+                        "Project Schedule Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB73261ADDC05",
+                            "content": {
+                                "svp": "Streamline and automate a bidirectional exchange of project information with external scheduling tools",
+                                "parent_description": "Project schedule management includes synchronizing project information between SAP and third-party project management tools by using field-mapping rules and process orchestration to ensure data integrity and accuracy at all stages of the communication process.",
+                                "description": [
+                                    "Translate project information into external formats.",
+                                    "Use flexible field-mapping rules that automate value checks, and create new field values if not in the source system.",
+                                    "Orchestrate the exchange process through business rules defining the sequence of creating and modifying project elements dynamically based on project types and other criteria.",
+                                    "Exchange plant maintenance orders with third-party scheduling tools for full processing maintenance, from planning and scheduling to execution and progress tracking."
+                                ]
+                            }
+                        },
+                        "Project Schedule Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460814F60CC",
+                            "content": {
+                                "svp": "Streamline and automate a bidirectional exchange of project information with external scheduling tools",
+                                "parent_description": "Project schedule management includes synchronizing project information between SAP and third-party project management tools by using field-mapping rules and process orchestration to ensure data integrity and accuracy at all stages of the communication process.",
+                                "description": [
+                                    "Translate project information into external formats.",
+                                    "Use flexible field-mapping rules that automate value checks, and create new field values if not in the source system.",
+                                    "Orchestrate the exchange process through business rules defining the sequence of creating and modifying project elements dynamically based on project types and other criteria.",
+                                    "Exchange plant maintenance orders with third-party scheduling tools for full processing maintenance, from planning and scheduling to execution and progress tracking."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Project schedule management includes synchronizing project information between SAP and third-party project management tools by using field-mapping rules and process orchestration to ensure data integrity and accuracy at all stages of the communication process."
+                }
+            }
+        },
+        "Asset Commissioning and Network Collaboration": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/089E017A62AB1EDA97D914CFAC4A60E2",
+            "content": {
+                "Asset Network Collaboration for Asset Definition": {
+                    "content": {},
+                    "description": "One network channel for electronic data handover from OEM or constructors to asset operators"
+                },
+                "Asset Network and Collaboration": {
+                    "content": {
+                        "Asset Network and Collaboration (SBNAC)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E920A54D4800CC",
+                            "content": {
+                                "svp": "Enable secure asset information collaboration across your business network",
+                                "parent_description": "Asset network and collaboration enables secure asset collaboration with the asset stakeholder throughout the entire asset lifecycle. Provide one network channel for electronic handover of technical asset and maintenance data to OEMs, service providers, and procurement vendors​",
+                                "description": [
+                                    "Collaborate with manufacturers, operators, service suppliers, across the network on asset information.",
+                                    "Provide one network channel for electronic handover of technical asset and maintenance data to OEMs, service providers, and procurement vendors.",
+                                    "Improve data reliability, reduce master data maintenance, and maintain higher asset availability."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Asset network and collaboration enables secure asset collaboration with the asset stakeholder throughout the entire asset lifecycle. Provide one network channel for electronic handover of technical asset and maintenance data to OEMs, service providers, and procurement vendors​"
+                }
+            }
+        },
+        "Asset Environment and Safety": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/42F2E964F4E71EDA97D92E066DD3C0E2",
+            "content": {
+                "Work Permit and Isolations Management": {
+                    "content": {
+                        "Work Permit and Isolations Management (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E924608171C0CC",
+                            "content": {
+                                "svp": "Controlling maintenance work through clear safety instructions and permits",
+                                "parent_description": "Ability to establish an integrated process between asset management and EH&amp;S in order to communicate pertinent safety risks and control the maintenance work being performed.",
+                                "description": [
+                                    "Link environment, health, and safety (EHS) information to technical equipment and plant maintenance tasks.&nbsp;",
+                                    "Help generate work order safety plans and concrete safety measures automatically.",
+                                    "Support flexible levels of permits natively integrated with the work order process in enterprise asset management. Automate the permit process enforces fully auditable procedures that promote consistent behavior.&nbsp;"
+                                ]
+                            }
+                        },
+                        "Work Permit and Isolations Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB77A53599C1A",
+                            "content": {
+                                "svp": "Controlling maintenance work through clear safety instructions and permits",
+                                "parent_description": "Ability to establish an integrated process between asset management and EH&amp;S in order to communicate pertinent safety risks and control the maintenance work being performed.",
+                                "description": [
+                                    "Link environment, health, and safety (EHS) information to technical equipment and plant maintenance tasks.​",
+                                    "Help generate work-order safety plans and concrete safety measures automatically.​",
+                                    "Support flexible levels of permits natively integrated with the work-order process in enterprise asset management.​",
+                                    "Allow full user status enablement for work permits and safety certificates.​",
+                                    "Automate the permit process and enforce fully auditable procedures that promote consistent behavior.​",
+                                    "Accelerate the performance of daily work-permit processing as well as related safety certificates, such as isolation certificates for lock-out/tag-out procedures.​"
+                                ]
+                            }
+                        },
+                        "Work Permit and Isolations Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460817260CC",
+                            "content": {
+                                "svp": "Controlling maintenance work through clear safety instructions and permits",
+                                "parent_description": "Ability to establish an integrated process between asset management and EH&amp;S in order to communicate pertinent safety risks and control the maintenance work being performed.",
+                                "description": [
+                                    "Link environment, health, and safety (EHS) information to technical equipment and plant maintenance tasks.​",
+                                    "Help generate work-order safety plans and concrete safety measures automatically.​",
+                                    "Support flexible levels of permits natively integrated with the work-order process in enterprise asset management.​",
+                                    "Allow full user status enablement for work permits and safety certificates.​",
+                                    "Automate the permit process and enforce fully auditable procedures that promote consistent behavior.​",
+                                    "Accelerate the performance of daily work-permit processing as well as related safety certificates, such as isolation certificates for lock-out/tag-out procedures.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to establish an integrated process between asset management and EH&S in order to communicate pertinent safety risks and control the maintenance work being performed."
+                }
+            }
+        },
+        "Asset Information and Change Management": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B28C5D91ED892E98A58316BC0CC",
+            "content": {
+                "Asset Data and Information Management": {
+                    "content": {
+                        "Asset Data and Information Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB5263DBF5BCB",
+                            "content": {
+                                "svp": "Manage the lifecycle of various asset data and information, from creation to archiving, with appropriate authorization control",
+                                "parent_description": "Ability to create, update, delete, and archive asset master, transactional, time series, and events data. It also involves the same management of business rules, unstructured data (documents, drawings of design models, and pictures), and location and spatial information across asset types including historical data according to data quality requirements.",
+                                "description": [
+                                    "Keep the master records of assets from acquisition through procurement or commissioning of a capital project, including functional and financial information, to archiving the data at the end of the assets' lifecycles.",
+                                    "Manage both master and transactional data required for asset management, such as assets, their associated unstructured data (documents and drawings), maintenance notifications and orders, lists of maintenance activities, and financial data related to the assets and maintenance, such as costs and other accounting information.",
+                                    "Enforce and audit access to data and information with appropriate authorization control across the organization."
+                                ]
+                            }
+                        },
+                        "Asset Data and Information Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/5D0B020D64611EEE9CDFB70F92C8AC0E",
+                            "content": {
+                                "svp": "Manage the lifecycle of various asset data and information, from creation to archiving, with appropriate authorization control",
+                                "parent_description": "Ability to create, update, delete, and archive asset master, transactional, time series, and events data. It also involves the same management of business rules, unstructured data (documents, drawings of design models, and pictures), and location and spatial information across asset types including historical data according to data quality requirements.",
+                                "description": [
+                                    "Keep the master records of assets from acquisition through procurement, including their functional and financial information, to archiving the data at the end of the assets' lifecycles.",
+                                    "Manage both master and transactional data required for asset management, such as assets, their associated, unstructured data (documents and drawings), maintenance notifications and orders, lists of maintenance activities, and financial data related to the assets.",
+                                    "Manage both master and transactional data required for maintenance, such as costs and other accounting information.",
+                                    "Enforce and audit access to data and information with appropriate authorization controls across the organization."
+                                ]
+                            }
+                        },
+                        "Asset Data and Information Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/BB157EE7EE621EEE9CDFA45543733447",
+                            "content": {
+                                "svp": "Manage the lifecycle of various asset data and information, from creation to archiving, with appropriate authorization control",
+                                "parent_description": "Ability to create, update, delete, and archive asset master, transactional, time series, and events data. It also involves the same management of business rules, unstructured data (documents, drawings of design models, and pictures), and location and spatial information across asset types including historical data according to data quality requirements.",
+                                "description": [
+                                    "Keep the master records of assets from acquisition through procurement or commissioning of a capital project, including functional and financial information, to archiving the data at the end of the assets' lifecycles.",
+                                    "Manage both master and transactional data required for asset management, such as assets, their associated unstructured data (documents and drawings), maintenance notifications and orders, lists of maintenance activities, and financial data related to the assets and maintenance, such as costs and other accounting information.",
+                                    "Enforce and audit access to data and information with appropriate authorization control across the organization."
+                                ]
+                            }
+                        },
+                        "Asset Data and Information Management (S/4, Asset Perf Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/63B2836C763D1EDE89AE72F7205FBB2D",
+                            "content": {
+                                "svp": "Create, update, delete, and archive asset master, transactional, time series, and events data and business rules for assets",
+                                "parent_description": "Ability to create, update, delete, and archive asset master, transactional, time series, and events data. It also involves the same management of business rules, unstructured data (documents, drawings of design models, and pictures), and location and spatial information across asset types including historical data according to data quality requirements.",
+                                "description": [
+                                    "Follow a systematic and coordinated approach for collecting, organizing, analyzing, and utilizing data and information related to assets throughout their lifecycles.",
+                                    "Establish processes, systems, and technologies to capture, store, and maintain accurate and reliable data about assets, including their specifications, performance, maintenance histories, and conditions.",
+                                    "Facilitate asset monitoring, analysis, and forecasting, using this information to support activities such as maintenance planning, risk assessment, and performance optimization.",
+                                    "Enhance asset management practices, improve efficiency, and maximize the value and performance of assets using this data and information."
+                                ]
+                            }
+                        },
+                        "Asset Data and Information Management for Spatial Enablement (S/4 CLD Private, Geo Framework)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB54A842C5BD5",
+                            "content": {
+                                "svp": "Geospatially enable maintenance processes for optimized asset management tasks",
+                                "parent_description": "Ability to create, update, delete, and archive asset master, transactional, time series, and events data. It also involves the same management of business rules, unstructured data (documents, drawings of design models, and pictures), and location and spatial information across asset types including historical data according to data quality requirements.",
+                                "description": [
+                                    "Institute geospatially-enabled business processes to prioritize work, optimize outages, and increase asset reliability​",
+                                    "Use simple, intuitive, and map-based navigation to enhance maintenance team productivity​",
+                                    "Rely on data federation with GIS systems for a more precise and timely view of your business to minimize operational risk"
+                                ]
+                            }
+                        },
+                        "Asset Data and Information Management for Spatial Enablement (S/4, Geo Framework)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8BE94CEE86FC940D1",
+                            "content": {
+                                "svp": "Geospatially enable maintenance processes for optimized asset management tasks",
+                                "parent_description": "Ability to create, update, delete, and archive asset master, transactional, time series, and events data. It also involves the same management of business rules, unstructured data (documents, drawings of design models, and pictures), and location and spatial information across asset types including historical data according to data quality requirements.",
+                                "description": [
+                                    "Institute geospatially-enabled business processes to prioritize work, optimize outages, and increase asset reliability​",
+                                    "Use simple, intuitive, and map-based navigation to enhance maintenance team productivity​",
+                                    "Rely on data federation with GIS systems for a more precise and timely view of your business to minimize operational risk"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to create, update, delete, and archive asset master, transactional, time series, and events data. It also involves the same management of business rules, unstructured data (documents, drawings of design models, and pictures), and location and spatial information across asset types including historical data according to data quality requirements."
+                },
+                "Asset Information Governance": {
+                    "content": {
+                        "Asset Information Governance (Prospecta)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/57EA73B3B1E91EEE8BF8B0EADB72757D",
+                            "content": {
+                                "svp": "Improve efficiency of maintenance operations with a centralized, streamlined, and native cloud data governance process for asset master data",
+                                "parent_description": "Asset information governance involves creating or changing information in a consistent way, and measuring asset data quality across sources and targets to help ensure legal and regulatory compliance and governance across all asset information repositories.",
+                                "description": [
+                                    "Optimize maintenance, repair, and overhaul (MRO) with MDO Spares, by Prospecta Software, for improved efficiency.",
+                                    "Enhance enterprise asset management through the utilization of MDO Assets by Prospecta Software.",
+                                    "Optimize enterprise data management by leveraging MDO Customer One by Prospecta Software.",
+                                    "Assure data quality with MDO Product One by Prospecta Software."
+                                ]
+                            }
+                        },
+                        "Asset Information Governance (Utopia S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E920A54D4940CC",
+                            "content": {
+                                "svp": "Improve efficiency of maintenance operations with centralized and streamlined data governance process for asset master data",
+                                "parent_description": "Asset information governance involves creating or changing information in a consistent way, and measuring asset data quality across sources and targets to help ensure legal and regulatory compliance and governance across all asset information repositories.",
+                                "description": [
+                                    "Maintain consistent definition, authorization, and replication of key master data entities.​",
+                                    "Govern the process of creation and changes to asset information in a consistent manner with built in workflows for accurate data throughout the asset lifecycle.​",
+                                    "Transform asset information to meet complex operations requirements.​",
+                                    "Create master data in a centralized manner, with a fully compliant governance process, and correlate disparate asset information.​",
+                                    "Ensure compliance with legal and regulatory requirements across all asset information repositories.​"
+                                ]
+                            }
+                        },
+                        "Asset Information Governance (Utopia)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED991EB2A4B0BBCE0D6",
+                            "content": {
+                                "svp": "Improve efficiency of maintenance operations with centralized and streamlined data governance process for asset master data",
+                                "parent_description": "Asset information governance involves creating or changing information in a consistent way, and measuring asset data quality across sources and targets to help ensure legal and regulatory compliance and governance across all asset information repositories.",
+                                "description": [
+                                    "Maintain consistent definition, authorization, and replication of key master data entities.​",
+                                    "Govern the process of creation and changes to asset information in a consistent manner, with built in workflows for accurate data throughout the asset lifecycle.​",
+                                    "Transform asset information to meet complex operations requirements.​",
+                                    "Create master data in a centralized manner, with a fully compliant governance process, and correlate disparate asset information.​",
+                                    "Ensure compliance with legal and regulatory requirements across all asset information repositories.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Asset information governance involves creating or changing information in a consistent way, and measuring asset data quality across sources and targets to help ensure legal and regulatory compliance and governance across all asset information repositories."
+                },
+                "Asset Information Standards Definition": {
+                    "content": {
+                        "Asset Information Standards Definition (SBNAC, S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB58BF5B41BD8",
+                            "content": {
+                                "svp": "Establishes standards for asset data modeling and common asset data taxonomy across asset stakeholders and the whole asset lifecycle",
+                                "parent_description": "Ability to specify and establish standards for asset information to assure consistency, accuracy, and completeness throughout the asset management lifecycle and enable effective decision-making and optimization of asset performance. Asset information standards comprise the classification of assets to an agreed hierarchy, which allows for creation and management of the overall asset inventory. Additionally, they define the required attributes, common methods for categorizing asset defects and failures, and techniques for assessing and recording asset utilization and condition.",
+                                "description": []
+                            }
+                        },
+                        "Asset Information Standards Definition (SBNAC, S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/7FECA36531611EEE9DFAEB7395E7CC88",
+                            "content": {
+                                "svp": "Establishes standards for asset data modeling and common asset data taxonomy across asset stakeholders and the whole asset lifecycle",
+                                "parent_description": "Ability to specify and establish standards for asset information to assure consistency, accuracy, and completeness throughout the asset management lifecycle and enable effective decision-making and optimization of asset performance. Asset information standards comprise the classification of assets to an agreed hierarchy, which allows for creation and management of the overall asset inventory. Additionally, they define the required attributes, common methods for categorizing asset defects and failures, and techniques for assessing and recording asset utilization and condition.",
+                                "description": []
+                            }
+                        }
+                    },
+                    "description": "Ability to specify and establish standards for asset information to assure consistency, accuracy, and completeness throughout the asset management lifecycle and enable effective decision-making and optimization of asset performance. Asset information standards comprise the classification of assets to an agreed hierarchy, which allows for creation and management of the overall asset inventory. Additionally, they define the required attributes, common methods for categorizing asset defects and failures, and techniques for assessing and recording asset utilization and condition."
+                },
+                "Management of Change": {
+                    "content": {
+                        "Management of Change (MoC)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E924608174E0CC",
+                            "content": {
+                                "svp": "Managing operational changes with thorough review, risk mitigation, and documentation approval",
+                                "parent_description": "Ability to introduce and monitor operational change within an organization so that it does not lead to unknown or uncontrolled risk.",
+                                "description": [
+                                    "Simplify change requests, automate involvement of people, and help ensure consistent execution via templates and rules.",
+                                    "Support mitigating risks caused by changes to equipment, substances, operating conditions, and procedures.",
+                                    "Support thorough review of changes to mitigate risks and document approval at key phases, without disrupting operations and harming employees, assets, and the environment."
+                                ]
+                            }
+                        },
+                        "Management of Change (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB62E937D1BE0",
+                            "content": {
+                                "svp": "Managing operational changes with thorough review, risk mitigation, and documentation approval",
+                                "parent_description": "Ability to introduce and monitor operational change within an organization so that it does not lead to unknown or uncontrolled risk.",
+                                "description": [
+                                    "Simplify change requests, automate involvement of people, and help ensure consistent execution via templates and rules.",
+                                    "Support mitigating risks caused by changes to equipment, substances, operating conditions, and procedures.",
+                                    "Support thorough review of changes to mitigate risks and document approval at key phases, without disrupting operations and harming employees, assets, and the environment."
+                                ]
+                            }
+                        },
+                        "Management of Change (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1EDB87A169D7B49800EE",
+                            "content": {
+                                "svp": "Managing operational changes with thorough review, risk mitigation, and documentation approval",
+                                "parent_description": "Ability to introduce and monitor operational change within an organization so that it does not lead to unknown or uncontrolled risk.",
+                                "description": [
+                                    "Simplify change requests, automate involvement of people, and help ensure consistent execution via templates and rules.",
+                                    "Support mitigating risks caused by changes to equipment, substances, operating conditions, and procedures.",
+                                    "Support thorough review of changes to mitigate risks and document approval at key phases, without disrupting operations and harming employees, assets, and the environment"
+                                ]
+                            }
+                        },
+                        "Management of Change (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D701C0CC",
+                            "content": {
+                                "svp": "Managing operational changes with thorough review, risk mitigation, and documentation approval",
+                                "parent_description": "Ability to introduce and monitor operational change within an organization so that it does not lead to unknown or uncontrolled risk.",
+                                "description": [
+                                    "Simplify change requests, automate involvement of people, and help ensure consistent execution via templates and rules.",
+                                    "Support mitigating risks caused by changes to equipment, substances, operating conditions, and procedures.",
+                                    "Support thorough review of changes to mitigate risks and document approval at key phases, without disrupting operations and harming employees, assets, and the environment."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to introduce and monitor operational change within an organization so that it does not lead to unknown or uncontrolled risk."
+                }
+            }
+        },
+        "Asset Lifecycle Delivery": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/3F83C264AF571EEE86E637FBB5825DD8",
+            "content": {
+                "Asset Commissioning": {
+                    "content": {
+                        "Asset Commissioning (SBNAC, S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB4C3C513DBBA",
+                            "content": {
+                                "svp": "Leverage one network channel for handover of electronic data from OEMs or engineering and construction to asset operators",
+                                "parent_description": "Ability to commission an asset and handing over asset data from manufacturing or construction to maintenance operations.",
+                                "description": [
+                                    "Creates an asset foundation for OEMs, component suppliers, and operators.",
+                                    "Facilitates closer collaboration on the equipment definition among the asset stakeholders.",
+                                    "Enables handover of electronic asset data from OEMs and EPCs to operations.",
+                                    "Reduces the cost of commissioning master data using a common digital twin between the business partners."
+                                ]
+                            }
+                        },
+                        "Asset Commissioning (SBNAC, S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/0734A76C5EE41EEE9DFB373727F1225D",
+                            "content": {
+                                "svp": "Leverage one network channel for handover of electronic data from OEMs or engineering and construction to asset operators",
+                                "parent_description": "Ability to commission an asset and handing over asset data from manufacturing or construction to maintenance operations.",
+                                "description": [
+                                    "Creates an asset foundation for OEMs, component suppliers, and operators.",
+                                    "Facilitates closer collaboration on the equipment definition among the asset stakeholders.",
+                                    "Enables handover of electronic asset data from OEMs and EPCs to operations.",
+                                    "Reduces the cost of commissioning master data using a common digital twin between the business partners."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to commission an asset and handing over asset data from manufacturing or construction to maintenance operations."
+                },
+                "Asset Configuration Management": {
+                    "content": {
+                        "Asset Configuration Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB4E85FA59BBF",
+                            "content": {
+                                "svp": "Define and record the functional and physical attributes of assets, including the links between their components and changes over time",
+                                "parent_description": "Ability to identify, record, and manage the functional and physical attributes of assets, software, and related documentation including the links between the components of a system. It enables systematic control of changes to the identified asset attributes for maintaining integrity and traceability throughout the asset lifecycle.<br>",
+                                "description": [
+                                    "Manage the structural links between components that make up a unit of an asset with various attributes for each component.",
+                                    "Record the detailed histories of serialized components and the events that are related to them, such as moving locations, acquisition through procurement, or installation and removal, with links to the related activities that caused such events, such as refurbishment orders, purchase orders for asset acquisition, or logistics movement.",
+                                    "Manage various characteristics that can be flexibly defined to describe different classes of assets, such as physical characteristics like size, dimensions, or weight, operational attributes like operational hours, and location and spatial information."
+                                ]
+                            }
+                        },
+                        "Asset Configuration Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/5FB7D9AF1DBE1EEE9CDFC3A8BB1961E7",
+                            "content": {
+                                "svp": "Define and record the functional and physical attributes of assets, including the links between their components and changes over time",
+                                "parent_description": "Ability to identify, record, and manage the functional and physical attributes of assets, software, and related documentation including the links between the components of a system. It enables systematic control of changes to the identified asset attributes for maintaining integrity and traceability throughout the asset lifecycle.<br>",
+                                "description": [
+                                    "Manage the structural links between components that make up a unit of an asset with various attributes for each component.",
+                                    "Record the detailed histories of serialized components and the events that are related to them, such as moving locations or acquisition through procurement, with links to the related activities that caused such events, such as purchase orders for asset acquisition, or logistics movement.",
+                                    "Manage various characteristics that can be flexibly defined to describe different classes of assets, such as physical characteristics like size, dimensions, or weight and operational attributes like operational hours."
+                                ]
+                            }
+                        },
+                        "Asset Configuration Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/5D0B020D64611EEE9CDFC0A8F609EC0E",
+                            "content": {
+                                "svp": "Define and record the functional and physical attributes of assets, including the links between their components and changes over time",
+                                "parent_description": "Ability to identify, record, and manage the functional and physical attributes of assets, software, and related documentation including the links between the components of a system. It enables systematic control of changes to the identified asset attributes for maintaining integrity and traceability throughout the asset lifecycle.<br>",
+                                "description": [
+                                    "Manage the structural links between components that make up a unit of an asset with various attributes for each component.",
+                                    "Record the detailed histories of serialized components and the events that are related to them, such as moving locations, acquisition through procurement, or installation and removal, with links to the related activities that caused such events, such as refurbishment orders, purchase orders for asset acquisition, or logistics movement.",
+                                    "Manage various characteristics that can be flexibly defined to describe different classes of assets, such as physical characteristics like size, dimensions, or weight, operational attributes like operational hours, and location and spatial information."
+                                ]
+                            }
+                        },
+                        "Asset Configuration Management (S/4, SBNAC)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/F71E8E8587BC1EEE9DFB043EC1A794A8",
+                            "content": {
+                                "svp": "Establish a collaborative central asset repository to maintain common digital twins sourced from multiple systems and asset stakeholders",
+                                "parent_description": "Ability to identify, record, and manage the functional and physical attributes of assets, software, and related documentation including the links between the components of a system. It enables systematic control of changes to the identified asset attributes for maintaining integrity and traceability throughout the asset lifecycle.<br>",
+                                "description": [
+                                    "Leverage a collaborative asset registry in the cloud that is central to engineering, procurement, and construction (EPC), operations and maintenance, and field service.",
+                                    "Enable flexibility in asset modeling.",
+                                    "Tap into the solution that is extensible in content, scalable to high volumes, and integrates with back-end solutions from SAP."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to identify, record, and manage the functional and physical attributes of assets, software, and related documentation including the links between the components of a system. It enables systematic control of changes to the identified asset attributes for maintaining integrity and traceability throughout the asset lifecycle."
+                },
+                "Asset Health Monitoring": {
+                    "content": {
+                        "Asset Health Monitoring (Asset Perf Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/63B2836C763D1EEE89AE0F6EB03472EE",
+                            "content": {
+                                "svp": "Monitor current asset status, predict future problems, and initiate preventive measures",
+                                "parent_description": "Ability to track current asset status, predicting future problems, and initiating preventive measures.",
+                                "description": [
+                                    "Detect issues and assure optimal functionality with the ongoing process of monitoring asset conditions.",
+                                    "Collect and analyze data on operating parameters and environmental factors.",
+                                    "Gain real-time insights into asset health by monitoring indicators such as vibration, temperature, and pressure.",
+                                    "Enable early detection of anomalies, potential failures, and performance degradation to trigger proactive maintenance actions for preventing downtime, reducing costs, and optimizing asset lifespan.",
+                                    "Facilitate improved asset management and data-driven decisions for efficient operations."
+                                ]
+                            }
+                        },
+                        "Asset Health Monitoring (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/8B240203E7BF1EEE9DAC63F9BE2D3D38",
+                            "content": {
+                                "svp": "Monitor current asset status and initiate preventive measures",
+                                "parent_description": "Ability to track current asset status, predicting future problems, and initiating preventive measures.",
+                                "description": [
+                                    "Monitor the current functional and physical attributes of assets using measuring points and measuring documents.",
+                                    "Leverage predefined and predelivered conditions to define thresholds and limits for triggering maintenance notifications."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to track current asset status, predicting future problems, and initiating preventive measures."
+                },
+                "Asset Refurbishment": {
+                    "content": {
+                        "Asset Refurbishment (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB5D01ECF7BDD",
+                            "content": {
+                                "svp": "Maximize the economic values of high-value assets by refurbishing components in-house or replacing them through a subcontractor",
+                                "parent_description": "Ability to repair or remanufacture a defective or ineffective asset.<br><br>",
+                                "description": [
+                                    "Manage the configuration structure of high-value assets with serialized serviceable components and process refurbishment appropriately, whether done in-house or through subcontracting.",
+                                    "Track procurement and repair history by serializing the repairable components of an asset.",
+                                    "Valuate the repairable components according to their statuses, such as new, repaired, or faulty."
+                                ]
+                            }
+                        },
+                        "Asset Refurbishment (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/8B240203E7BF1EEE9D82C70E46505D25",
+                            "content": {
+                                "svp": "Maximize the economic values of high-value assets by refurbishing components in-house or replacing them through a subcontractor",
+                                "parent_description": "Ability to repair or remanufacture a defective or ineffective asset.<br><br>",
+                                "description": [
+                                    "Manage the configuration structure of high-value assets with serialized serviceable components and process refurbishment appropriately, whether done in-house or through subcontracting.",
+                                    "Track procurement and repair history by serializing the repairable components of an asset.",
+                                    "Valuate the repairable components according to their statuses, such as new, repaired, or faulty."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to repair or remanufacture a defective or ineffective asset."
+                },
+                "Asset Reliability Engineering": {
+                    "content": {
+                        "Asset Reliability Engineering (Asset Perf Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/ABC41FA5F1E91EDE89AEA2951C046DBC",
+                            "content": {
+                                "svp": "Apply reliability methodology across the asset lifecycle to assure optimal maintenance strategies for desired function and performance",
+                                "parent_description": "Ability to systematically apply reliability engineering principles and techniques throughout an asset’s lifecycle to assure its ability to perform a required function under given conditions for a given time interval. This involves identifying potential reliability issues as early as possible in the asset's lifecycle and making sure that all reliability requirements are met.",
+                                "description": [
+                                    "Follow a systematic and strategic approach to make sure assets perform their intended functions reliably throughout their lifecycles.",
+                                    "Identify and address potential failures, implement preventive and predictive maintenance strategies, and optimize asset performance.",
+                                    "Minimize unplanned downtime, extend asset life, and maximize overall operational efficiency.",
+                                    "Make data-driven decisions, conduct risk assessments, maintain condition monitoring, and facilitate continuous improvement.",
+                                    "Optimize maintenance activities, reduce costs, enhance safety, and improve the overall reliability and availability of critical assets."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to systematically apply reliability engineering principles and techniques throughout an asset’s lifecycle to assure its ability to perform a required function under given conditions for a given time interval. This involves identifying potential reliability issues as early as possible in the asset's lifecycle and making sure that all reliability requirements are met."
+                }
+            }
+        },
+        "Asset Management Strategy and Planning": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/E95940F22A7E1EDEBCC7532A9D6AE0D1",
+            "content": {
+                "Asset Investment Management": {
+                    "content": {
+                        "Asset Investment Management for Planning(Copperleaf)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/01BE3BFE44181EDEBCC75F68F0F76BB6",
+                            "content": {
+                                "svp": "Maximize investment outcomes and optimize value with tools for strategic planning and execution, as well as adaptable capital plans",
+                                "parent_description": "Ability to strategically plan, analyze, and optimize investment decisions for industrial assets, ensuring effective allocation of capital and maximizing long-term value.",
+                                "description": [
+                                    "Make value-based decisions aligned with your objectives to understand how every proposed project will contribute to organizational goals and targets.",
+                                    "Evaluate projects through a common value framework to inform trade-off decisions with accurate assessments of risk and value.",
+                                    "Compare project benefits across asset classes to help ensure funding and resources are allocated effectively across the organization.",
+                                    "Intuitively optimize investment plans, creating a portfolio that delivers maximum value and executing the right projects at the right time.",
+                                    "Evaluate a vast number of investment alternatives and identify which to fund – and when – to deliver the most value within targets and constraints."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to strategically plan, analyze, and optimize investment decisions for industrial assets, ensuring effective allocation of capital and maximizing long-term value."
+                },
+                "Strategic Asset Management Planning": {
+                    "content": {
+                        "Strategic Asset Management Planning (ERP, IBP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/01BE3BFE44181EDEBDE34778692A8C55",
+                            "content": {
+                                "svp": "Optimize inventory levels while increasing asset availability by enabling a collaborative maintenance and operations planning (M&amp;OP) process",
+                                "parent_description": "Ability to develop a comprehensive, long-term plan for managing assets aligned with an organization's vision, mission, and goals. This includes defining strategies and tactics to achieve the goals, as well as establishing performance metrics and measures to monitor progress and success.",
+                                "description": [
+                                    "Avoid unscheduled asset downtime due to missing MRO parts by bringing maintenance and supply planning together.",
+                                    "Optimize spare parts inventory levels for maintenance, repair, and operations.",
+                                    "Improve mid- to long-term visibility of required MRO parts and labor resources.",
+                                    "Enhance maintenance planning processes through preconfigured integration with plant maintenance and project system functionality in SAP ERP."
+                                ]
+                            }
+                        },
+                        "Strategic Asset Management Planning (S/4, IBP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/01BE3BFE44181EDEBDE3871CA477AC55",
+                            "content": {
+                                "svp": "Optimize inventory levels while increasing asset availability by enabling a collaborative Maintenance &amp; Operations Planning (M&amp;OP) process.",
+                                "parent_description": "Ability to develop a comprehensive, long-term plan for managing assets aligned with an organization's vision, mission, and goals. This includes defining strategies and tactics to achieve the goals, as well as establishing performance metrics and measures to monitor progress and success.",
+                                "description": [
+                                    "Avoid unscheduled asset downtime due to missing parts for. maintenance, repair, and operations (MRO) by bringing maintenance &amp; supply planning together",
+                                    "Optimize parts inventory levels for maintenance, repair, and operations (MRO)",
+                                    "Improve mid- to long-term visibility of required maintenance, repair, and operations (MRO)parts &amp; labor resources",
+                                    "Enhance maintenance planning processes through out-of-the-box integration with SAP S/4HANA Enterprise Asset Management and Project System"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to develop a comprehensive, long-term plan for managing assets aligned with an organization's vision, mission, and goals. This includes defining strategies and tactics to achieve the goals, as well as establishing performance metrics and measures to monitor progress and success."
+                }
+            }
+        },
+        "Asset Operations and Maintenance": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/40F2E9281A631ED892E9434D1E25A0DC",
+            "content": {
+                "Asset Fault and Incident Response Management": {
+                    "content": {
+                        "Asset Fault and Incident Response Management (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1EDAA7865748216C00E6",
+                            "content": {
+                                "svp": "Create and process any type of work request",
+                                "parent_description": "Ability to react systematically to failures and events involving an organization’s assets. It includes detecting and identifying the incident, performing fault analysis, using standard responses, implementing temporary and permanent repair procedures, accessing the site and handing it back, and reporting and updating asset information accordingly.<br>",
+                                "description": [
+                                    "Describe the technical problem of an object.",
+                                    "Request the maintenance department to perform a necessary task.",
+                                    "Document work that has been performed."
+                                ]
+                            }
+                        },
+                        "Asset Fault and Incident Response Management (S/4 CLD Private,  Asset Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB54A842C7BD5",
+                            "content": {
+                                "svp": "Create and process work requests for asset malfunctions and breakdowns",
+                                "parent_description": "Ability to react systematically to failures and events involving an organization’s assets. It includes detecting and identifying the incident, performing fault analysis, using standard responses, implementing temporary and permanent repair procedures, accessing the site and handing it back, and reporting and updating asset information accordingly.<br>",
+                                "description": [
+                                    "Describe the object's technical problem and record failure data such as object part, damage code, and causes of failure.",
+                                    "Request performance of necessary tasks by the maintenance department.",
+                                    "Plan, schedule, and perform repair activities by including relevant spare parts, labor, and external services.",
+                                    "Plan relevant activities considering workforce safety by integrating with the environment, health, and safety component.",
+                                    "Document the work that has been performed."
+                                ]
+                            }
+                        },
+                        "Asset Fault and Incident Response Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1EDAA786562A048F60E6",
+                            "content": {
+                                "svp": "Create and process work requests for asset malfunctions and breakdowns",
+                                "parent_description": "Ability to react systematically to failures and events involving an organization’s assets. It includes detecting and identifying the incident, performing fault analysis, using standard responses, implementing temporary and permanent repair procedures, accessing the site and handing it back, and reporting and updating asset information accordingly.<br>",
+                                "description": [
+                                    "Describe the object's technical problem and record failure data such as object part, damage code, and causes of failure.",
+                                    "Request performanceof necessary tasks by the maintenance department.",
+                                    "Plan, schedule, and perform repair activities by including relevant spare parts, labor, and external services.",
+                                    "Plan relevant activities considering workforce safety by integrating with SAP Environment, Health, and Safety Management.",
+                                    "Document the work that has been performed."
+                                ]
+                            }
+                        },
+                        "Asset Fault and Incident Response Management (S/4,  Asset Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1EDAA78650EC446140E6",
+                            "content": {
+                                "svp": "Create and process work requests for asset malfunctions and breakdowns",
+                                "parent_description": "Ability to react systematically to failures and events involving an organization’s assets. It includes detecting and identifying the incident, performing fault analysis, using standard responses, implementing temporary and permanent repair procedures, accessing the site and handing it back, and reporting and updating asset information accordingly.<br>",
+                                "description": [
+                                    "Describe the object's technical problem and record failure data such as object part, damage code, and causes of failure.",
+                                    "Request performance of necessary tasks by the maintenance department.",
+                                    "Plan, schedule, and perform repair activities by including relevant spare parts, labor, and external services.",
+                                    "Plan relevant activities considering workforce safety by integrating with the environment, health, and safety component.",
+                                    "Document the work that has been performed."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to react systematically to failures and events involving an organization’s assets. It includes detecting and identifying the incident, performing fault analysis, using standard responses, implementing temporary and permanent repair procedures, accessing the site and handing it back, and reporting and updating asset information accordingly."
+                },
+                "Asset Management Resource Planning": {
+                    "content": {
+                        "Asset Management Resource Planning (ERP, MRS)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460816EA0CC",
+                            "content": {
+                                "svp": "Allocate and optimize the resource scheduling with integrated view of priorities, assets, and capacities",
+                                "parent_description": "Ability to allocate and optimize resources by scheduling the right people, tools, and materials for the right place, time, and purpose. This supports the short-term and long-term scheduling of projects, installations, maintenance, and service activities.",
+                                "description": [
+                                    "Automatic support for resource planning based on availability, qualifications and roles",
+                                    "Optimization of daily assignment scheduling, for example, to maximize utilization and minimize travel times",
+                                    "Capacity&nbsp; planning by shifting demands at work center level to slots with sufficient capacity​​",
+                                    "Graphical interfaces to schedule resources based on the current resource planning situation ​",
+                                    "Execute resource scheduling with real-time visibility into maintenance resources and assets."
+                                ]
+                            }
+                        },
+                        "Asset Management Resource Planning (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB5AC6C25DBD9",
+                            "content": {
+                                "svp": "Allocate and optimize resource scheduling with an integrated view of priorities, assets, and capacities",
+                                "parent_description": "Ability to allocate and optimize resources by scheduling the right people, tools, and materials for the right place, time, and purpose. This supports the short-term and long-term scheduling of projects, installations, maintenance, and service activities.",
+                                "description": [
+                                    "Automatic support for resource planning based on availability, qualifications and roles;",
+                                    "Optimization of daily assignment scheduling, for example, to maximize utilization and minimize travel times",
+                                    "Capacity&nbsp; planning by shifting demands at work center level to slots with sufficient capacity​​",
+                                    "Graphical interfaces to schedule resources based on the current resource planning situation",
+                                    "Execute resource scheduling with real-time visibility into maintenance resources and assets.​",
+                                    "Analyze maintenance workload and capacities",
+                                    "Simulate and schedule maintenance work order operations",
+                                    "Track if maintenance is executed as scheduled"
+                                ]
+                            }
+                        },
+                        "Asset Management Resource Planning (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71EDA8EA5D991638AE0E0",
+                            "content": {
+                                "svp": "Allocate and optimize the resource scheduling with integrated view of priorities, assets, and capacities",
+                                "parent_description": "Ability to allocate and optimize resources by scheduling the right people, tools, and materials for the right place, time, and purpose. This supports the short-term and long-term scheduling of projects, installations, maintenance, and service activities.",
+                                "description": [
+                                    "Analyze maintenance workload and capacities",
+                                    "Simulate and schedule maintenance work order operations",
+                                    "Track if maintenance is executed as scheduled"
+                                ]
+                            }
+                        },
+                        "Asset Management Resource Planning (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8AE96E13DAB90C0CE",
+                            "content": {
+                                "svp": "Allocate and optimize resource scheduling with an integrated view of priorities, assets, and capacities",
+                                "parent_description": "Ability to allocate and optimize resources by scheduling the right people, tools, and materials for the right place, time, and purpose. This supports the short-term and long-term scheduling of projects, installations, maintenance, and service activities.",
+                                "description": [
+                                    "Automatic support for resource planning based on availability, qualifications and roles;",
+                                    "Optimization of daily assignment scheduling, for example, to maximize utilization and minimize travel times",
+                                    "Capacity&nbsp; planning by shifting demands at work center level to slots with sufficient capacity​​",
+                                    "Graphical interfaces to schedule resources based on the current resource planning situation",
+                                    "Execute resource scheduling with real-time visibility into maintenance resources and assets.​",
+                                    "Analyze maintenance workload and capacities",
+                                    "Simulate and schedule maintenance work order operations",
+                                    "Track if maintenance is executed as scheduled"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to allocate and optimize resources by scheduling the right people, tools, and materials for the right place, time, and purpose. This supports the short-term and long-term scheduling of projects, installations, maintenance, and service activities."
+                },
+                "Asset Spatial Enablement": {
+                    "content": {},
+                    "description": "Drive asset management business processes from a map and enable data federation with GIS systems"
+                },
+                "Maintenance Execution": {
+                    "content": {
+                        "Maintenance Execution (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C843A80CC",
+                            "content": {
+                                "svp": "Leverage efficient maintenance execution processes to improve equipment reliability",
+                                "parent_description": "Ability to manage maintenance execution tasks proactively and manage asset information for work orders, maintenance, measurements, inspections, metering, and inventory in order to improve safety, environmental impact, and operational results.",
+                                "description": [
+                                    "Execute planned and unplanned maintenance tasks in an efficient manner for optimal operations.​",
+                                    "Manage preventive and condition-based maintenance proactively by enabling remote workers to access, transfer, complete, and manage assigned work orders on any device.​",
+                                    "Execute maintenance activities that improve safety, environmental impact, and operational results.​"
+                                ]
+                            }
+                        },
+                        "Maintenance Execution (S/4 CLD Private, Asset Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB60B147A1BDF",
+                            "content": {
+                                "svp": "Leverage efficient maintenance execution processes to improve equipment reliability",
+                                "parent_description": "Ability to manage maintenance execution tasks proactively and manage asset information for work orders, maintenance, measurements, inspections, metering, and inventory in order to improve safety, environmental impact, and operational results.",
+                                "description": [
+                                    "Execute planned and unplanned maintenance tasks in an efficient manner for optimal operations.​",
+                                    "Manage preventive and condition-based maintenance proactively by enabling remote workers to access, transfer, complete, and manage assigned work orders on any device.​",
+                                    "Execute maintenance activities that improve safety, environmental impact, and operational results.​",
+                                    "Provide technicians with the ability to easily raise malfunction report, plan the repair work and document and confirm repair work so they can manage malfunctions effectively.​",
+                                    "Analyze maintenance efficiency with easy access to cost, breakdown, and location analysis and other embedded analytics​."
+                                ]
+                            }
+                        },
+                        "Maintenance Execution (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460816CC0CC",
+                            "content": {
+                                "svp": "Leverage efficient maintenance execution processes to improve equipment reliability",
+                                "parent_description": "Ability to manage maintenance execution tasks proactively and manage asset information for work orders, maintenance, measurements, inspections, metering, and inventory in order to improve safety, environmental impact, and operational results.",
+                                "description": [
+                                    "Efficiently execute planned and unplanned maintenance tasks for optimal operations.​",
+                                    "Print or send for output predelivered, customizable, and extensible shop papers related to a maintenance job being executed.",
+                                    "Proactively manage preventive and condition-based maintenance by enabling remote workers to access, transfer, complete, and manage assigned work orders on their devices.​",
+                                    "Execute maintenance activities that improve safety, environmental impact, and operational results.​",
+                                    "Enable technicians to intuitively raise malfunction reports and plan, document, and confirm repair work for effective management of malfunctions.​",
+                                    "Analyze maintenance efficiency with ready access to cost, breakdown, and location analyses as well as other embedded analytics"
+                                ]
+                            }
+                        },
+                        "Maintenance Execution (S/4, Asset Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460816C20CC",
+                            "content": {
+                                "svp": "Leverage efficient maintenance execution processes to improve equipment reliability",
+                                "parent_description": "Ability to manage maintenance execution tasks proactively and manage asset information for work orders, maintenance, measurements, inspections, metering, and inventory in order to improve safety, environmental impact, and operational results.",
+                                "description": [
+                                    "Execute planned and unplanned maintenance tasks in an efficient manner for optimal operations.​",
+                                    "Manage preventive and condition-based maintenance proactively by enabling remote workers to access, transfer, complete, and manage assigned work orders on any device.​",
+                                    "Execute maintenance activities that improve safety, environmental impact, and operational results.​",
+                                    "Provide technicians with the ability to easily raise malfunction report, plan the repair work and document and confirm repair work so they can manage malfunctions effectively.​",
+                                    "Analyze maintenance efficiency with easy access to cost, breakdown, and location analysis and other embedded analytics​."
+                                ]
+                            }
+                        },
+                        "Maintenance Execution (SBNAC, S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/F71E8E8587BC1EEE9DE5E2B4FE4434A2",
+                            "content": {
+                                "svp": "Enables transparent collaboration between maintenance service providers and their customers when carrying out work using a common work order",
+                                "parent_description": "Ability to manage maintenance execution tasks proactively and manage asset information for work orders, maintenance, measurements, inspections, metering, and inventory in order to improve safety, environmental impact, and operational results.",
+                                "description": [
+                                    "Create a foundation for work-order collaboration between asset operators and service providers.",
+                                    "Facilitate collaborative maintenance fulfillment of a common work order among asset stakeholders.",
+                                    "Provide one entry point for the customers of multiple service providers working in a portal-like scenario when planning work orders."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to manage maintenance execution tasks proactively and manage asset information for work orders, maintenance, measurements, inspections, metering, and inventory in order to improve safety, environmental impact, and operational results."
+                },
+                "Mobile Asset Management": {
+                    "content": {
+                        "Mobile Asset Management (ERP, Asset Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8A2E79255ADA400CD",
+                            "content": {
+                                "svp": "Improve technician productivity by providing all information required to install, inspect, and maintain assets on mobile",
+                                "parent_description": "Mobile asset management involves managing maintenance work orders, notifications, measurement readings, inspections, parts, attachments, and time recordings using mobile devices whether you’re online, offline, or occasionally connected. It also enables geographic information system (GIS) integration.",
+                                "description": [
+                                    "Provide timely, relevant, and accurate information on asset health, safety checklisks, work orders, measurements, inspections, metering, and inventory through mobile devices to optimize maintenance processes.​",
+                                    "Leverage context rich visualization and actionable insights to boost worker productivity.​",
+                                    "Enable easy and timely execution of end-to-end asset management on the go.​",
+                                    "Provide easy access to work order status, progress, and location to reduce maintenance cost.​"
+                                ]
+                            }
+                        },
+                        "Mobile Asset Management (ERP, Work Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF87B60CC",
+                            "content": {
+                                "svp": "Improve technician productivity by providing all maintenance related information on mobile in both online and offline modes",
+                                "parent_description": "Mobile asset management involves managing maintenance work orders, notifications, measurement readings, inspections, parts, attachments, and time recordings using mobile devices whether you’re online, offline, or occasionally connected. It also enables geographic information system (GIS) integration.",
+                                "description": [
+                                    "Provide timely, relevant, and accurate information on work orders, measurements, inspections, metering, and inventory using mobile devices to optimize maintenance processes.​",
+                                    "Provide ability to generate notifications and work orders on the spot to improve worker productivity.​",
+                                    "Provide easy access to work order status, progress, and location to reduce maintenance cost.​"
+                                ]
+                            }
+                        },
+                        "Mobile Asset Management (S/4 CLD Private, Asset Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB62E937D3BE0",
+                            "content": {
+                                "svp": "Improve technician productivity by providing all information required to install, inspect and maintain assets on mobile",
+                                "parent_description": "Mobile asset management involves managing maintenance work orders, notifications, measurement readings, inspections, parts, attachments, and time recordings using mobile devices whether you’re online, offline, or occasionally connected. It also enables geographic information system (GIS) integration.",
+                                "description": [
+                                    "Provide timely, relevant, and accurate information on asset health, safety checklisks, work orders, measurements, inspections, metering, and inventory using mobile devices to optimize maintenance processes.​",
+                                    "Leverage context rich visualization and actionable insights to boost worker productivity.​",
+                                    "Enable easy and timely execution of end-to-end asset management on the go.​",
+                                    "Provide easy access to work order status, progress, and location to reduce maintenance cost.​"
+                                ]
+                            }
+                        },
+                        "Mobile Asset Management (S/4 CLD Private, Work Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB672129FDBE6",
+                            "content": {
+                                "svp": "Improve technician productivity by providing all information required to install, inspect and maintain assets on mobile",
+                                "parent_description": "Mobile asset management involves managing maintenance work orders, notifications, measurement readings, inspections, parts, attachments, and time recordings using mobile devices whether you’re online, offline, or occasionally connected. It also enables geographic information system (GIS) integration.",
+                                "description": [
+                                    "Provide timely, relevant, and accurate information on work orders, measurements, i inspections, metering, and inventory using mobile devices to optimize maintenance processes.​",
+                                    "Provide ability to generate notifications and work orders on the spot to improve worker productivity.​",
+                                    "Provide easy access to worker status, progress, and location to reduce maintenance cost.​"
+                                ]
+                            }
+                        },
+                        "Mobile Asset Management (S/4 CLD Public, Maint. Assistant)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDB9DF43F544EAF73F0",
+                            "content": {
+                                "svp": "Improve technician productivity by providing all information required for maintenance execution on the go with the mobile app",
+                                "parent_description": "Mobile asset management involves managing maintenance work orders, notifications, measurement readings, inspections, parts, attachments, and time recordings using mobile devices whether you’re online, offline, or occasionally connected. It also enables geographic information system (GIS) integration.",
+                                "description": [
+                                    "Leverage mobile devices to optimize maintenance processes, whether in connected or disconnected mode",
+                                    "Provide timely, relevant, and accurate information for work requests and work orders"
+                                ]
+                            }
+                        },
+                        "Mobile Asset Management (S/4, Asset Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8AF93AD98D1BD60CF",
+                            "content": {
+                                "svp": "Improve technician productivity by providing all information required to install, inspect and maintain assets on mobile",
+                                "parent_description": "Mobile asset management involves managing maintenance work orders, notifications, measurement readings, inspections, parts, attachments, and time recordings using mobile devices whether you’re online, offline, or occasionally connected. It also enables geographic information system (GIS) integration.",
+                                "description": [
+                                    "Provide timely, relevant, and accurate information on asset health, safety checklisks, work orders, measurements, inspections, metering, and inventory using mobile devices to optimize maintenance processes.​",
+                                    "Leverage context rich visualization and actionable insights to boost worker productivity.​",
+                                    "Enable easy and timely execution of end-to-end asset management on the go.​",
+                                    "Provide easy access to work order status, progress, and location to reduce maintenance cost.​"
+                                ]
+                            }
+                        },
+                        "Mobile Asset Management (S/4, Work Mgr)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8AF93B150432FA0CF",
+                            "content": {
+                                "svp": "Improve technician productivity by providing all information required to install, inspect and maintain assets on mobile",
+                                "parent_description": "Mobile asset management involves managing maintenance work orders, notifications, measurement readings, inspections, parts, attachments, and time recordings using mobile devices whether you’re online, offline, or occasionally connected. It also enables geographic information system (GIS) integration.",
+                                "description": [
+                                    "Provide timely, relevant, and accurate information on work orders, measurements, i inspections, metering, and inventory using mobile devices to optimize maintenance processes.​",
+                                    "Provide ability to generate notifications and work orders on the spot to improve worker productivity.​",
+                                    "Provide easy access to worker status, progress, and location to reduce maintenance cost.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Mobile asset management involves managing maintenance work orders, notifications, measurement readings, inspections, parts, attachments, and time recordings using mobile devices whether you’re online, offline, or occasionally connected. It also enables geographic information system (GIS) integration."
+                },
+                "Project Management": {
+                    "content": {
+                        "Project Management (PPM, ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E472D80CC",
+                            "content": {
+                                "svp": "Plan, execute, and monitor projects to minimize deviations in schedule, cost, and scope",
+                                "parent_description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning.",
+                                "description": [
+                                    "Provide insights into project cost, time, scope, and quality performance through seamless integration with SAP ERP.",
+                                    "Manage the resources, schedule, and financial performance for each project phase, from initiation through closure.",
+                                    "Minimize delays and prevent business interruptions by monitoring the progress of projects."
+                                ]
+                            }
+                        },
+                        "Project Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB6ED7A6A9BEE",
+                            "content": {
+                                "svp": "Plan, execute, and monitor projects in real time to minimize deviations in schedule, cost, and scope",
+                                "parent_description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning.",
+                                "description": [
+                                    "Provide live insights into project cost, time, scope, and quality performance through seamless integration.​",
+                                    "Manage the resources, schedule, and financial performance for each project phase, from initiation through closure.​",
+                                    "Minimize delays and prevent business interruptions by monitoring the progress of projects in real time​.",
+                                    "Access project information through role-based user interfaces."
+                                ]
+                            }
+                        },
+                        "Project Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8ADE98504307620CE",
+                            "content": {
+                                "svp": "Plan, execute, and monitor projects in real time to minimize deviations in schedule, cost, and scope",
+                                "parent_description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning.",
+                                "description": [
+                                    "Provide live insights into project cost, time, scope, and quality performance through seamless integration.​",
+                                    "Manage the resources, schedule, and financial performance for each project phase, from initiation through closure.​",
+                                    "Minimize delays and prevent business interruptions by monitoring the progress of projects in real time.​",
+                                    "Access project information through role-based user interfaces. Use natural language to collaborate with stakeholders and systems.​​"
+                                ]
+                            }
+                        },
+                        "Project Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E472E20CC",
+                            "content": {
+                                "svp": "Plan, execute, and monitor projects in real time to minimize deviations in schedule, cost, and scope",
+                                "parent_description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning.",
+                                "description": [
+                                    "Provide live insights into project cost, time, scope, and quality performance through seamless integration.​",
+                                    "Manage the resources, schedule, and financial performance for each project phase, from initiation through closure.​",
+                                    "Minimize delays and prevent business interruptions by monitoring the progress of projects in real time​.",
+                                    "Access project information through role-based user interfaces."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning."
+                },
+                "Project Proposal Management": {
+                    "content": {
+                        "Project Proposal Management (PPM ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E46EF00CC",
+                            "content": {
+                                "svp": "Align portfolios with strategy while analyzing risk and performance",
+                                "parent_description": "Portfolio management involves instantly scoring and ranking proposals against each project to gain rapid insights into the performance of the entire project portfolio.",
+                                "description": [
+                                    "Invest in the right projects by aligning your project portfolio with enterprise strategy.",
+                                    "Identify the projects that can generate the most business value by scoring and ranking proposals against each other.",
+                                    "Gain insights into the performance of your entire project portfolio through analytics and monitoring."
+                                ]
+                            }
+                        },
+                        "Project Proposal Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB6ED7A6ABBEE",
+                            "content": {
+                                "svp": "Align portfolios with strategy while analyzing risk and performance in real time with SAP S/4HANA",
+                                "parent_description": "Portfolio management involves instantly scoring and ranking proposals against each project to gain rapid insights into the performance of the entire project portfolio.",
+                                "description": [
+                                    "Invest in the right projects by aligning your project portfolio with enterprise strategy.",
+                                    "Identify the projects that can generate the most business value by instantly scoring and ranking proposals against each other.",
+                                    "Gain rapid insights into the performance of your entire project portfolio through real-time analytics and monitoring."
+                                ]
+                            }
+                        },
+                        "Project Proposal Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E46EFA0CC",
+                            "content": {
+                                "svp": "Align portfolios with strategy while analyzing risk and performance in real time with SAP S/4HANA",
+                                "parent_description": "Portfolio management involves instantly scoring and ranking proposals against each project to gain rapid insights into the performance of the entire project portfolio.",
+                                "description": [
+                                    "Invest in the right projects by aligning your project portfolio with enterprise strategy.",
+                                    "Identify the projects that can generate the most business value by instantly scoring and ranking proposals against each other.",
+                                    "Gain rapid insights into the performance of your entire project portfolio through real-time analytics and monitoring."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Portfolio management involves instantly scoring and ranking proposals against each project to gain rapid insights into the performance of the entire project portfolio."
+                },
+                "Tactical Asset Management Planning": {
+                    "content": {
+                        "Tactical Asset Management Planning (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9299AB67F40CC",
+                            "content": {
+                                "svp": "Plan maintenance activities with appropriate tools and resources",
+                                "parent_description": "Ability to develop and implement plans and activities for effective asset inspection, maintenance, repair, replacement, and disposal. This includes specified timescales and costs for completion, as well as the necessary resources, such as people, tools, materials, services, documents, permits, and authorizations.<br>",
+                                "description": [
+                                    "Plan maintenance activities with appropriate tools and resources",
+                                    "Handle unplanned work requests with incomplete information, moving them to planned maintenance status.​",
+                                    "Schedule proactive preventive or condition-based maintenance tasks&nbsp;",
+                                    "Leverage integrated documentation for maintenance job planning and safety"
+                                ]
+                            }
+                        },
+                        "Tactical Asset Management Planning (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB75725B99C16",
+                            "content": {
+                                "svp": "Plan maintenance activities with appropriate tools and resources with real-time view",
+                                "parent_description": "Ability to develop and implement plans and activities for effective asset inspection, maintenance, repair, replacement, and disposal. This includes specified timescales and costs for completion, as well as the necessary resources, such as people, tools, materials, services, documents, permits, and authorizations.<br>",
+                                "description": [
+                                    "Plan maintenance activities with real-time view of work center load, capacity, work situation, and existing documentation.​",
+                                    "Schedule proactive maintenance tasks.",
+                                    "Provide role based access to maintenance planners and enable them to monitor important and time sensitive work.",
+                                    "Analyze maintenance efficiency with easy access to cost, breakdown, and location analytics.​​"
+                                ]
+                            }
+                        },
+                        "Tactical Asset Management Planning (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460817080CC",
+                            "content": {
+                                "svp": "Plan maintenance activities with appropriate tools and resources with real-time view",
+                                "parent_description": "Ability to develop and implement plans and activities for effective asset inspection, maintenance, repair, replacement, and disposal. This includes specified timescales and costs for completion, as well as the necessary resources, such as people, tools, materials, services, documents, permits, and authorizations.<br>",
+                                "description": [
+                                    "Plan maintenance activities using the appropriate tools and resources.",
+                                    "Schedule proactive preventive, condition-based, or recurring maintenance tasks.",
+                                    "Provide role-based access to maintenance planners and enable them to monitor important and time-sensitive work for better efficiency.",
+                                    "Analyze maintenance efficiency with intuitive access to cost, breakdown, and location analysis as well as other embedded analytics."
+                                ]
+                            }
+                        },
+                        "Tactical Asset Management Planning (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92460816F40CC",
+                            "content": {
+                                "svp": "Plan maintenance activities with appropriate tools and resources with real-time view",
+                                "parent_description": "Ability to develop and implement plans and activities for effective asset inspection, maintenance, repair, replacement, and disposal. This includes specified timescales and costs for completion, as well as the necessary resources, such as people, tools, materials, services, documents, permits, and authorizations.<br>",
+                                "description": [
+                                    "Plan maintenance activities with real-time view of work center load, capacity, work situation, and existing documentation.​",
+                                    "Schedule proactive maintenance tasks.",
+                                    "Provide role based access to maintenance planners and enable them to monitor important and time sensitive work.",
+                                    "Analyze maintenance efficiency with easy access to cost, breakdown, and location analytics.​​"
+                                ]
+                            }
+                        },
+                        "Tactical Asset Management Planning (SBNAC, S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/F71E8E8587BC1EEE9DE5EA727DF4B4A2",
+                            "content": {
+                                "svp": "Enables transparent collaboration between asset operators and service providers in planning work using a common work order",
+                                "parent_description": "Ability to develop and implement plans and activities for effective asset inspection, maintenance, repair, replacement, and disposal. This includes specified timescales and costs for completion, as well as the necessary resources, such as people, tools, materials, services, documents, permits, and authorizations.<br>",
+                                "description": [
+                                    "Create a foundation for work-order collaboration between asset operators and service providers.",
+                                    "Facilitate collaborative maintenance planning with a common work order among asset stakeholders.",
+                                    "Provide one entry point for the customers of multiple service providers working in a portal-like scenario to plan a work order."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to develop and implement plans and activities for effective asset inspection, maintenance, repair, replacement, and disposal. This includes specified timescales and costs for completion, as well as the necessary resources, such as people, tools, materials, services, documents, permits, and authorizations."
+                }
+            }
+        },
+        "Asset Performance Management": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/40F2E9281A631ED892E9A1A3726DE0DC",
+            "content": {
+                "Asset Prediction and Optimization": {
+                    "content": {
+                        "Asset Prediction and Optimization (Asset Perf Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B73262CB7CD41EDDB4DF13CDC7D16AA6",
+                            "content": {
+                                "svp": "Eliminate unplanned asset downtime with predictive maintenance and optimized service",
+                                "parent_description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system.",
+                                "description": [
+                                    "Use predictive maintenance and service capabilities and the Internet of Things to take corrective actions early and optimize availability of assets.​",
+                                    "Collect and analyze sensor data from physical assets to predict operational failure.​",
+                                    "Initiate countermeasures to prevent downtime through service or maintenance orders.​",
+                                    "Benefit from a 360-degree view across asset model, master, transactional, and performance data to optimize asset performance.​",
+                                    "Employ ready-to-use machine learning content per asset class to improve predictions.​"
+                                ]
+                            }
+                        },
+                        "Asset Prediction and Optimization (EPD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EECBDC5FE25C5F57337",
+                            "content": {
+                                "svp": "Perform predictive maintenance based on an engineering digital twin and virtual sensors",
+                                "parent_description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system.",
+                                "description": [
+                                    "Generate additional IoT sensor data using virtual sensors based on a digital twin, without having to install any physical sensors on the asset.",
+                                    "Calculate the best-possible performance under given operation conditions.",
+                                    "Perform ML-based anomaly detection in asset performance management and predictive asset insights using virtual sensors and engineering KPIs that are generated in SAP Enterprise Product Development, for a full E2E process."
+                                ]
+                            }
+                        },
+                        "Asset Prediction and Optimization (Pred. Asset)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631EDA85E3F1ACF3CC80F2",
+                            "content": {
+                                "svp": "Eliminate unplanned asset downtime with predictive maintenance and optimized service",
+                                "parent_description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system.",
+                                "description": [
+                                    "Use predictive maintenance and service capabilities and the Internet of Things to take corrective actions early and optimize availability of assets.​",
+                                    "Collect and analyze sensor data from physical assets to predict operational failure.​",
+                                    "Initiate countermeasures to prevent downtime through service or maintenance orders.​",
+                                    "Benefit from a 360-degree view across asset model, master, transactional, and performance data to optimize asset performance.​",
+                                    "Employ ready-to-use machine learning content per asset class to improve predictions.​"
+                                ]
+                            }
+                        },
+                        "Asset Prediction and Optimization (Pred. Maint. OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E46F4A0CC",
+                            "content": {
+                                "svp": "Eliminate unplanned asset downtime with predictive maintenance and optimized service",
+                                "parent_description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system.",
+                                "description": [
+                                    "Use predictive maintenance and service capabilities and the Internet of Things to take corrective actions early and optimize availability of assets​.",
+                                    "Collect and analyze sensor data from physical assets to predict operational failure.​",
+                                    "Initiate countermeasures to prevent downtime through service or maintenance orders.​",
+                                    "Benefit from a 360-degree view across asset model, master, transactional, and performance data to optimize asset performance.​",
+                                    "Employ ready-to-use machine learning content per asset class to improve predictions.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system."
+                },
+                "Asset Strategy and Performance": {
+                    "content": {
+                        "Asset Strategy and Performance (Asset Perf Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEC98B30BA6C94212E3",
+                            "content": {
+                                "svp": "Monitor, analyze, and optimize critical performance of assets",
+                                "parent_description": "Asset strategy and performance involves methods to manage risk, maintenance costs, downtime, and energy consumption to optimize return on assets across lifecycles by monitoring, reviewing, and improving maintenance activities. It helps you reduce bottlenecks, improve decision-making, and prevent incidents using a holistic view of asset types and maintenance strategies.",
+                                "description": [
+                                    "Optimize asset management through identification of the right maintenance strategies.",
+                                    "Leverage an objective approach to determine risk and criticality of assets.",
+                                    "Continuously monitor, review, and improve maintenance activities to optimize operations.",
+                                    "Use predictive maintenance and service capabilities and the Internet of Things to take corrective actions early and optimize availability of assets.",
+                                    "Collect and analyze sensor data from physical assets to predict operational failure.",
+                                    "Prevent downtime by initiating countermeasures through service or maintenance orders.",
+                                    "Optimize asset performance with a 360-degree view across asset model, master, transactional, and performance data."
+                                ]
+                            }
+                        },
+                        "Asset Strategy and Performance (AssetStrat)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E920A54D4B20CC",
+                            "content": {
+                                "svp": "Analyze critical performance of assets and optimize maintenance strategies",
+                                "parent_description": "Asset strategy and performance involves methods to manage risk, maintenance costs, downtime, and energy consumption to optimize return on assets across lifecycles by monitoring, reviewing, and improving maintenance activities. It helps you reduce bottlenecks, improve decision-making, and prevent incidents using a holistic view of asset types and maintenance strategies.",
+                                "description": [
+                                    "Optimize asset management with identification of right maintenance strategies.​",
+                                    "Leverage an objective approach to determine risk and criticality of assets​.",
+                                    "Continously monitor, review, and improve maintenance activities to optimize operations.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Asset strategy and performance involves methods to manage risk, maintenance costs, downtime, and energy consumption to optimize return on assets across lifecycles by monitoring, reviewing, and improving maintenance activities. It helps you reduce bottlenecks, improve decision-making, and prevent incidents using a holistic view of asset types and maintenance strategies."
+                }
+            }
+        },
+        "Asset Planning and Design": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B28C5D91ED892E942E703F8C0CC",
+            "content": {
+                "Project Management": {
+                    "content": {
+                        "Project Management (PPM, ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E472D80CC",
+                            "content": {
+                                "svp": "Plan, execute, and monitor projects to minimize deviations in schedule, cost, and scope",
+                                "parent_description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning.",
+                                "description": [
+                                    "Provide insights into project cost, time, scope, and quality performance through seamless integration with SAP ERP.",
+                                    "Manage the resources, schedule, and financial performance for each project phase, from initiation through closure.",
+                                    "Minimize delays and prevent business interruptions by monitoring the progress of projects."
+                                ]
+                            }
+                        },
+                        "Project Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB6ED7A6A9BEE",
+                            "content": {
+                                "svp": "Plan, execute, and monitor projects in real time to minimize deviations in schedule, cost, and scope",
+                                "parent_description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning.",
+                                "description": [
+                                    "Provide live insights into project cost, time, scope, and quality performance through seamless integration.​",
+                                    "Manage the resources, schedule, and financial performance for each project phase, from initiation through closure.​",
+                                    "Minimize delays and prevent business interruptions by monitoring the progress of projects in real time​.",
+                                    "Access project information through role-based user interfaces."
+                                ]
+                            }
+                        },
+                        "Project Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8ADE98504307620CE",
+                            "content": {
+                                "svp": "Plan, execute, and monitor projects in real time to minimize deviations in schedule, cost, and scope",
+                                "parent_description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning.",
+                                "description": [
+                                    "Provide live insights into project cost, time, scope, and quality performance through seamless integration.​",
+                                    "Manage the resources, schedule, and financial performance for each project phase, from initiation through closure.​",
+                                    "Minimize delays and prevent business interruptions by monitoring the progress of projects in real time.​",
+                                    "Access project information through role-based user interfaces. Use natural language to collaborate with stakeholders and systems.​​"
+                                ]
+                            }
+                        },
+                        "Project Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E472E20CC",
+                            "content": {
+                                "svp": "Plan, execute, and monitor projects in real time to minimize deviations in schedule, cost, and scope",
+                                "parent_description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning.",
+                                "description": [
+                                    "Provide live insights into project cost, time, scope, and quality performance through seamless integration.​",
+                                    "Manage the resources, schedule, and financial performance for each project phase, from initiation through closure.​",
+                                    "Minimize delays and prevent business interruptions by monitoring the progress of projects in real time​.",
+                                    "Access project information through role-based user interfaces."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Project management involves structuring and scheduling project activities, managing project schedules according to date constraints and relationships, monitoring the status of individual work items, and tracking actual project execution against planning."
+                },
+                "Project Proposal Management": {
+                    "content": {
+                        "Project Proposal Management (PPM ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E46EF00CC",
+                            "content": {
+                                "svp": "Align portfolios with strategy while analyzing risk and performance",
+                                "parent_description": "Portfolio management involves instantly scoring and ranking proposals against each project to gain rapid insights into the performance of the entire project portfolio.",
+                                "description": [
+                                    "Invest in the right projects by aligning your project portfolio with enterprise strategy.",
+                                    "Identify the projects that can generate the most business value by scoring and ranking proposals against each other.",
+                                    "Gain insights into the performance of your entire project portfolio through analytics and monitoring."
+                                ]
+                            }
+                        },
+                        "Project Proposal Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB6ED7A6ABBEE",
+                            "content": {
+                                "svp": "Align portfolios with strategy while analyzing risk and performance in real time with SAP S/4HANA",
+                                "parent_description": "Portfolio management involves instantly scoring and ranking proposals against each project to gain rapid insights into the performance of the entire project portfolio.",
+                                "description": [
+                                    "Invest in the right projects by aligning your project portfolio with enterprise strategy.",
+                                    "Identify the projects that can generate the most business value by instantly scoring and ranking proposals against each other.",
+                                    "Gain rapid insights into the performance of your entire project portfolio through real-time analytics and monitoring."
+                                ]
+                            }
+                        },
+                        "Project Proposal Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E46EFA0CC",
+                            "content": {
+                                "svp": "Align portfolios with strategy while analyzing risk and performance in real time with SAP S/4HANA",
+                                "parent_description": "Portfolio management involves instantly scoring and ranking proposals against each project to gain rapid insights into the performance of the entire project portfolio.",
+                                "description": [
+                                    "Invest in the right projects by aligning your project portfolio with enterprise strategy.",
+                                    "Identify the projects that can generate the most business value by instantly scoring and ranking proposals against each other.",
+                                    "Gain rapid insights into the performance of your entire project portfolio through real-time analytics and monitoring."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Portfolio management involves instantly scoring and ranking proposals against each project to gain rapid insights into the performance of the entire project portfolio."
+                }
+            }
+        },
+        "Asset Risk and Review Management": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/000D3A4855C81EEB96B1F4778801EE2B",
+            "content": {
+                "Asset Costing and Valuation": {
+                    "content": {
+                        "Asset Costing and Valuation (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB4E85FA5BBBF",
+                            "content": {
+                                "svp": "Monitor and analyze asset maintenance costs from various perspectives directly in the single system for operations and finance combined",
+                                "parent_description": "Ability to monitor asset maintenance costs, from planning to closing. This also includes recognizing and adopting appropriate valuation practices.",
+                                "description": [
+                                    "Monitor and compare estimated, baseline, planned, and actual costs from current maintenance orders.",
+                                    "Slice and dice the aggregated data flexibly from different perspectives and use data visualization to identify the critical cost factors.",
+                                    "Drill into the single maintenance order details or any other level you require to find the most appropriate level of granularity for your analysis."
+                                ]
+                            }
+                        },
+                        "Asset Costing and Valuation (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/BB157EE7EE621EEE9D82DF46E3B1146B",
+                            "content": {
+                                "svp": "Monitor and analyze asset maintenance costs from various perspectives directly in the single system for operations and finance combined",
+                                "parent_description": "Ability to monitor asset maintenance costs, from planning to closing. This also includes recognizing and adopting appropriate valuation practices.",
+                                "description": [
+                                    "Slice and dice the aggregated data flexibly from different perspectives and use data visualization to identify the critical cost factors.",
+                                    "Drill into the single maintenance order details or any other level you require to find the most appropriate granularity for your analysis.",
+                                    "Monitor and compare estimated, baseline, planned, and actual costs from current maintenance orders."
+                                ]
+                            }
+                        },
+                        "Asset Costing and Valuation (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/BB157EE7EE621EEE9D82DC897860B46B",
+                            "content": {
+                                "svp": "Monitor and analyze asset maintenance costs from various perspectives directly in the single system for operations and finance combined",
+                                "parent_description": "Ability to monitor asset maintenance costs, from planning to closing. This also includes recognizing and adopting appropriate valuation practices.",
+                                "description": [
+                                    "Monitor and compare estimated, baseline, planned, and actual costs from current maintenance orders.",
+                                    "Slice and dice the aggregated data flexibly from different perspectives and use data visualization to identify the critical cost factors.",
+                                    "Drill into the single maintenance order details or any other level you require to find the most appropriate level of granularity for your analysis."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to monitor asset maintenance costs, from planning to closing. This also includes recognizing and adopting appropriate valuation practices."
+                },
+                "Asset Performance Analysis": {
+                    "content": {
+                        "Asset Performance Analysis (Asset Perf Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/57EA73B3B1E91EDE89AE325AC4886D16",
+                            "content": {
+                                "svp": "Analyze asset performance to derive insights on possible maintenance and service strategies",
+                                "parent_description": "Ability to collect and analyze data, such as operational data, maintenance records, sensor readings, and other relevant metrics, to identify patterns, trends, and anomalies that provide insights into asset behavior and potential issues. This information can also provide opportunities to enhance reliability, availability, efficiency, and effectiveness. The goal of asset performance analysis is to optimize asset utilization, minimize downtime, reduce maintenance costs, and maximize ROI from assets.<br><br>",
+                                "description": [
+                                    "Systematically evaluate an asset's effectiveness and efficiency.",
+                                    "Collect and analyze data on performance indicators such as reliability, availability, maintainability, and safety.",
+                                    "Understand how well assets are fulfilling their functions, identify areas for improvement, and make informed decisions on maintenance and investments.",
+                                    "Examine performance trends and identify reliability issues and risks.",
+                                    "Optimize asset performance, improve operational efficiency, and achieve strategic goals."
+                                ]
+                            }
+                        },
+                        "Asset Performance Analysis (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EEF9BEDB5D01ECF5BDD",
+                            "content": {
+                                "svp": "Analyze historical asset breakdowns at different levels, such as the company level, the single asset level, or by components or subsystems",
+                                "parent_description": "Ability to collect and analyze data, such as operational data, maintenance records, sensor readings, and other relevant metrics, to identify patterns, trends, and anomalies that provide insights into asset behavior and potential issues. This information can also provide opportunities to enhance reliability, availability, efficiency, and effectiveness. The goal of asset performance analysis is to optimize asset utilization, minimize downtime, reduce maintenance costs, and maximize ROI from assets.<br><br>",
+                                "description": [
+                                    "Review asset reliability by tracking damages related to the assets and identify frequent damages and their root causes by applying various filters.",
+                                    "Analyze asset performance with indicators such as time to repair, time between repairs, mean time for repairs, and mean time between repairs.",
+                                    "Navigate freely from data visualization and aggregated data to granular details of a single maintenance notification, as analysis requires."
+                                ]
+                            }
+                        },
+                        "Asset Performance Analysis (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/5D0B020D64611EEE9D82ED10E4F40C26",
+                            "content": {
+                                "svp": "Analyze historical asset breakdowns at different levels, such as the company level, the single asset level, or by components",
+                                "parent_description": "Ability to collect and analyze data, such as operational data, maintenance records, sensor readings, and other relevant metrics, to identify patterns, trends, and anomalies that provide insights into asset behavior and potential issues. This information can also provide opportunities to enhance reliability, availability, efficiency, and effectiveness. The goal of asset performance analysis is to optimize asset utilization, minimize downtime, reduce maintenance costs, and maximize ROI from assets.<br><br>",
+                                "description": [
+                                    "Review asset reliability by tracking damages related to the assets and identify frequent damages and their root causes by applying various filters.",
+                                    "Analyze asset performance with indicators such as time to repair, time between repairs, mean time for repairs, and mean time between repairs.",
+                                    "Navigate freely from data visualization and aggregated data to granular details of a single maintenance notification, as analysis requires."
+                                ]
+                            }
+                        },
+                        "Asset Performance Analysis (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/BB157EE7EE621EEE9D82E7F36CACB46B",
+                            "content": {
+                                "svp": "Analyze historical asset breakdowns at different levels, such as the company level, the single asset level, or by components or subsystems",
+                                "parent_description": "Ability to collect and analyze data, such as operational data, maintenance records, sensor readings, and other relevant metrics, to identify patterns, trends, and anomalies that provide insights into asset behavior and potential issues. This information can also provide opportunities to enhance reliability, availability, efficiency, and effectiveness. The goal of asset performance analysis is to optimize asset utilization, minimize downtime, reduce maintenance costs, and maximize ROI from assets.<br><br>",
+                                "description": [
+                                    "Review asset reliability by tracking damages related to the assets and identify frequent damages and their root causes by applying various filters.",
+                                    "Analyze asset performance with indicators such as time to repair, time between repairs, mean time for repairs, and mean time between repairs.",
+                                    "Navigate freely from data visualization and aggregated data to granular details of a single maintenance notification, as analysis requires."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to collect and analyze data, such as operational data, maintenance records, sensor readings, and other relevant metrics, to identify patterns, trends, and anomalies that provide insights into asset behavior and potential issues. This information can also provide opportunities to enhance reliability, availability, efficiency, and effectiveness. The goal of asset performance analysis is to optimize asset utilization, minimize downtime, reduce maintenance costs, and maximize ROI from assets."
+                },
+                "Asset Prediction and Optimization": {
+                    "content": {
+                        "Asset Prediction and Optimization (Asset Perf Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B73262CB7CD41EDDB4DF13CDC7D16AA6",
+                            "content": {
+                                "svp": "Eliminate unplanned asset downtime with predictive maintenance and optimized service",
+                                "parent_description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system.",
+                                "description": [
+                                    "Use predictive maintenance and service capabilities and the Internet of Things to take corrective actions early and optimize availability of assets.​",
+                                    "Collect and analyze sensor data from physical assets to predict operational failure.​",
+                                    "Initiate countermeasures to prevent downtime through service or maintenance orders.​",
+                                    "Benefit from a 360-degree view across asset model, master, transactional, and performance data to optimize asset performance.​",
+                                    "Employ ready-to-use machine learning content per asset class to improve predictions.​"
+                                ]
+                            }
+                        },
+                        "Asset Prediction and Optimization (EPD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EECBDC5FE25C5F57337",
+                            "content": {
+                                "svp": "Perform predictive maintenance based on an engineering digital twin and virtual sensors",
+                                "parent_description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system.",
+                                "description": [
+                                    "Generate additional IoT sensor data using virtual sensors based on a digital twin, without having to install any physical sensors on the asset.",
+                                    "Calculate the best-possible performance under given operation conditions.",
+                                    "Perform ML-based anomaly detection in asset performance management and predictive asset insights using virtual sensors and engineering KPIs that are generated in SAP Enterprise Product Development, for a full E2E process."
+                                ]
+                            }
+                        },
+                        "Asset Prediction and Optimization (Pred. Asset)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631EDA85E3F1ACF3CC80F2",
+                            "content": {
+                                "svp": "Eliminate unplanned asset downtime with predictive maintenance and optimized service",
+                                "parent_description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system.",
+                                "description": [
+                                    "Use predictive maintenance and service capabilities and the Internet of Things to take corrective actions early and optimize availability of assets.​",
+                                    "Collect and analyze sensor data from physical assets to predict operational failure.​",
+                                    "Initiate countermeasures to prevent downtime through service or maintenance orders.​",
+                                    "Benefit from a 360-degree view across asset model, master, transactional, and performance data to optimize asset performance.​",
+                                    "Employ ready-to-use machine learning content per asset class to improve predictions.​"
+                                ]
+                            }
+                        },
+                        "Asset Prediction and Optimization (Pred. Maint. OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E46F4A0CC",
+                            "content": {
+                                "svp": "Eliminate unplanned asset downtime with predictive maintenance and optimized service",
+                                "parent_description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system.",
+                                "description": [
+                                    "Use predictive maintenance and service capabilities and the Internet of Things to take corrective actions early and optimize availability of assets​.",
+                                    "Collect and analyze sensor data from physical assets to predict operational failure.​",
+                                    "Initiate countermeasures to prevent downtime through service or maintenance orders.​",
+                                    "Benefit from a 360-degree view across asset model, master, transactional, and performance data to optimize asset performance.​",
+                                    "Employ ready-to-use machine learning content per asset class to improve predictions.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Asset Prediction and Optimization​ involves the monitoring of current asset health; the prediction of future health; the creation of health indicators, KPIs, and alerts; and the execution of maintenance corrective measures into the maintenance management system."
+                },
+                "Asset Risk Assessment": {
+                    "content": {
+                        "Asset Risk Assessment (Asset Perf Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/63B2836C763D1EDE89AE494E5E1BCB84",
+                            "content": {
+                                "svp": "Assess and monitor the risk of an asset in regard to different impacts to segment assets based on criticality",
+                                "parent_description": "Ability to evaluate and monitor the risk of an asset breaking down. This includes analyzing the failure probability as well as the impact of the consequences.",
+                                "description": [
+                                    "Evaluate and quantify the potential risks associated with an asset or a portfolio of assets.",
+                                    "Identify and analyze risks such as financial, operational, safety, environmental, and reputational risks that can impact asset performance and value.",
+                                    "Consider factors such as asset condition, criticality, vulnerability, and external threats.",
+                                    "Prioritize mitigation strategies, effectively allocate resources, and develop risk-management plans using comprehensive assessments to assure the resilience and longevity of assets.",
+                                    "Make informed decisions and proactively manage risks throughout the asset lifecycle."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to evaluate and monitor the risk of an asset breaking down. This includes analyzing the failure probability as well as the impact of the consequences."
+                }
+            }
+        }
+    }
+}

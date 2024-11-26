@@ -1,0 +1,100 @@
+{
+    "Health Care and Cure": {
+        "Care Delivery": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B28C5D91ED892EAC5448DA400CC",
+            "content": {
+                "Clinical Documentation": {
+                    "content": {
+                        "Clinical Documentation (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8BFAC3E039C2220D1",
+                            "content": {
+                                "svp": "Help ensure patient safety by making the best decisions in patient care with real-time complete information availability",
+                                "parent_description": "Clinical documentation includes capturing all clinical information in an integrated environment, making the information available in electronic medical records, and having the ability to access those records on mobile devices at the point of care.",
+                                "description": [
+                                    "Enter assessments and findings only once and reuse it multiple times",
+                                    "Support closed loop medication with clinical decision support",
+                                    "Provide a comprehensive view on a patient’s condition for decision-making, with structured documentation of vital signs, allergies, and risk factors",
+                                    "Capture clinical information and make it available anytime, anywhere by integrating and analyzing patient data with mobile, electronic medical records"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Clinical documentation includes capturing all clinical information in an integrated environment, making the information available in electronic medical records, and having the ability to access those records on mobile devices at the point of care."
+                },
+                "Diagnostics and Treatment Coordination": {
+                    "content": {
+                        "Diagnostics and Treatment Coordination (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92223759040CC",
+                            "content": {
+                                "svp": "Establish organization-wide electronic ordering for investigations and therapies",
+                                "parent_description": "Diagnostics and treatment coordination includes documenting patient history and enabling clinicians to access the most current patient information to support every facet of their work, from providing nursing services to dispensing medication.",
+                                "description": [
+                                    "Enable Computerized Physician Order Entry (CPOE) for all kind of services, ensuring clear and comprehensive information for communication, billing, and cost accounting.",
+                                    "Integrate planning and the scheduling of diagnostics and therapies seamlessly to avoid missed appointments, optimize utilization, and reduce wait times.",
+                                    "Interdisciplinary coordination of assessments and treatments across departments to assist with timely second opinion and expert opinion gatherings. "
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Diagnostics and treatment coordination includes documenting patient history and enabling clinicians to access the most current patient information to support every facet of their work, from providing nursing services to dispensing medication."
+                },
+                "Patient Outcome": {
+                    "content": {
+                        "Patient Outcome Management (Qualtrics)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED9BFF74BE925DF20DE",
+                            "content": {
+                                "svp": "Collect direct feedback from patients on care effectiveness and patient experiences and use the results to improve patient outcomes",
+                                "parent_description": "Patient Outcome includes to collect direct feedback from patient throughout and after care on care effectiveness and regular check with patients to measure perceived mood​ so results can be used to improve patient outcome​.",
+                                "description": [
+                                    "Collect patient feedback through easy-to-use survey or apps on the impact of medication and clinical activities (such as surgery, examination, and more).",
+                                    "Facilitate regular check-ins with patient to measure perceived mood, pain, well-being, and other indicators.",
+                                    "Improve care delivery and reduce the cost of care through efficient and effective care delivery."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Patient Outcome includes to collect direct feedback from patient throughout and after care on care effectiveness and regular check with patients to measure perceived mood​ so results can be used to improve patient outcome​."
+                }
+            }
+        },
+        "Surgeries and Interventions": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/005056821C321ED8BFABEC6474DD2105",
+            "content": {
+                "Coordination, Ordering, and Planning": {
+                    "content": {
+                        "Coordination, Ordering, and Planning (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8BFAC88D368DD40D1",
+                            "content": {
+                                "svp": "Optimize the planning and scheduling of complex surgeries and interventions",
+                                "parent_description": "Coordination, ordering, and planning includes the optimization of the planning and scheduling of complex surgeries and interventions and the coordination of related teams and materials.",
+                                "description": [
+                                    "Order surgeries and interventions with specific content to improve efficiency and communication accuracy.",
+                                    "Optimize outcomes with long- or short-term planning and real-time scheduling.",
+                                    "Integrate planning teams and materials to enhance revenue and prevent loss."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Coordination, ordering, and planning includes the optimization of the planning and scheduling of complex surgeries and interventions and the coordination of related teams and materials."
+                },
+                "Surgery Documentation": {
+                    "content": {
+                        "Surgery Documentation (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED8BFAC9F40C64900D4",
+                            "content": {
+                                "svp": "Coordinate structured documentation of complex surgeries and interventions",
+                                "parent_description": "Surgery documentation includes the detailed structured interdisciplinary documentation of surgeries and interventions including material consumption and team activities.",
+                                "description": [
+                                    "Tailor the workplace for interdisciplinary documentation – surgeons, nurses, and anesthetists – to create a comprehensive view to ensure the right treatment is provided to the right patient.",
+                                    "Enable detailed, structured documentation and analytics to provide deep insights.",
+                                    "Integrate documentation for material consumption and teams to help with replenishments, purchasing, and cost accounting. "
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Surgery documentation includes the detailed structured interdisciplinary documentation of surgeries and interventions including material consumption and team activities."
+                }
+            }
+        }
+    }
+}

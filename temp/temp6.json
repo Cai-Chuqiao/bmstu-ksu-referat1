@@ -1,0 +1,153 @@
+{
+    "Healthcare Data Insights": {
+        "Data Warehousing for Healthcare Matters": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/42F2E964FAAF1ED8BAFC1896EAED80D3",
+            "content": {
+                "Clinical Data Modeling and Platform Services": {
+                    "content": {
+                        "Clinical Data Modeling and Platform Services": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9222375B520CC",
+                            "content": {
+                                "svp": "Accelerate the creation of a clinical data warehousing platform using a predefined, agile data model",
+                                "parent_description": "Clinical data modeling and platform services includes a predefined, agile data model, harmonization of healthcare data from various sources, optimization of data transformation and loading, as well as extension capabilities to easily add customer and partner specific content.",
+                                "description": [
+                                    "Simplify administrative tasks and operations through a clinical data warehouse model that is highly flexible, with consolidated and harmonized healthcare data from various sources.",
+                                    "Optimize the transformation and loading of data with highly automated scheduling and monitoring of data integration flows.",
+                                    "Improve user and access management to services with a connected health platform.",
+                                    "Ease customer- and partner-specific development by extending healthcare content.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Clinical data modeling and platform services includes a predefined, agile data model, harmonization of healthcare data from various sources, optimization of data transformation and loading, as well as extension capabilities to easily add customer and partner specific content."
+                },
+                "Healthcare Big Data Integration": {
+                    "content": {
+                        "Healthcare Big Data Integration (DIC)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1EDABA8C4126897040EC",
+                            "content": {
+                                "svp": "Integrate data using data pipelines to deliver intelligent data for your intelligent healthcare enterprise",
+                                "parent_description": "Healthcare Big Data integration involves leveraging existing connections and integration tools with an open framework to pull insights from Big Data and enterprise stores.​",
+                                "description": [
+                                    "Create complex, multistep, and reusable data pipelines to process, refine, and enrich data at the source.",
+                                    "Execute powerful data flows quickly by using distributed local processing with scheduling and monitoring across the data landscape.",
+                                    "Execute and orchestrate unified workflows in a given order, including data pipelines, file operations, and data flow graphs."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Healthcare Big Data integration involves leveraging existing connections and integration tools with an open framework to pull insights from Big Data and enterprise stores.​"
+                },
+                "Scientific Data Modeling": {
+                    "content": {
+                        "Scientific Data Modeling": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1433F20CC",
+                            "content": {
+                                "svp": "Broaden the scope of clinical data analysis through scientific data modeling",
+                                "parent_description": "Scientific data modeling includes the enrichment of the clinical data model with genomic information and the expanded support for clinical analysis through ontologies.",
+                                "description": [
+                                    "Capture genomic data for inclusion in clinical data analysis through genomic data modeling.",
+                                    "Advance modeling by loading genomic data from related documents and gene sequence files into a genomic model linked to a clinical data model.",
+                                    "Improve knowledge sharing by making the genomic data available and using ontology data for inclusion in clinical data analysis with ontology data modeling.",
+                                    "Reduce data costs by loading ontology content from various external providers into a common data model.",
+                                    "Improve analysis processes with code translation, categorization, and other ontology services."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Scientific data modeling includes the enrichment of the clinical data model with genomic information and the expanded support for clinical analysis through ontologies."
+                }
+            }
+        },
+        "Health Data Analytics": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/40F2E9281A631ED892EAFA6B24CF40DC",
+            "content": {
+                "Healthcare Predictive Analytics": {
+                    "content": {
+                        "Healthcare Predictive Analytics (Analytics CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED8AC8452F99A16E0D1",
+                            "content": {
+                                "svp": "Create high-performance predictive modeling by automating or choosing algorithms including your own",
+                                "parent_description": "Healthcare predictive analytics involve applying predictive algorithms and machine learning to uncover trends and patterns and anticipate better patient and business outcomes.",
+                                "description": [
+                                    "Build predictive models within days by using automated techniques that require no code experience",
+                                    "Gain quick access to a wide variety of algorithms that allows data scientists to configure and fine-tune parameters with ease",
+                                    "Accelerate decisions and scale to mass adoption with native predictive modeling of Big Data"
+                                ]
+                            }
+                        },
+                        "Healthcare Predictive Analytics (PA)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1435640CC",
+                            "content": {
+                                "svp": "Anticipate better patient and business outcomes with predictive analytics",
+                                "parent_description": "Healthcare predictive analytics involve applying predictive algorithms and machine learning to uncover trends and patterns and anticipate better patient and business outcomes.",
+                                "description": [
+                                    "Confidently anticipate future needs with predictive analytics to guide more patient-oriented outcomes.",
+                                    "Uncover trends and patterns by accessing information from health-related transactions, medical equipment, and healthcare ecosystems.",
+                                    "Reveal new or expanded opportunities by using predictive results in clinical and administrative processes."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Healthcare predictive analytics involve applying predictive algorithms and machine learning to uncover trends and patterns and anticipate better patient and business outcomes."
+                },
+                "Information Visualization": {
+                    "content": {
+                        "Healthcare Information Visualization (Analytics CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A14362C0CC",
+                            "content": {
+                                "svp": "Turn data into insights with the power of information visualization solutions",
+                                "parent_description": "Information visualization includes combining data from multiple sources and turning that data into intuitive visualizations to extract insight. It also involves analyzing trends and delivering critical information using infographics and data stories that captivate audiences.",
+                                "description": [
+                                    "Help business users find insight in their data by turning data into intuitive visualizations.",
+                                    "Improve data-driven decisions by delivering critical information using infographics and data stories to business users no matter where they are.",
+                                    "Realize use cases such as Antibiotics Stewardship and Opioid and Drug Abuse using a highly flexible, modern analytics cloud solution that is easy to model and intuitive to use.",
+                                    "Give top decision-makers real-time, digital-enterprise insight into integrated business data from SAP and third-party applications for better decision-making."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Information visualization includes combining data from multiple sources and turning that data into intuitive visualizations to extract insight. It also involves analyzing trends and delivering critical information using infographics and data stories that captivate audiences."
+                },
+                "Patient Cohort Management": {
+                    "content": {
+                        "Patient Cohort Management": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8BF93E522473560D1",
+                            "content": {
+                                "svp": "Improve patient analytics and clinical research outcomes with patient cohort management solutions",
+                                "parent_description": "Patient cohort management involves grouping patients according to a wide variety of criteria and managing them efficiently to quickly identify candidates for clinical trials. It also includes reintegrating cohorts in analytical scenarios to improve patient care.",
+                                "description": [
+                                    "Build patient cohorts quickly and manage them efficiently with analytical or other search scenarios.",
+                                    "Improve care by reintegrating cohorts found in a search of analytical scenarios.",
+                                    "Start researching faster by restricting patient data to the population that best matches your research needs.",
+                                    "Enable researchers to collaborate on patient cohorts and trigger tasks for execution.",
+                                    "Analyze patient data to verify research hypotheses by exploring patient attributes to determine new search criteria",
+                                    "Get a comprehensive, chronological view into your patient's history with patient viewer capabilities.",
+                                    "Tailor cohort management to your specific research needs using visualization configuration."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Patient cohort management involves grouping patients according to a wide variety of criteria and managing them efficiently to quickly identify candidates for clinical trials. It also includes reintegrating cohorts in analytical scenarios to improve patient care."
+                },
+                "Unstructured Text Analysis": {
+                    "content": {
+                        "Unstructured Text Analysis": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78AFA0CC",
+                            "content": {
+                                "svp": "Improve the value of clinical information with unstructured text analysis",
+                                "parent_description": "Unstructured text analysis involves analyzing unstructured, textual sources such as physicians’ letters and reports using natural-language processing to unlock the tremendous value of buried clinical information.",
+                                "description": [
+                                    "Structure information from textual sources using natural-language processing functions based on linguistic, statistical, and machine-learning algorithms.",
+                                    "Increase the amount of data for analysis by extracting clinical entities and facts from unstructured data for integration with structured data.",
+                                    "Support better care with real-time insight into data."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Unstructured text analysis involves analyzing unstructured, textual sources such as physicians’ letters and reports using natural-language processing to unlock the tremendous value of buried clinical information."
+                }
+            }
+        }
+    }
+}

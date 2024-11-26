@@ -1,0 +1,295 @@
+{
+    "Healthcare Management": {
+        "Consumer Experience": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B27FCC11ED892EAC4A3DBA600CC",
+            "content": {
+                "Caregiver Coordination": {
+                    "content": {
+                        "Caregiver Coordination (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E925DF2176A0CC",
+                            "content": {
+                                "svp": "Engage the new healthcare consumer with patient marketing solutions",
+                                "parent_description": "Caregiver Coordination includes analyzing the patient and referrer base, identifying new patient segments and product offers, and driving promotion and engagement activities to retain existing patients and attract new healthcare consumers.",
+                                "description": [
+                                    "Effectively manage care and retain patients by analyzing the patient and referrer base.",
+                                    "Optimize marketing and health promotion effectiveness by providing insight-driven purchase suggestions.",
+                                    "Promote ongoing patient engagement by tailoring follow-up surveys and offering relevant additional services."
+                                ]
+                            }
+                        },
+                        "Caregiver Coordination (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/AF740456A03F1EEDAA8ACB79CCC86536",
+                            "content": {
+                                "svp": "Manage the entire end-to-end caregiver experience with an integrated, multichannel environment",
+                                "parent_description": "Caregiver Coordination includes analyzing the patient and referrer base, identifying new patient segments and product offers, and driving promotion and engagement activities to retain existing patients and attract new healthcare consumers.",
+                                "description": [
+                                    "Effectively manage care and retain patients by analyzing the patient and referrer base.",
+                                    "Provide insight-driven purchase suggestions to optimize marketing and health promotion effectiveness.",
+                                    "Promote ongoing caregiver engagement by tailoring relevant additional services."
+                                ]
+                            }
+                        },
+                        "Caregiver Coordination (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8BF9538B5B8A8E0D2",
+                            "content": {
+                                "svp": "Manage the entire end-to-end caregiver experience with an integrated, multichannel environment",
+                                "parent_description": "Caregiver Coordination includes analyzing the patient and referrer base, identifying new patient segments and product offers, and driving promotion and engagement activities to retain existing patients and attract new healthcare consumers.",
+                                "description": [
+                                    "Effectively manage care and retain patients by analyzing the patient and referrer base.",
+                                    "Provide insight-driven purchase suggestions to optimize marketing and health promotion effectiveness.",
+                                    "Promote ongoing caregiver engagement by tailoring relevant additional services."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Caregiver Coordination includes analyzing the patient and referrer base, identifying new patient segments and product offers, and driving promotion and engagement activities to retain existing patients and attract new healthcare consumers."
+                },
+                "Customer Feedback": {
+                    "content": {
+                        "Customer Feedback (Qualtrics)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B28C5D91ED9BFE26C171C78A0E1",
+                            "content": {
+                                "svp": "Improve future provider services and engagement planning by capturing feedback and experiences through effective stakeholder communication",
+                                "parent_description": "Communicate with and get feedback from provider stakeholders to improve future provider engagement",
+                                "description": [
+                                    "Keep provider stakeholders engaged with regular surveys that capture experiences across the patient journey.",
+                                    "Identify areas for improvement and closely monitor processes by enabling preadmission and post-discharge follow-up with providers.",
+                                    "Increase provider satisfaction through regular feedback sessions and efficient communication."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Communicate with and get feedback from provider stakeholders to improve future provider engagement"
+                },
+                "Patient Experience": {
+                    "content": {
+                        "Patient Experience (Qualtrics)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED9BFE297F719F880DE",
+                            "content": {
+                                "svp": "Directly interact with patients and capture feedback to analyze and improve the overall patient experience",
+                                "parent_description": "Patient experience includes direct interaction with the patient and capturing of patient feedback&nbsp;throughout the patient’s journey in the health system​",
+                                "description": [
+                                    "Gather real feedback through individualized, short experience surveys throughout the patient’s journey in the healthcare system.",
+                                    "Combine fragmented views of a patient’s profile across multiple systems into a single view for better visibility.",
+                                    "Build trust at every patient interaction with the health system to improve patient loyalty and the patient experience."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Patient experience includes direct interaction with the patient and capturing of patient feedback throughout the patient’s journey in the health system​"
+                },
+                "Patient Loyalty": {
+                    "content": {
+                        "Patient Loyalty (CRM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED8BFA7324B787FC0D4",
+                            "content": {
+                                "svp": "Deliver multi-channel personalized patient service to build loyalty",
+                                "parent_description": "Patient Loyalty involve delivering multichannel, personalized services throughout the patient journey to increase patient satisfaction and build loyalty.",
+                                "description": [
+                                    "Increase patient satisfaction through personalized, patient-focused service.",
+                                    "Improve appointment scheduling and referral management with organizational software.",
+                                    "Measure patient satisfaction and track response times with survey capabilities."
+                                ]
+                            }
+                        },
+                        "Patient Loyalty (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/67A556DDA7C81EDDA9DBFB5B3FA0BBD6",
+                            "content": {
+                                "svp": "Deliver multichannel, personalized patient services to increase patient loyalty",
+                                "parent_description": "Patient Loyalty involve delivering multichannel, personalized services throughout the patient journey to increase patient satisfaction and build loyalty.",
+                                "description": [
+                                    "Increase patient satisfaction through personalized, patient-focused services.",
+                                    "Measure patient satisfaction and track response times with survey capabilities.",
+                                    "Monitor and adjust personalized patient-focused services based on patient feedback."
+                                ]
+                            }
+                        },
+                        "Patient Loyalty (Marketing CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8BF953B24C21FA0D2",
+                            "content": {
+                                "svp": "Deliver multichannel, personalized patient services to increase patient loyalty",
+                                "parent_description": "Patient Loyalty involve delivering multichannel, personalized services throughout the patient journey to increase patient satisfaction and build loyalty.",
+                                "description": [
+                                    "Increase patient satisfaction through personalized, patient-focused services.",
+                                    "Measure patient satisfaction and track response times with survey capabilities.",
+                                    "Monitor and adjust personalized patient-focused services based on patient feedback."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Patient Loyalty involve delivering multichannel, personalized services throughout the patient journey to increase patient satisfaction and build loyalty."
+                },
+                "Referral Management": {
+                    "content": {
+                        "Referral Management (BTP CF)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED9BFE265B1BA6BC0DE",
+                            "content": {
+                                "svp": "Support networking among healthcare providers and caregivers to facilitate searching for relevant services and enable referral management",
+                                "parent_description": "Network among healthcare providers and caregivers to better manage patient flows",
+                                "description": [
+                                    "Provide an overview of healthcare providers and caregivers to find suitable referrer locations.",
+                                    "Enable multichannel communication among network stakeholders for patient benefits.",
+                                    "Save time and money in patient engagement with faster and more-efficient communication.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Network among healthcare providers and caregivers to better manage patient flows"
+                }
+            }
+        },
+        "Drug Safety and Compliance": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/089E017A62AB1ED980BF0E568664C0D1",
+            "content": {
+                "Item Serialization and Product Traceability": {
+                    "content": {
+                        "Item Serialization and Product Traceability (EM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED980EEB5808AAC00D4",
+                            "content": {
+                                "svp": "Leverage item serialization for automation and product traceability for compliance",
+                                "parent_description": "Item serialization and product traceability include tracking the location and condition of serialized products over their lifecycles to enable regulatory compliance.",
+                                "description": [
+                                    "Offer full visibility into the lifecycle of serialized products and track products across multiple systems.",
+                                    "Commission and encode tags to GS1, EPCIS, and other standards and automate material handling with auto-ID technologies.",
+                                    "Expedite recalls, facilitate compliance with traceability directives, identify roadblocks, and improve customer service.​"
+                                ]
+                            }
+                        },
+                        "Item Serialization and Product Tracking (Corp. Serial.)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEC85BE9531E4920A74",
+                            "content": {
+                                "svp": "Gain high-resolution tracking insights spanning the lifecycle of uniquely identified products, parts, logistics assets, and components",
+                                "parent_description": "Item serialization and product traceability include tracking the location and condition of serialized products over their lifecycles to enable regulatory compliance.",
+                                "description": [
+                                    "Centrally manage the generation and distribution of unique identifiers for item serialization of products as well as parts, components, and logistics assets.",
+                                    "Perform lifecycle tracking of uniquely identified products and components as well as logistics assets and their aggregations.",
+                                    "Link item-serialized parts, components, and products to their related lots.",
+                                    "Run a central repository solution for item serialization optimized to manage high data volumes.",
+                                    "Integrate with SAP S/4HANA, SAP Extended Warehouse Management, and third-party solutions and capture business transactions and events from distributed systems."
+                                ]
+                            }
+                        },
+                        "Pharmaceutical Item Serialization for Regulatory Compliance (Adv. T&T, Info Collaboration)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/005056821C321ED8BEC17C024F7E2105",
+                            "content": {
+                                "svp": "Comply with worldwide regulations governing item-level serialization for pharmaceutical products",
+                                "parent_description": "Item serialization and product traceability include tracking the location and condition of serialized products over their lifecycles to enable regulatory compliance.",
+                                "description": [
+                                    "Manage all serialization data in an EPCIS-compliant corporate repository for greater efficiency",
+                                    "Streamline the compliance process by integrating line-level packaging systems, enterprise master data, as well as contract manufacturers and other logistics partners",
+                                    "Report serialization data compliant with individual requirements across a growing list of jurisdictions requiring such reporting (the EU, USA, China, and Russia, for example) with greater ease"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Item serialization and product traceability include tracking the location and condition of serialized products over their lifecycles to enable regulatory compliance."
+                }
+            }
+        },
+        "Patient Administration and Billing": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B27FCC11ED892EAB272E22C20CC",
+            "content": {
+                "Case Costing": {
+                    "content": {
+                        "Case Costing (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8BFBF0BDC3A1BE0D2",
+                            "content": {
+                                "svp": "Make better decisions by receiving detailed, instant insights into costs per case",
+                                "parent_description": "Case costing includes the implementation of an accounting concept enabling high transparency into case-related costs and profitability analysis based on dynamic segmentation criteria.",
+                                "description": [
+                                    "Enable the implementation of case costing as an accounting concept to determine costs of procedures, materials, inpatient stays, and episodes of care",
+                                    "Calculate the direct and indirect costs at a patient level"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Case costing includes the implementation of an accounting concept enabling high transparency into case-related costs and profitability analysis based on dynamic segmentation criteria."
+                },
+                "Healthcare Coding": {
+                    "content": {
+                        "Healthcare Coding (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D6C980CC",
+                            "content": {
+                                "svp": "Help ensure best reimbursement and insight into costs by accurately recording all services rendered",
+                                "parent_description": "Healthcare coding involves accessing the clinical and administrative data needed to accurately record all medical services rendered, optimize reimbursement, and enhance the profitability of provider organizations.",
+                                "description": [
+                                    "Support coding work by directly accessing clinical and administrative data.",
+                                    "Improve&nbsp;short-term corrective action, long-term decision making, and compliance with legal requirements&nbsp;by running statistics and performance analyses.",
+                                    "Gain greater profitability for provider organizations with insight into possible revenues per current coding prior to billing."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Healthcare coding involves accessing the clinical and administrative data needed to accurately record all medical services rendered, optimize reimbursement, and enhance the profitability of provider organizations."
+                },
+                "Patient Access": {
+                    "content": {
+                        "Patient Access (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D6CA20CC",
+                            "content": {
+                                "svp": "Integrate patient scheduling and patient registration processes",
+                                "parent_description": "Patient access includes scheduling patient appointments, streamlining patient registration, managing bed capacity, and verifying insurance for planned treatment to improve efficiency and resource utilization.",
+                                "description": [
+                                    "Reduce patient interaction and wait times with efficient patient appointment scheduling and registration.&nbsp;&nbsp;&nbsp;",
+                                    "Increase resource utilization with insight into present and future (planned) bed status.&nbsp;&nbsp;",
+                                    "Help ensure reimbursement of planned treatment with insurance verification and eligibility check."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Patient access includes scheduling patient appointments, streamlining patient registration, managing bed capacity, and verifying insurance for planned treatment to improve efficiency and resource utilization."
+                },
+                "Patient Billing": {
+                    "content": {
+                        "Patient Billing (ERP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D6C8E0CC",
+                            "content": {
+                                "svp": "Automatic reuse of patient and treatment data for invoice creation, and distribution of billable items to correct payers",
+                                "parent_description": "Patient billing includes the creation of accurate invoices based on patient and treatment data and the distribution of billable items to correct payers. It also involves communicating with payers at all steps during the billing process.",
+                                "description": [
+                                    "Provide a comprehensive overview of all billing-relevant information with a view into the posting and clearing of documents.",
+                                    "Communicate with payers at all steps during the billing process with pre-defined communication protocols.",
+                                    "Automate the billing process and support individual billing by monitoring and tracking claims to their completion."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Patient billing includes the creation of accurate invoices based on patient and treatment data and the distribution of billable items to correct payers. It also involves communicating with payers at all steps during the billing process."
+                },
+                "Patient Charging": {
+                    "content": {
+                        "Patient Charging": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B28C5D91ED9BFF6A983D8A560E1",
+                            "content": {
+                                "svp": "Implement a scalable solution to manage the increasing volume of charges across the health network as patient care gets more complex",
+                                "parent_description": "Manage the growing volume of charges across the healthcare network",
+                                "description": [
+                                    "Adjust to requirements changes in the patient billing space with a flexible platform.",
+                                    "Capture all activities and changes across the patient journey with internal and external systems and across different stakeholders to ensure all changes are documented and the full patient treatment process is managed.",
+                                    "Use a flexible system that adjusts to new regulations without impacting daily operations."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Manage the growing volume of charges across the healthcare network"
+                },
+                "Waiting Time Management": {
+                    "content": {
+                        "Waiting Time Management": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/005056821C321ED8BFC0FAC931884105",
+                            "content": {
+                                "svp": "Predict and display patient waiting times in emergency departments and outpatient practice waiting rooms",
+                                "parent_description": "Waiting time management includes a transparent overview of expected waiting times and queues in waiting rooms of&nbsp;in emergency rooms and outpatient departments by predicting waiting times in&nbsp;real time using existing patient management systems. ",
+                                "description": [
+                                    "Provide a better patient experience by using real-time data from existing patient management systems to predict wait times.",
+                                    "Boost patient satisfaction and improve service quality by providing a transparent overview of expected wait times and waiting-room queues. "
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Waiting time management includes a transparent overview of expected waiting times and queues in waiting rooms of in emergency rooms and outpatient departments by predicting waiting times in real time using existing patient management systems."
+                }
+            }
+        }
+    }
+}

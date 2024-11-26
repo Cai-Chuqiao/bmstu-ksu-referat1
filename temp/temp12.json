@@ -1,0 +1,954 @@
+{
+    "Sustainability, Compliance, and Enterprise Strategy": {
+        "Business Process Improvement": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B28C5D91ED892E98B09453660CC",
+            "content": {
+                "Business Event Logging": {
+                    "content": {
+                        "Business Event Logging (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF5F02D384AE1",
+                            "content": {
+                                "svp": "Provide insights into the execution of business processes",
+                                "parent_description": "Business event logging involves the capture and recording of business events that are created from executed processes within SAP S/4HANA and SAP S/4HANA Cloud.",
+                                "description": [
+                                    "View and analyze logged business events, the numbers of business events, and types of business events that are triggered in the system.",
+                                    "See the sequence of business events for a business object node.",
+                                    "Extract business event logs for external consumption."
+                                ]
+                            }
+                        },
+                        "Business Event Logging (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EECB1DEB3378DBDE19B",
+                            "content": {
+                                "svp": "Provide insights into the execution of business processes",
+                                "parent_description": "Business event logging involves the capture and recording of business events that are created from executed processes within SAP S/4HANA and SAP S/4HANA Cloud.",
+                                "description": [
+                                    "View and analyze logged business events, the number of business events, and types of business events that are triggered in the system.",
+                                    "See the sequence of business events for a business object node.",
+                                    "Extract business event logs for external consumption."
+                                ]
+                            }
+                        },
+                        "Business Event Logging (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EECB1914E858E7E06F6",
+                            "content": {
+                                "svp": "Provide insights into the execution of business processes",
+                                "parent_description": "Business event logging involves the capture and recording of business events that are created from executed processes within SAP S/4HANA and SAP S/4HANA Cloud.",
+                                "description": [
+                                    "View and analyze logged business events, the numbers of business events, and types of business events that are triggered in the system.",
+                                    "See the sequence of business events for a business object node.",
+                                    "Extract business event logs for external consumption."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business event logging involves the capture and recording of business events that are created from executed processes within SAP S/4HANA and SAP S/4HANA Cloud."
+                },
+                "Business Process Analytics": {
+                    "content": {
+                        "Business Process Analytics (Signavio Proc. Insights)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDBA7BC254F06BE08E0",
+                            "content": {
+                                "svp": "Analyze and benchmark your process maturity to identify bottlenecks and take mitigating actions",
+                                "parent_description": "Business process analytics involves the measurement and analysis of business process metrics, KPIs, and outcomes.",
+                                "description": [
+                                    "Access quick insights into cycle times, completion rates, and potential bottlenecks among the most-common business processes.",
+                                    "Leverage capabilities for analysis and filtering of built-in process performance indicators.",
+                                    "Gain intuitive access to recommendations that can help improve process maturity."
+                                ]
+                            }
+                        },
+                        "Business Process Analytics (Signavio Proc. Intelligence)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDBA7BC84C069A769DA",
+                            "content": {
+                                "svp": "Mine process data to extract insights for designing better processes and implementing best practices",
+                                "parent_description": "Business process analytics involves the measurement and analysis of business process metrics, KPIs, and outcomes.",
+                                "description": [
+                                    "Analyze your process data to reveal stories that help employees diagnose issues.<br>",
+                                    "Provide a constant narrative of operational health regarding process efficiency, process risk, and process satisfaction.",
+                                    "Identify bottlenecks, performance issues, and compliance violations."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business process analytics involves the measurement and analysis of business process metrics, KPIs, and outcomes."
+                },
+                "Business Process Design": {
+                    "content": {
+                        "Business Process Design (Signavio Proc. Manager)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EDBA7BCE6E3CD3D5A80",
+                            "content": {
+                                "svp": "Design efficient business processes with intuitive access to graphical, collaboration, and reporting tools",
+                                "parent_description": "Business process design involves supporting a company's business model and, thereby, enabling the organization to achieve its goals.",
+                                "description": [
+                                    "Create processes and value chains with the help of Signavio's QuickModel and graphical editor functionalities.",
+                                    "Continuously collaborate with colleagues to capture their inputs during the design process.",
+                                    "Leverage the platform as a single repository for process designs pertaining to multiple use cases.",
+                                    "Design journey models and connect them with your processes."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business process design involves supporting a company's business model and, thereby, enabling the organization to achieve its goals."
+                },
+                "Business Process Management": {
+                    "content": {
+                        "Business Process Management (NW)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9299AB698E0CC",
+                            "content": {
+                                "svp": "Model, execute, and monitor automated process flows",
+                                "parent_description": "Business Process Management involves applying diverse schemes to model, analyze, measure, optimize, and automate business processes.<br>",
+                                "description": [
+                                    "Collaboratively model graphical process flows with the standards-based business process model and notation representation.",
+                                    "Directly execute and monitor modeled processes by connecting to people (workflow, notification, mobile) and applications.",
+                                    "Dynamically influence automated decisions taken in the flow of a process by leveraging business rules."
+                                ]
+                            }
+                        },
+                        "Business Process Management (Task Center)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EEC86BCCC7F386F6597",
+                            "content": {
+                                "svp": "Enable end users to see and filter all of their tasks in one place",
+                                "parent_description": "Business Process Management involves applying diverse schemes to model, analyze, measure, optimize, and automate business processes.<br>",
+                                "description": [
+                                    "Retrieve tasks from various workflows using the SAP Task Center service, which is not a workflow service.",
+                                    "Make adoption easier using the SAP Task Center service to pull data from the respective applications, and have the relevant LoBs implement the task provider SPI.",
+                                    "Leverage the Inbox Service API to have your applications retrieve tasks from the SAP Task Center service."
+                                ]
+                            }
+                        },
+                        "Business Process Management (Workflow service)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/0050568228691ED8B98F5AF551326104",
+                            "content": {
+                                "svp": "Model, execute, and monitor automated process flows",
+                                "parent_description": "Business Process Management involves applying diverse schemes to model, analyze, measure, optimize, and automate business processes.<br>",
+                                "description": [
+                                    "Collaboratively model graphical process flows with the standards-based business process model and notation representation.",
+                                    "Directly execute and monitor modeled processes by connecting to people (workflow, notification, mobile) and applications.",
+                                    "Dynamically influence automated decisions taken in the flow of a process by leveraging business rules."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business Process Management involves applying diverse schemes to model, analyze, measure, optimize, and automate business processes."
+                },
+                "Business Process Modeling": {
+                    "content": {
+                        "Business Process Modeling (EAD CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/005056821C321ED98DC39E96B47DA108",
+                            "content": {
+                                "svp": "Design, document, and adapt your business processes collaboratively",
+                                "parent_description": "Business process modeling involves representing a business process in a structured way so that it can be analyzed, improved, and automated.<br>",
+                                "description": [
+                                    "Support closer, more effective teamwork among process experts, end users, and business analysts with collaborative process management.",
+                                    "Engage in more effective discussions&nbsp;by modeling business processes graphically.",
+                                    "Create business processes collaboratively, engaging all stakeholders using an intuitive environment.",
+                                    "Build on documented SAP best practices for SAP S/4HANA processes with SAP Solution Manager."
+                                ]
+                            }
+                        },
+                        "Business Process Modeling (EAD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED98DC3AEA968C420D5",
+                            "content": {
+                                "svp": "Design, document, and adapt your business processes collaboratively",
+                                "parent_description": "Business process modeling involves representing a business process in a structured way so that it can be analyzed, improved, and automated.<br>",
+                                "description": [
+                                    "Support closer, more effective teamwork among process experts, end users, and business analysts with collaborative process management.",
+                                    "Engage in more effective discussions&nbsp;by modeling business processes graphically.",
+                                    "Create business processes collaboratively, engaging all stakeholders using an intuitive environment.",
+                                    "Build on documented SAP best practices for SAP S/4HANA processes with SAP Solution Manager."
+                                ]
+                            }
+                        },
+                        "Business Process Modeling (PowerDesigner)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9299AB66D20CC",
+                            "content": {
+                                "svp": "Design, document, and adapt your business processes collaboratively",
+                                "parent_description": "Business process modeling involves representing a business process in a structured way so that it can be analyzed, improved, and automated.<br>",
+                                "description": [
+                                    "Support closer, more effective teamwork among process experts, end users, and business analysts with collaborative process management.",
+                                    "Engage in more effective discussions&nbsp;by modeling business processes graphically.",
+                                    "Create business processes collaboratively, engaging all stakeholders using an intuitive environment.",
+                                    "Build on documented SAP best practices for SAP S/4HANA processes with SAP Solution Manager."
+                                ]
+                            }
+                        },
+                        "Business Process Modeling (Signavio Proc. Manager)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EEBA7BD023546D12BDF",
+                            "content": {
+                                "svp": "Intuitively model and simulate business processes and journeys to identify the most-efficient ones",
+                                "parent_description": "Business process modeling involves representing a business process in a structured way so that it can be analyzed, improved, and automated.<br>",
+                                "description": [
+                                    "Consider risk and compliance information while modeling processes.",
+                                    "Enhance modeling efficiency through the availability of quality process insights.",
+                                    "Enrich processes and tasks with texts, images, and linked documents."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business process modeling involves representing a business process in a structured way so that it can be analyzed, improved, and automated."
+                },
+                "Business Process Monitoring": {
+                    "content": {
+                        "Business Process Monitoring (Signavio Proc. Insights)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEBA7BD4B86FBD01F76",
+                            "content": {
+                                "svp": "Improve process maturity by continuously monitoring process-performance indicators",
+                                "parent_description": "Business process monitoring involves tracking and reviewing a business process, detecting potential issues and deviations, and creating alerts if issues exceed established thresholds.",
+                                "description": [
+                                    "Consistently visualize built-in process-performance indicators.",
+                                    "Enable ongoing process improvement through regular monitoring of process performance."
+                                ]
+                            }
+                        },
+                        "Business Process Monitoring (Signavio)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EEBA7BD4B09610D6CF6",
+                            "content": {
+                                "svp": "Enable comprehensive monitoring of processes and their performance",
+                                "parent_description": "Business process monitoring involves tracking and reviewing a business process, detecting potential issues and deviations, and creating alerts if issues exceed established thresholds.",
+                                "description": [
+                                    "Keep track of your operational data from any connected system in your process landscape.",
+                                    "Leverage intuitive and collaborative platform design to push process maturity deeper into the fabric of the organization.<br>",
+                                    "Perform process documentation, reporting, and analysis.<br>"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business process monitoring involves tracking and reviewing a business process, detecting potential issues and deviations, and creating alerts if issues exceed established thresholds."
+                },
+                "Business Process Optimization": {
+                    "content": {
+                        "Business Process Optimization (Signavio Proc. Insights)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EEBA7BD32E3B3046CA2",
+                            "content": {
+                                "svp": "Optimize business processes by adopting recommendations based on process maturity analysis",
+                                "parent_description": "Business process optimization involves making improvements based on detailed process monitoring and analytics.",
+                                "description": [
+                                    "Intuitively access recommendations for corrective actions based on identified data patterns.",
+                                    "Help improve process maturity by adopting innovative recommendations integrating new technologies such as machine learning and robotic process automation for a better user experience."
+                                ]
+                            }
+                        },
+                        "Business Process Optimization (Signavio Proc. Manager)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EEBA7BD33E6A97C2CA6",
+                            "content": {
+                                "svp": "Optimize business processes based on process insights",
+                                "parent_description": "Business process optimization involves making improvements based on detailed process monitoring and analytics.",
+                                "description": [
+                                    "Perform what-if analyses to optimize business processes based on the best scenario from the simulation results.",
+                                    "Identify the process tasks that are eligible for automation based on the process simulation result.",
+                                    "Define triggers, people, and notifications, for continuous alignment and improvements.",
+                                    "Maintain documentation of past processes to assure compliance and track changes."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business process optimization involves making improvements based on detailed process monitoring and analytics."
+                },
+                "Business Process Orchestration": {
+                    "content": {
+                        "Business Process Orchestration (Signavio)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EDBA7BD401CFDFA7B59",
+                            "content": {
+                                "svp": "Efficiently govern the procedure for analyzing, designing, and modeling business processes",
+                                "parent_description": "Business process orchestration involves governing and coordinating the execution of business tasks to enable the implementation of standardized processes.",
+                                "description": [
+                                    "Perform comprehensive process governance.",
+                                    "Adopt collaborative learning and management of process knowledge.",
+                                    "Support a testing phase."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Business process orchestration involves governing and coordinating the execution of business tasks to enable the implementation of standardized processes."
+                },
+                "Responsibility Management": {
+                    "content": {
+                        "Responsibility Management (Resp. Mgmt)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/57EA73B3B1E91EEE8CBF6D574E5AB446",
+                            "content": {
+                                "svp": "Leverage intelligent responsibility determination based on organizational models",
+                                "parent_description": "Responsibility management involves responsibility determination based on organizational models.",
+                                "description": [
+                                    "Utilize a unified agent determination across all departments in your enterprise.",
+                                    "Take advantage of the new “teams” concept, which allows for maintaining agents on a team level with team attributes and determining responsibility during runtime.",
+                                    "Maintain business rules to provide consistent responsibility determination.",
+                                    "Easily extend the functionality by leveraging extensibility functionality for customer specific rules."
+                                ]
+                            }
+                        },
+                        "Responsibility Management (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF6712D3E4B13",
+                            "content": {
+                                "svp": "Leverage intelligent responsibility determination based on organizational models",
+                                "parent_description": "Responsibility management involves responsibility determination based on organizational models.",
+                                "description": [
+                                    "Utilize a unified agent determination across all departments in your enterprise.",
+                                    "Take advantage of the new “teams” concept, which allows for maintaining agents on a team level with team attributes and determining responsibility during runtime.",
+                                    "Maintain business rules to provide consistent responsibility determination.",
+                                    "Easily extend the functionality by leveraging extensibility functionality for customer specific rules."
+                                ]
+                            }
+                        },
+                        "Responsibility Management (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED9A8CA453CF86880DA",
+                            "content": {
+                                "svp": "Leverage intelligent responsibility determination based on organizational models",
+                                "parent_description": "Responsibility management involves responsibility determination based on organizational models.",
+                                "description": [
+                                    "Utilize a unified agent determination across all departments in your enterprise.",
+                                    "Take advantage of the new “teams” concept, which allows for maintaining agents on a team level with team attributes and determining responsibility during runtime.",
+                                    "Maintain business rules to provide consistent responsibility determination.",
+                                    "Easily extend the functionality by leveraging extensibility functionality for customer specific rules."
+                                ]
+                            }
+                        },
+                        "Responsibility Management (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278ABE0CC",
+                            "content": {
+                                "svp": "Leverage intelligent responsibility determination based on organizational models",
+                                "parent_description": "Responsibility management involves responsibility determination based on organizational models.",
+                                "description": [
+                                    "Utilize a unified agent determination across all departments in your enterprise.",
+                                    "Take advantage of the new “teams” concept, which allows for maintaining agents on a team level with team attributes and determining responsibility during runtime.",
+                                    "Maintain business rules to provide consistent responsibility determination.",
+                                    "Easily extend the functionality by leveraging extensibility functionality for customer specific rules."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Responsibility management involves responsibility determination based on organizational models."
+                },
+                "Situation Handling": {
+                    "content": {
+                        "Situation Handling in (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF6BD5C904B43",
+                            "content": {
+                                "svp": "Inform users automatically about situations that require their attention and provide relevant information and action proposals.",
+                                "parent_description": "Situation Handling involves automatically detecting and tracking issues and providing intelligent support for dealing with them.​",
+                                "description": [
+                                    "Automatically identify urgent or important issues.",
+                                    "Inform the right users.",
+                                    "Provide intelligent support to help your users take the right decisions.",
+                                    "Enable your users to act immediately.",
+                                    "Monitor and continuously optimize your business processes."
+                                ]
+                            }
+                        },
+                        "Situation Handling in (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED9B4E06C3A7D9860DC",
+                            "content": {
+                                "svp": "Inform users automatically about situations that require their attention and provide relevant information and action proposals",
+                                "parent_description": "Situation Handling involves automatically detecting and tracking issues and providing intelligent support for dealing with them.​",
+                                "description": [
+                                    "Automatically identify urgent or important issues.",
+                                    "Inform the right users.",
+                                    "Provide intelligent support to help your users take the right decisions.",
+                                    "Enable your users to act immediately.",
+                                    "Monitor and continuously optimize your business processes."
+                                ]
+                            }
+                        },
+                        "Situation Handling in (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B28C5D91ED9B4E06D9C6BDEC0DF",
+                            "content": {
+                                "svp": "Inform users automatically about situations that require their attention and provide relevant information and action proposals.",
+                                "parent_description": "Situation Handling involves automatically detecting and tracking issues and providing intelligent support for dealing with them.​",
+                                "description": [
+                                    "Automatically identify urgent or important issues.",
+                                    "Inform the right users.",
+                                    "Provide intelligent support to help your users take the right decisions.",
+                                    "Enable your users to act immediately.",
+                                    "Monitor and continuously optimize your business processes."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Situation Handling involves automatically detecting and tracking issues and providing intelligent support for dealing with them.​"
+                },
+                "Workflow Management": {
+                    "content": {
+                        "Workflow Management (BTP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1EDA9E819E1AA6F560E4",
+                            "content": {
+                                "svp": "Drive business outcomes faster using live processes to automate, extend, configure, and analyze them with improved process experiences",
+                                "parent_description": "Workflow management involves automating and digitalizing processes and decisions across the enterprise​, while achieving end-to-end process transparency and making processes intelligent with AI.​​",
+                                "description": [
+                                    "Digitalize workflows and automate business processes to drive business performance.",
+                                    "Manage decision logic independently from the application logic and empower business users.",
+                                    "Gain end-to-end process visibility​.",
+                                    "Discover, configure, and run business process extensions​."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Workflow management involves automating and digitalizing processes and decisions across the enterprise​, while achieving end-to-end process transparency and making processes intelligent with AI.​​"
+                }
+            }
+        },
+        "Circular Economy": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/000D3A47875C1EEB9991F40062A830BB",
+            "content": {
+                "Circular Design Evaluation": {
+                    "content": {
+                        "Circular Design Evaluation (Resp. Design and Prod.)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/951BE4DE95861EED9BFEAB775036FDF5",
+                            "content": {
+                                "svp": "Tools and insights supporting circular design decision making",
+                                "parent_description": "Circular design evaluation includes functions that support designers with the insights needed to drive a transition to sustainable product and packaging solutions.",
+                                "description": [
+                                    "Provide golden rules for packaging design in SAP Responsible Design and Production",
+                                    "Project and simulate for EPR fees and CO2 impact.",
+                                    "Assess recyclability in SAP Responsible Design and Production"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Circular design evaluation includes functions that support designers with the insights needed to drive a transition to sustainable product and packaging solutions."
+                },
+                "Circular Impact Management": {
+                    "content": {
+                        "Circular Impact Management (Resp. Design and Prod.)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/31F8B05650641EDD9BFEAD9CEACF7F3B",
+                            "content": {
+                                "svp": "Capability in SAP Responsible Design and Production to enable the transition to a sustainable and circular product and packaging portfolio",
+                                "parent_description": "Circular Impact Management supports business users with the insights and business process integrations that help deliver the transition to a circular economy.",
+                                "description": [
+                                    "Track progress on sustainability of products and packaging",
+                                    "Measure the circularity of products and packaging",
+                                    "Facilitate engineering processes for products and packaging."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Circular Impact Management supports business users with the insights and business process integrations that help deliver the transition to a circular economy."
+                },
+                "Corporate Commitment Reporting": {
+                    "content": {
+                        "Corporate Commitment Reporting (resp. Design and Prod.)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDC9ED9E6428343E072",
+                            "content": {
+                                "svp": "Generate and manage reporting requirements for corporate commitments managed by key Non Government Organisations",
+                                "parent_description": "Corporate commitment reporting involves enabling businesses to deliver on reporting obligations related to “circular economy” goals such as the Ellen MacArthur Foundation global commitment.",
+                                "description": [
+                                    "Feed data (ie. Packaging) from multiple sources including SAP ERP, Excel and other 3rd party tools",
+                                    "Provide insights and diagnostics on data quality issues.",
+                                    "Create and publish reports to support corporate commitments - ie. Ellen MacArthur Foundation Global Commitment"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Corporate commitment reporting involves enabling businesses to deliver on reporting obligations related to “circular economy” goals such as the Ellen MacArthur Foundation global commitment."
+                },
+                "EPR Reporting": {
+                    "content": {
+                        "EPR Reporting (resp. Design and Prod.)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDCA0CEF4AE3E045374",
+                            "content": {
+                                "svp": "Deliver and manage key extended producer responsibility (EPR) reporting obligations.",
+                                "parent_description": "Extended producer responsibility (EPR) reporting involves enabling businesses to deliver on market-level reporting obligations and deliver regular declarations to relevant producer responsibility organizations.",
+                                "description": [
+                                    "Feed data (ie. Packaging) from multiple sources including SAP ERP, Excel and other 3rd party tools",
+                                    "Provide insights and diagnostics on data quality issues.",
+                                    "Subscribe to relevant EPR declarations",
+                                    "Create and publish EPR declarations to relevant Producer Responsibility Organisations (ie. France CITEO &amp; UK Valpak)"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Extended producer responsibility (EPR) reporting involves enabling businesses to deliver on market-level reporting obligations and deliver regular declarations to relevant producer responsibility organizations."
+                },
+                "Plastic Tax Reporting": {
+                    "content": {
+                        "Plastic Tax Reporting (resp. Design and Prod.)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDCA0CEF68736C57379",
+                            "content": {
+                                "svp": "Deliver and manage key plastic tax reporting obligations.",
+                                "parent_description": "Plastic tax reporting enables businesses to deliver on market-level plastic tax requirements and to deliver regular declarations to relevant tax authorities.",
+                                "description": [
+                                    "Feed data (ie. Packaging) from multiple sources including SAP ERP, Excel and other 3rd party tools",
+                                    "Provide insights and diagnostics on data quality issues.",
+                                    "Subscribe to relevant plastic tax declarations",
+                                    "Create and publish plastic tax declarations to relevant tax authorities (ie. UK HMRC)"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Plastic tax reporting enables businesses to deliver on market-level plastic tax requirements and to deliver regular declarations to relevant tax authorities."
+                },
+                "Responsible Design and Production Integration": {
+                    "content": {
+                        "Responsible Design and Production Integration (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF695D361CB24",
+                            "content": {
+                                "svp": "Integrate SAP S/4HANA with an application for managing Responsible Design and Production",
+                                "parent_description": "Responsible design and production integration involves the extraction of data to enable extended producer responsibility, transparency, and compliance reporting on product packaging.",
+                                "description": [
+                                    "Extract data such as from delivery documents, material documents, and packaging data in SAP S/4HANA.",
+                                    "Expose data required to enable extended producer responsibility, transparency, and compliance reporting on product packaging.<br>"
+                                ]
+                            }
+                        },
+                        "Responsible Design and Production Integration (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDBBFD1EB689E6931B8",
+                            "content": {
+                                "svp": "Integrate SAP S/4HANA Cloud with an application for managing Responsible Design and Production",
+                                "parent_description": "Responsible design and production integration involves the extraction of data to enable extended producer responsibility, transparency, and compliance reporting on product packaging.",
+                                "description": [
+                                    "Extract data such as from delivery documents, material documents, and packaging in SAP S/4HANA Cloud.",
+                                    "Expose data required to enable extended producer responsibility, transparency, and compliance reporting on product packaging."
+                                ]
+                            }
+                        },
+                        "Responsible Design and Production Integration (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EEBBFD1E982042D2E5D",
+                            "content": {
+                                "svp": "Integrate SAP S/4HANA with an application for managing Responsible Design and Production",
+                                "parent_description": "Responsible design and production integration involves the extraction of data to enable extended producer responsibility, transparency, and compliance reporting on product packaging.",
+                                "description": [
+                                    "Extract data such as from delivery documents, material documents, and packaging data in SAP S/4HANA.",
+                                    "Expose data required to enable extended producer responsibility, transparency, and compliance reporting on product packaging.<br>"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Responsible design and production integration involves the extraction of data to enable extended producer responsibility, transparency, and compliance reporting on product packaging."
+                }
+            }
+        },
+        "E-Mobility": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/000D3AAC9DD21EEBBDA61CA1BFCDD78A",
+            "content": {
+                "E-Mobility Operations": {
+                    "content": {
+                        "E-Mobility Operations (E-Mobility)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EDBBDA630009465B6A3",
+                            "content": {
+                                "svp": "Enable multiple industries to run charging networks to drive the transition to electric mobility",
+                                "parent_description": "The charge point operator involves installation and operation of charging equipment for electric vehicles.",
+                                "description": [
+                                    "Operate multi-industry, sustainable, and intelligent new business models at the intersection of mobility and the energy sector.",
+                                    "Provide cloud-based, comprehensive functionality including operations and management of charging infrastructure, payments, billing, and smart-energy management.",
+                                    "Deliver bidirectional communication with vendor-independent charging infrastructures to support authorization management, charging process management, status and error messages, consumption measurement, firmware management, and much more through the Open Charge Point Protocol (OCPP) standard.",
+                                    "Monitor charging infrastructure status including fault prediction and root-cause analysis based on situational data."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "The charge point operator involves installation and operation of charging equipment for electric vehicles."
+                }
+            }
+        },
+        "Enterprise Strategy and Planning": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/C10D295AC83C1EDF8682E855C5A16532",
+            "content": {
+                "Enterprise Architecture Management": {
+                    "content": {
+                        "Enterprise Architecture Management (LeanIX)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/A710F8E3EB331EEF8682EB7793FC729A",
+                            "content": {
+                                "svp": "Build transparency across the IT landscape, enabling customers to manage the as-is and future states of their IT business support",
+                                "parent_description": "<br>Enterprise architecture management involves driving the modernization of IT landscapes and continuous business transformation.<br>",
+                                "description": [
+                                    "Understand the IT landscape to plan technology transformation and accelerate execution.",
+                                    "Streamline prioritization by connecting enterprise architecture initiatives to the business.",
+                                    "Enable continuous alignment through comprehensive progress tracking on transformation initiatives.",
+                                    "Assess IT investment by connecting technology spend to business impact.",
+                                    "Uncover and address redundancies, saving unwanted spend.",
+                                    "Optimize budget forecasting, mapping dependencies, and project complexity.",
+                                    "Reduce risk by tracking obsolete technology.",
+                                    "Mitigate exposure of sensitive data processing.",
+                                    "Identify undersupported business processes, business capabilities, and organizational units."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Enterprise architecture management involves driving the modernization of IT landscapes and continuous business transformation."
+                }
+            }
+        },
+        "Environmental Footprint Management": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/000D3AAC9DD21EEB9DEBFF8505091929",
+            "content": {
+                "Environmental Footprint Analysis": {
+                    "content": {
+                        "Environmental Footprint Analysis (Footprint Clean Ops)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDD84E5307042F96340",
+                            "content": {
+                                "svp": "Provides SME customers quick and simple insights into the environmental footprint of their products",
+                                "parent_description": "Ability to evaluate and analyze environmental footprints.",
+                                "description": [
+                                    "Analyze environmental footprints of manufactured products with predefined analytical content",
+                                    "Expert analytics to drill-down to semi-finished or purchased products, involved resources, infrastructure etc.",
+                                    "Carbon-balancing of periodic inflows and outflows on company or group level for end-to-end auditability",
+                                    "Combination of business and technology layer for actionable insight into emission drivers in production processes"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Analysis (SFM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDBA2949C56C52433CE",
+                            "content": {
+                                "svp": "Reduce your environmental impact by gaining insights through analyzing environmental footprints.",
+                                "parent_description": "Ability to evaluate and analyze environmental footprints.",
+                                "description": [
+                                    "Analyze environmental footprints with pre-defined, role specific dashboards considering different lifcycle stages (like raw material processing, production or transport).",
+                                    "Expert Analytics to drill-down to all calculated footprint dimensions",
+                                    "Define customer specific dashboards for environmental footprints"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to evaluate and analyze environmental footprints."
+                },
+                "Environmental Footprint Assessment": {
+                    "content": {
+                        "Environmental Footprint Assessment (Footprint Clean Ops)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EED85FAAB61FB447C5C",
+                            "content": {
+                                "svp": "Reduce your environmental impact by assessing environmental footprints",
+                                "parent_description": "Ability to assess, record and display environmental footprints.",
+                                "description": [
+                                    "Define assessment scope, model your energy flows, maintain purchased product footprints and allocations",
+                                    "Holistic periodic calculation of product and corporate footprint based on actual data",
+                                    "View detailed, auditable results of footprint assessments"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Assessment (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF629205ECAFE",
+                            "content": {
+                                "svp": "Reduce your environmental impact by assessing environmental footprints at scale and integrating footprints into your business processes.",
+                                "parent_description": "Ability to assess, record and display environmental footprints.",
+                                "description": [
+                                    "View footprints in SAP S/4HANA",
+                                    "Make environmental footprints available for SAP S/4HANA extensibility",
+                                    "Integrate environmental footprints in Enterprise Search",
+                                    "Embedded Analytics"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Assessment (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEBA8A944627F7F2D4E",
+                            "content": {
+                                "svp": "Reduce your environmental impact by assessing environmental footprints at scale and integrating footprints into your business processes.",
+                                "parent_description": "Ability to assess, record and display environmental footprints.",
+                                "description": [
+                                    "View footprints in SAP S/4HANA Cloud",
+                                    "Make environmental footprints available for SAP S/4HANA extensibility",
+                                    "Integrate environmental footprints in Enterprise Search",
+                                    "Embedded Analytics"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Assessment (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EEBA8A94CA03130ADFB",
+                            "content": {
+                                "svp": "Reduce your environmental impact by assessing environmental footprints at scale and integrating footprints into your business processes.",
+                                "parent_description": "Ability to assess, record and display environmental footprints.",
+                                "description": [
+                                    "View footprints in SAP S/4HANA",
+                                    "Make environmental footprints available for SAP S/4HANA extensibility",
+                                    "Integrate environmental footprints in Enterprise Search",
+                                    "Embedded Analytics"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Assessment (SFM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EEBA3A764F2E8D2B9D4",
+                            "content": {
+                                "svp": "Reduce your environmental impact by assessing environmental footprints at scale and integrating footprints into your business processes.",
+                                "parent_description": "Ability to assess, record and display environmental footprints.",
+                                "description": [
+                                    "Define Derivation Rules (Data mapping and calculation rules, bottom-up and top-down)",
+                                    "Manage Assessment (footprint governance, schedule periodic Assessment Run, check quality and have internal benchmark on the results)",
+                                    "View detailed results of footprint assessments"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to assess, record and display environmental footprints."
+                },
+                "Environmental Footprint Collaboration": {
+                    "content": {
+                        "Environmental Footprint Collaboration (SFM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEBA8A978F3BF676DE8",
+                            "content": {
+                                "svp": "Improve environmental footprint assessments by exchanging, auditing &amp; benchmarking environmental footprints across organizational boundaries",
+                                "parent_description": "Ability to exchange environmental footprint information across the entire value chain.",
+                                "description": [
+                                    "Disclose environmental footprints to your customers",
+                                    "Disclose how environmental footprints are assessed for auditing purposes",
+                                    "Collaborate with your suppliers improving the footprint"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to exchange environmental footprint information across the entire value chain."
+                },
+                "Environmental Footprint Data Collection": {
+                    "content": {
+                        "Environmental Footprint Data Collection (Footprint Clean Ops)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDD85FB088C0C297421",
+                            "content": {
+                                "svp": "Enable faster time-to-value and reduced cost of implementation for assessing Environmental Footprints using data from SAP systems",
+                                "parent_description": "Ability to collect and extract business activity and master data from business systems which are the primary input source needed for assessing environmental footprints.<br><br>",
+                                "description": [
+                                    "Import footprint-relevant master data from SAP systems<br>",
+                                    "Import footprint-relevant transactional data from SAP systems",
+                                    "Out-of-the-box integration with SAP Business ByDesign and SAP Business One"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Data Collection (S/4 CLD Private)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/B925DEA13D691EDF9BEDF64FA73F0B08",
+                            "content": {
+                                "svp": "Enable faster time-to-value and reduced cost of implementation for assessing Environmental Footprints using data from SAP systems.",
+                                "parent_description": "Ability to collect and extract business activity and master data from business systems which are the primary input source needed for assessing environmental footprints.<br><br>",
+                                "description": [
+                                    "Extract business data from SAP S/4HANA Cloud required for environmental footprint calculation",
+                                    "Re-use existing master data, enterprise structure and business activity metrics"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Data Collection (S/4 CLD Public)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEBA8A9191C48924CE3",
+                            "content": {
+                                "svp": "Enable faster time-to-value and reduced cost of implementation for assessing Environmental Footprints using data from SAP systems.",
+                                "parent_description": "Ability to collect and extract business activity and master data from business systems which are the primary input source needed for assessing environmental footprints.<br><br>",
+                                "description": [
+                                    "Extract business data from SAP S/4HANA Cloud required for environmental footprint calculation",
+                                    "Re-use existing master data, enterprise structure and business activity metrics"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Data Collection (S/4)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEBA8A92812F4594D0E",
+                            "content": {
+                                "svp": "Enable faster time-to-value and reduced cost of implementation for assessing Environmental Footprints using data from SAP systems.",
+                                "parent_description": "Ability to collect and extract business activity and master data from business systems which are the primary input source needed for assessing environmental footprints.<br><br>",
+                                "description": [
+                                    "Extract business data from SAP S/4HANA Cloud required for environmental footprint calculation",
+                                    "Re-use existing master data, enterprise structure and business activity metrics"
+                                ]
+                            }
+                        },
+                        "Environmental Footprint Data Collection (SFM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE772D1EEBA8A90934E0D211DF",
+                            "content": {
+                                "svp": "Enable faster time-to-value and reduced cost of implementation for assessing Environmental Footprints using data from SAP systems.",
+                                "parent_description": "Ability to collect and extract business activity and master data from business systems which are the primary input source needed for assessing environmental footprints.<br><br>",
+                                "description": [
+                                    "Import business data to calculate footprints:",
+                                    "import master data from SAP systems",
+                                    "import enterprise structure from SAP systems",
+                                    "import business activity metrics (material movements, transport information) from SAP systems",
+                                    "Define time-periods and scope of business data to be extracted from SAP systems"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to collect and extract business activity and master data from business systems which are the primary input source needed for assessing environmental footprints."
+                },
+                "Sustainability Content Management": {
+                    "content": {
+                        "Sustainability Reference Content Management (SFM)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EDBA3A7220FC37161CC",
+                            "content": {
+                                "svp": "Reuse existing product lifecycle assessment results from internal and external sources thereby enabling faster time-to-value.",
+                                "parent_description": "Ability to manage sustainability content from external content providers.",
+                                "description": [
+                                    "Import and manage sustainability content that is not available in customers’ SAP systems or business activity extractors.",
+                                    "Make use of data from internal and external providers of sustainability content.",
+                                    "Leverage third-party data collection tools."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to manage sustainability content from external content providers."
+                }
+            }
+        },
+        "Holistic Steering and Reporting": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/000D3ABE796A1EDC89E8182F82F6F640",
+            "content": {
+                "ESG Business Network Collaboration": {
+                    "content": {},
+                    "description": "Exchange sustainability KPIs with business partners and collaborate across Business Networks to increase data accuracy and to enable benchmarking."
+                },
+                "ESG Data Sourcing": {
+                    "content": {
+                        "ESG Data Sourcing (Sust. Control Tower)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EEC8CB0BFBDBEDABADA",
+                            "content": {
+                                "svp": "Accelerate and simplify the process to collect data relevant for ESG reporting from a variety of data sources and systems.",
+                                "parent_description": "Gather and manage sustainability-related data from a variety of data sources.",
+                                "description": [
+                                    "Import of data from any source but enhanced value by direct integration and mapping of SAP data sources to SAP Sustainability Control Tower data interfaces."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Gather and manage sustainability-related data from a variety of data sources."
+                },
+                "ESG Disclosure Management and Communication": {
+                    "content": {
+                        "ESG Disclosure Management and Communication (Sust. Control Tower)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDC8CAF17E315ED6003",
+                            "content": {
+                                "svp": "Building trust by efficiently creating ESG transparency for investors and other external stakeholders.",
+                                "parent_description": "Disclose sustainability metrics to stakeholders according to a variety of reporting standards and frameworks and allow for auditability.<br>",
+                                "description": [
+                                    "High quality, automated reports based on the Integrated Key Figure Ledger<br>",
+                                    "Publishing as statuary report documents",
+                                    "Publishing as data feeds to internal (i.e. corporate intranet) as well as external platforms (i.e. corporate website)",
+                                    "Audit and compliance features"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Disclose sustainability metrics to stakeholders according to a variety of reporting standards and frameworks and allow for auditability."
+                },
+                "ESG Key Figure Management": {
+                    "content": {
+                        "ESG Key Figure Management (Sust. Control Tower)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE796A1EEC8CB0F305B9DDF368",
+                            "content": {
+                                "svp": "Simplify the association of ESG reporting data leveraging pre-shipped data models, thereby ensuring that reporting requirements are met.",
+                                "parent_description": "Define and monitor consistent sustainability metrics and required data quality. Enrich, relate and convert data to achieve harmonized key figures. Release key figures for consumption.",
+                                "description": [
+                                    "Leverage pre-shipped data models for different reporting frameworks",
+                                    "Define and monitor consistent sustainability metrics and required data quality",
+                                    "Enrich, relate and convert data to achieve harmonized key figures.",
+                                    "Release key figures for consumption."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Define and monitor consistent sustainability metrics and required data quality. Enrich, relate and convert data to achieve harmonized key figures. Release key figures for consumption."
+                },
+                "ESG Performance Improvements and Steering": {
+                    "content": {
+                        "ESG Performance Improvements and Steering (Sust. Control Tower)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EDC8CB697FE68042C05",
+                            "content": {
+                                "svp": "Take high quality strategic decisions based on reliable data improving ESG performance.",
+                                "parent_description": "Define actionable measures to improve the sustainability performance and long-term valuation by embedding sustainability metrics into core business processes.",
+                                "description": [
+                                    "Capturing of abatement projects / actions in Sustainability Control Tower",
+                                    "Embedding of actions in SAP IES with the corporate wide performance management in Sustainability Control Tower",
+                                    "Analyzing the effect of sustainability actions / abatement projects in combination with the Integrated Key Figure Ledger",
+                                    "Performing What-if Scenario Planning and Forecasting",
+                                    "One view on sustainability data and action to enable corporate sustainability performance management",
+                                    "Identify the most relevant areas to drive sustainability performance",
+                                    "Enable high quality strategic decisions based on data"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Define actionable measures to improve the sustainability performance and long-term valuation by embedding sustainability metrics into core business processes."
+                },
+                "ESG Performance Insights": {
+                    "content": {
+                        "ESG Performance Insights (Sust. Control Tower)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EDC8CB62E3229BBCADE",
+                            "content": {
+                                "svp": "Gain performance insights across ESG key figures to understand their impact on environment, society and communities and deduct actions.",
+                                "parent_description": "Gain sustainability performance insights across financial, operational, compliance, environmental, and social key figures, to understand their impact on environment, society and communities and receive notifications where the performance is not developing in alignment with set targets.",
+                                "description": [
+                                    "Holistic sustainability / ESG dashboards based on the Integrated Key Figure Ledger",
+                                    "Tracking of sustainability / ESG target achievements across locations and organizational units",
+                                    "Smart insights to detect patterns and provide actionable insights",
+                                    "Readily available transparency of company wide sustainability / ESG performance",
+                                    "Transparency on target achievement and trends in different locations and organizational units",
+                                    "Actionable insights to derive strategic decisions and take action"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Gain sustainability performance insights across financial, operational, compliance, environmental, and social key figures, to understand their impact on environment, society and communities and receive notifications where the performance is not developing in alignment with set targets."
+                }
+            }
+        },
+        "Sustainability Collaboration": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/277A185E17801EDEAF84D540851944B1",
+            "content": {
+                "Sustainability Information Collaboration": {
+                    "content": {
+                        "Sustainability Information Collaboration (SDX)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/1FA75F34ABA51EDEAF84EBD5234FC2C0",
+                            "content": {
+                                "svp": "Exchange scope 3 product carbon footprint information within the supply chain",
+                                "parent_description": "Ability to exchange sustainability data and KPIs with business partners and collaborate across business networks to increase data accuracy on scope 1, 2, and 3 footprints and to also enable benchmarking.",
+                                "description": [
+                                    "Enable sharing of actual product carbon footprints across value chains with increased interoperability and data sovereignty of data owners.",
+                                    "Request data from suppliers.",
+                                    "Publish your own product carbon footprints to buyers.",
+                                    "Feed supplier information into the product carbon footprint calculation in SAP Sustainability Footprint Management.",
+                                    "Exchange data interoperability through data standards such as the World Business Council for Sustainable Development Partnership for Carbon Transparency (WBCSD PACT) and Catena-X."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to exchange sustainability data and KPIs with business partners and collaborate across business networks to increase data accuracy on scope 1, 2, and 3 footprints and to also enable benchmarking."
+                },
+                "Sustainability Network Operation": {
+                    "content": {
+                        "Sustainability Network Operation (Sust. Data Exchange)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/277A185E17801EDEAF84FBCC171524B1",
+                            "content": {
+                                "svp": "Collaborate with partners in connected network",
+                                "parent_description": "Ability to operate and monitor sustainability collaboration networks.",
+                                "description": [
+                                    "Find business partners in connected business networks.",
+                                    "Define business partner relationships with supply chain partners.",
+                                    "Leverage World Business Council for Sustainable Development Partnership for Carbon Transparency (WBCSD PACT) protocol to exchange product carbon footprints using PACT-compliant software.",
+                                    "Natively connect to the Catena-X platform using data space integration.",
+                                    "Conform to the Catena-X product carbon footprint standard for digital twins.",
+                                    "Use decentralized identity management wallets for corporate verifiable credentials.",
+                                    "Find and maintain relationships with Catena-X business partners and map to their ERP IDs",
+                                    "Maintain Eclipse Dataspace Components (EDC) data, offer contracts, and maintain policies as defined by Catena-X for CO2 use cases."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Ability to operate and monitor sustainability collaboration networks."
+                }
+            }
+        },
+        "Sustainable Operations": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/ED8FED9310D11EEEAF855E7E7D2EDAE5",
+            "content": {
+                "ESG Fact Transparency Mass Balancing": {
+                    "content": {
+                        "ESG Fact Transparency Mass Balancing (Green Token)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/ED8FED9310D11EEEAF856B841D9ABAE5",
+                            "content": {
+                                "svp": "Substantiate sustainability claims with mass balancing of  sustainability attributes of ingredients",
+                                "parent_description": "ESG fact transparency mass balancing involves enforcing accounting for bulk materials and products and their sustainability attributes to substantiate sustainability claims.",
+                                "description": [
+                                    "Enforce mass balance accounting for bulk materials and products and their sustainability attributes to substantiate sustainability claims.",
+                                    "Keep track of the raw material from where it started to where it ends up.<br>",
+                                    "Provide transparency to any raw material facts you wish to trace.<br>"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "ESG fact transparency mass balancing involves enforcing accounting for bulk materials and products and their sustainability attributes to substantiate sustainability claims."
+                },
+                "ESG Fact Transparency Segregated Accounting": {
+                    "content": {
+                        "ESG Fact Transparency Segregated Accounting (Green Token)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/A1B782C038341EEFA1B2E4D6F212BCF8",
+                            "content": {
+                                "svp": "Substantiate sustainability claims with segregated accounting of sustainability attributes of ingredients",
+                                "parent_description": "Ability to account for certified sustainability attributes of segregated raw materials, bulk products or commodities to substantiate sustainability claims",
+                                "description": []
+                            }
+                        }
+                    },
+                    "description": "Ability to account for certified sustainability attributes of segregated raw materials, bulk products or commodities to substantiate sustainability claims"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,819 @@
+{
+    "Commerce": {
+        "Commerce Management": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B27FCC11ED892E99C5238C600CC",
+            "content": {
+                "B2B Commerce": {
+                    "content": {
+                        "B2B Commerce (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/901B0ED1A0641EDA9BA468936DCC00EE",
+                            "content": {
+                                "svp": "Increase revenues by digitalizing your B2B sales channel",
+                                "parent_description": "B2B Commerce involves business functionality required for setting up business models in a B2B context, for example, managing accounts, organisation structures, cost centers, and budgets as well as quote management, approval workflows, and so on. ​",
+                                "description": [
+                                    "Increase revenue by digitalizing B2B sales processes on a leading commerce platform.",
+                                    "Allow customers to self-serve when managing their specific organisaton and account structures as well as cost centers, budgets, and approvals on your digital commerce channel.",
+                                    "Allow customers to buy your products and services at a time that suits them&nbsp;​by allowing online quoting and negotiations tightly integrated with your traditional sales process.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "B2B Commerce involves business functionality required for setting up business models in a B2B context, for example, managing accounts, organisation structures, cost centers, and budgets as well as quote management, approval workflows, and so on. ​"
+                },
+                "Bundling, Configuration, and Subscriptions": {
+                    "content": {
+                        "Bundling, Configuration, and Subscriptions (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8A380A5455A5140CD",
+                            "content": {
+                                "svp": "Create new revenue streams and maximize profits with bundling and subscription-based business models",
+                                "parent_description": "Bundling, configuration, and subscriptions involves the ability to combine products, services, and promotions into product bundles with specific subscription-based pricing models.​",
+                                "description": [
+                                    "Maximize profits by using different pricing models, whether you sell a product individually or in a bundle.",
+                                    "Reduce cost of ownership and create new revenue streams with subscription-based pricing models for products, services, and promotions.",
+                                    "Increase sales and loyalty by simplifying the shopping experience."
+                                ]
+                            }
+                        },
+                        "Bundling, Configuration, and Subscriptions (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463D4A0CC",
+                            "content": {
+                                "svp": "Create new revenue streams and maximize profits with bundling and subscription-based business models",
+                                "parent_description": "Bundling, configuration, and subscriptions involves the ability to combine products, services, and promotions into product bundles with specific subscription-based pricing models.​",
+                                "description": [
+                                    "Maximize profits by using different pricing models, whether you sell a product individually or in a bundle.",
+                                    "Reduce cost of ownership and create new revenue streams with subscription-based pricing models for products, services, and promotions.",
+                                    "Increase sales and loyalty by simplifying the shopping experience."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Bundling, configuration, and subscriptions involves the ability to combine products, services, and promotions into product bundles with specific subscription-based pricing models.​"
+                },
+                "Cart and Checkout": {
+                    "content": {
+                        "Cart and Checkout (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631ED9B4F7B434BCA3E0EF",
+                            "content": {
+                                "svp": "Enable seamless shopping cart and checkout experiences",
+                                "parent_description": "Cart and checkout involves&nbsp;enabling seamless shopping cart and checkout scenarios.​",
+                                "description": [
+                                    "Allow customers to add products and services to a shopping cart.",
+                                    "Run promotions on cart level.",
+                                    "Setup checkout flows for known and guest users and integrate with your relevant providers for payment, tax, and shipment.",
+                                    "Benefit from seamless integration into order orchestration and management.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Cart and checkout involves enabling seamless shopping cart and checkout scenarios.​"
+                },
+                "Commerce Chatbots": {
+                    "content": {
+                        "Commerce Chatbots (Chatbot)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED98FD139294ADC20D6",
+                            "content": {
+                                "svp": "Interact with customers using their channel of choice with the conversational commerce chatbot",
+                                "parent_description": "Commerce chatbots involve interacting with customers using their channel of choice and providing&nbsp;permanent assistance to help them with their queries.&nbsp;​",
+                                "description": [
+                                    "Interact with customers in the social messenger channel of their choice to provide a covenient conversational shopping experience.",
+                                    "Provide permanent assistance to customers as and when they need it, 24 hours a day, 7 days a week.",
+                                    "Enable customers to search for products, retrieve information on a product, add products to shopping carts and favorites, view current shopping carts, and complete the check-out. process."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Commerce chatbots involve interacting with customers using their channel of choice and providing permanent assistance to help them with their queries. ​"
+                },
+                "Commerce Communities": {
+                    "content": {
+                        "Commerce Communities": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92A59D6DEC0CC",
+                            "content": {
+                                "svp": "Influence and accelerate purchase decisions in a scalable way with SAP Jam Communities",
+                                "parent_description": "Commerce communities involves building&nbsp;online communities for customers, resellers, and distributors to collaborate, enabling you to undertand your customers’ needs and interests, and offer relevant content to guide the final purchase decision.",
+                                "description": [
+                                    "Attract and instill buying confidence by offering relevant and authentic content.",
+                                    "Address customer’s questions at scale before, during and after the purchase.",
+                                    "Establish strong customer relationships and inspire loyalty through engagement."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Commerce communities involves building online communities for customers, resellers, and distributors to collaborate, enabling you to undertand your customers’ needs and interests, and offer relevant content to guide the final purchase decision."
+                },
+                "Commerce Integration and Extensibility": {
+                    "content": {
+                        "Commerce Integration and Extensibility (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1EDA9BA48B9C689E80E2",
+                            "content": {
+                                "svp": "Differentiate yourself by implementing innovative extensions quickly and by integrating the commerce solution to other applications",
+                                "parent_description": "Commerce integration and extensibility involves functionality required to integrate with SAP and third party solutions as well as to extend provided functionality for specific demands. ​",
+                                "description": [
+                                    "Gain efficiency and time by using ready made integration flows between SAP solutions.",
+                                    "Reduce project effort by integrating with third party solutions with standard integration technology.",
+                                    "Adapt the commerce experience to your specific needs by building micro-service extensions that are unique to your business​."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Commerce integration and extensibility involves functionality required to integrate with SAP and third party solutions as well as to extend provided functionality for specific demands. ​"
+                },
+                "Commerce Marketplace": {
+                    "content": {
+                        "Commerce Marketplace (Mirakl)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDD8AD6116F6FDAA25F",
+                            "content": {
+                                "svp": "Enable B2B and B2C organizations to launch, grow, and operate online marketplaces at scale",
+                                "parent_description": "Commerce marketplace involvesenabling B2B and B2C organizations to launch, grow, and operate online marketplaces at scale",
+                                "description": [
+                                    "Integrate inventory and catalog data by automating product and category mapping.",
+                                    "Increase effectiveness with seller performance analytics and ratings, KPI dashboards, and a user-friendly messaging portal.",
+                                    "Boost customer loyalty with a sophisticated consumer experience and customer information tracking.",
+                                    "Leverage integration with SAP Commerce Cloud and install quickly without interruption of existing storefronts."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Commerce marketplace involvesenabling B2B and B2C organizations to launch, grow, and operate online marketplaces at scale"
+                },
+                "Commerce Platform Operations": {
+                    "content": {
+                        "Commerce Platform Operations (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B28C5D91EDA9BA4A10AB77560E5",
+                            "content": {
+                                "svp": "Increase efficiency in operating your enterprise grade commerce platform",
+                                "parent_description": "Commerce platform operations involves build, deployment, operations, and monitoring of the commerce solution.​",
+                                "description": [
+                                    "Increase operational excellence by managing your build and deployments on the hyperscaler infrastructure.",
+                                    "Secure operations by monitoring your commerce platform end-to-end.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Commerce platform operations involves build, deployment, operations, and monitoring of the commerce solution.​"
+                },
+                "Commerce Storefront": {
+                    "content": {
+                        "Commerce Storefront (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1EDA9BA34D181AB320E2",
+                            "content": {
+                                "svp": "Drive conversion and loyalty by delivering engaging, differentiated, and personal commerce experiences",
+                                "parent_description": "Commerce storefront involves the management and provisioning of template storefronts that allow for a quick time to value in setting up and operating your commerce frontend.​",
+                                "description": [
+                                    "Go to market fast by adapting a fully featured, state-of-the-art commerce storefront template to your specific business needs.",
+                                    "Build your customer experience on a framework which uses the latest frontend technology that enables the creation of differentiated, personalized, and innovative experiences with fast load times. ​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Commerce storefront involves the management and provisioning of template storefronts that allow for a quick time to value in setting up and operating your commerce frontend.​"
+                },
+                "Contextual Real-Time Personalization": {
+                    "content": {
+                        "Contextual Real-Time Personalization (CDS)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EEBBE9FFC5B735A0BCF",
+                            "content": {
+                                "svp": "Create individualized experiences for customers in real time across their commerce journey",
+                                "parent_description": "Contextual real-time personalization involves capturing and analyzing contextual and behavioral data across the customer journey to create individualized experiences for customers in real time.<br>",
+                                "description": [
+                                    "Capture and analyze contextual and behavioral data across each customer’s commerce journey, to receive real-time insights into your customers’ intentions and affinities and to create individualized customer experiences.",
+                                    "Keep up with visitors’ interests to turn them into buyers, with the ability to continuously adjust your merchandising mix and monitor buying trends, driving conversion rates, raising order value, and increasing customer satisfaction and loyalty.",
+                                    "Dynamically assign and reassign customers to segments for even deeper personalization in real time.​"
+                                ]
+                            }
+                        },
+                        "Contextual Real-Time Personalization (Emarsys)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3ABE772D1EECB5D267D6A9E953E5",
+                            "content": {
+                                "svp": "Deliver real-time, one-to-one personalization with every interaction",
+                                "parent_description": "Contextual real-time personalization involves capturing and analyzing contextual and behavioral data across the customer journey to create individualized experiences for customers in real time.<br>",
+                                "description": [
+                                    "Deepen relationships with your customers by turning data-backed insights into personalized, real-time engagements.",
+                                    "Build segments using AI algorithms that predict what customers are likely to do next based on past behavior.",
+                                    "Increase acquisition, purchase frequency, average order value, and retention by automating customer engagement across the customer lifecycle."
+                                ]
+                            }
+                        },
+                        "Contextual Real-Time Personalization (Intelligent Selling, Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EDC85DC445A65EB65CB",
+                            "content": {
+                                "svp": " Deliver real-time, one-to-one personalization and merchandizing with every interaction across the commerce journey",
+                                "parent_description": "Contextual real-time personalization involves capturing and analyzing contextual and behavioral data across the customer journey to create individualized experiences for customers in real time.<br>",
+                                "description": [
+                                    "Deepen relationships with your customers by turning data-backed insights into personalized, real-time engagements.",
+                                    "Capture and analyze contextual and behavioral data across each customer’s commerce journey, to receive real-time insights into your customers’ intentions and interests to create individualized customer experiences.",
+                                    "Turn visitors into buyers with with machine learning and performance metrics that continuously adjust your merchandizing and personalization to deliver on click-through rate, conversion rates, average order value, purchase frequency, and retention; automating customer engagement across the customer lifecycle."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Contextual real-time personalization involves capturing and analyzing contextual and behavioral data across the customer journey to create individualized experiences for customers in real time."
+                },
+                "Headless Commerce APIs": {
+                    "content": {
+                        "Headless Commerce APIs (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8A380CA1A26BEC0CB",
+                            "content": {
+                                "svp": "Expand your reach by connecting commerce to a variety of existing and emerging channels and touch points",
+                                "parent_description": "Headless commerce APIs involves building commerce experiences into any customer touchpoint by connecting and integrating the commerce backend with emerging commerce channels, for example, social media, smart devices, voice assistants, and so on.",
+                                "description": [
+                                    "Deliver an exceptional customer experience across omnichannel touch points by integrating all channels and touch points on a single commerce platform using headless commerce APIs.",
+                                    "Improve flexibility and agility by adding new touch points as they emerge.​"
+                                ]
+                            }
+                        },
+                        "Headless Commerce APIs (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E925DF214B80CC",
+                            "content": {
+                                "svp": "Expand your reach by connecting commerce to a variety of existing and emerging channels and touch points",
+                                "parent_description": "Headless commerce APIs involves building commerce experiences into any customer touchpoint by connecting and integrating the commerce backend with emerging commerce channels, for example, social media, smart devices, voice assistants, and so on.",
+                                "description": [
+                                    "Deliver an exceptional customer experience across omnichannel touch points by integrating all channels and touch points on a single commerce platform using headless commerce APIs.",
+                                    "Improve flexibility and agility by adding new touch points as they emerge.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Headless commerce APIs involves building commerce experiences into any customer touchpoint by connecting and integrating the commerce backend with emerging commerce channels, for example, social media, smart devices, voice assistants, and so on."
+                },
+                "Omnichannel Content Management": {
+                    "content": {
+                        "Omnichannel Content Management (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8BFAA9116B4E440D1",
+                            "content": {
+                                "svp": "Strengthen customer loyalty by creating highly personalized commerce experiences",
+                                "parent_description": "Omnichannel content management involves creating, managing, and providing differentiated, targeted, and highly personalized commerce experiences.​",
+                                "description": [
+                                    "Market to an audience of one by creating targeted and highly personalized omnichannel commerce experiences.",
+                                    "Rollout differentiated commerce experiences quickly, be it for various brands, regions, countries, or line of businesses.​"
+                                ]
+                            }
+                        },
+                        "Omnichannel Content Management (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF891E0CC",
+                            "content": {
+                                "svp": "Strengthen customer loyalty by creating highly personalized commerce experiences",
+                                "parent_description": "Omnichannel content management involves creating, managing, and providing differentiated, targeted, and highly personalized commerce experiences.​",
+                                "description": [
+                                    "Market to an audience of one by creating targeted and highly personalized omnichannel commerce experiences.",
+                                    "Rollout differentiated commerce experiences quickly, be it for various brands, regions, countries, or line of businesses.​"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Omnichannel content management involves creating, managing, and providing differentiated, targeted, and highly personalized commerce experiences.​"
+                },
+                "Omnichannel Promotion Pricing": {
+                    "content": {
+                        "Omnichannel Promotion Pricing (OPP CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED9B4F777F2335DA0DC",
+                            "content": {
+                                "svp": "Alleviate omnichannel business challenges by making consistent pricing and promotional information available at all consumer touch points",
+                                "parent_description": "Omnichannel promotion pricing execution involves managing and carrying out consistent pricing,and promotions, and markdowns across channels.​",
+                                "description": [
+                                    "Effective sales prices and offers for consumers across all channels.",
+                                    "Consistent pricing and promotion information available at all touch points including the point of sale.",
+                                    "Faster time to market for new promotional rules designed by marketers in all sales channels​.",
+                                    "Efficient creation of coupons and generation of high-volume coupon codes, including reservation and redemption functionalities<br>"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Omnichannel promotion pricing execution involves managing and carrying out consistent pricing,and promotions, and markdowns across channels.​"
+                },
+                "Order Orchestration and Management": {
+                    "content": {
+                        "Order Orchestration and Management (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8A380D2BBEC4080CD",
+                            "content": {
+                                "svp": "Put customers at the center of commerce with omnichannel order fulfillment options",
+                                "parent_description": "Order orchestration and management involves streamlining commerce operations by processing, controlling, and routing orders from any touch point as well as allowing buyers to get an instant view of their recent and current orders. ​",
+                                "description": [
+                                    "Streamline operations by capturing, processing, allocating, and routing orders from and to any touch point.",
+                                    "Drive growth by handling large volumes of orders at peak times.",
+                                    "Reduce overhead stock levels, improve delivery efficiencies, and cut shipping costs with omnichannel fulfillment options and enabling customers to buy, pick up, and return anywhere."
+                                ]
+                            }
+                        },
+                        "Order Orchestration and Management (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E925DF2163E0CC",
+                            "content": {
+                                "svp": "Put customers at the center of commerce with omnichannel order fulfillment options",
+                                "parent_description": "Order orchestration and management involves streamlining commerce operations by processing, controlling, and routing orders from any touch point as well as allowing buyers to get an instant view of their recent and current orders. ​",
+                                "description": [
+                                    "Streamline operations by capturing, processing, allocating, and routing orders from and to any touch point.",
+                                    "Drive growth by handling large volumes of orders at peak times.",
+                                    "Reduce overhead stock levels, improve delivery efficiencies, and cut shipping costs with omnichannel fulfillment options and enabling customers to buy, pick up, and return anywhere."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Order orchestration and management involves streamlining commerce operations by processing, controlling, and routing orders from any touch point as well as allowing buyers to get an instant view of their recent and current orders. ​"
+                },
+                "Order Sourcing and Product Availability": {
+                    "content": {
+                        "Order Sourcing and Product Availability (COS CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B28C5D91ED9B4F7985B3B0840DF",
+                            "content": {
+                                "svp": "Efficiently manage the sourcing and delivery of products from customer orders received in-store or online",
+                                "parent_description": "Order sourcing and product availability involves finding the right fulfillment location for desired products based on overall inventory availability across all channels.​",
+                                "description": [
+                                    "Enable companies to offer attractive and reliable omnichannel stock availability and delivery promises to their customers.",
+                                    "Provide full transparency into product availability across all stores, distribution centers, and third-party sites.",
+                                    "Enable optimal and efficient fulfillment sourcing for various business strategies​"
+                                ]
+                            }
+                        },
+                        "Order Sourcing and Product Availability (Order Mgmt Sourcing)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAC9DD21EDCAAA3FE9F14FB2081",
+                            "content": {
+                                "svp": "Dynamically allocate orders for fulfillment based on information beyond fulfillment cost such as existing and anticipated inventory",
+                                "parent_description": "Order sourcing and product availability involves finding the right fulfillment location for desired products based on overall inventory availability across all channels.​",
+                                "description": [
+                                    "Consider current internal and external factors and constraints and decide dynamically on an optimal order orchestration and fulfillment plan, thus saving time and costs.",
+                                    "Decrease the time between order capture and dispatching for fulfillment.",
+                                    "Employ more-efficient order orchestration to speed time to the consumer, lower logistics costs, and improve inventory orchestration across stores and distribution centers.",
+                                    "Increase customer loyalty through timely shipment and pickup of orders."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Order sourcing and product availability involves finding the right fulfillment location for desired products based on overall inventory availability across all channels.​"
+                },
+                "Pricing and Promotions": {
+                    "content": {
+                        "Pricing and Promotions (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/0050568241CA1ED8A380DA00AA0DE0FE",
+                            "content": {
+                                "svp": "Grow revenue and reward loyalty using advanced pricing and promotion models",
+                                "parent_description": "Pricing and promotions involves creating and managing dynamic pricing and promotion rules to improve customer engagement and loyalty and boost sales across all customer touchpoints.​​",
+                                "description": [
+                                    "Improve customer engagement and sales across all touchpoints by creating and managing dynamic promotion rules.",
+                                    "Streamline the design and management of simple or complex promotions with an intuitive interface and out-of-the-box templates.",
+                                    "Meet business goals by managing coupon codes from generation to redemption for single or multiuse scenarios."
+                                ]
+                            }
+                        },
+                        "Pricing and Promotions (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E46FA40CC",
+                            "content": {
+                                "svp": "Grow revenue and reward loyalty using advanced pricing and promotion models",
+                                "parent_description": "Pricing and promotions involves creating and managing dynamic pricing and promotion rules to improve customer engagement and loyalty and boost sales across all customer touchpoints.​​",
+                                "description": [
+                                    "Improve customer engagement and sales across all touchpoints by creating and managing dynamic promotion rules.",
+                                    "Streamline the design and management of simple or complex promotions with an intuitive interface and out-of-the-box templates.",
+                                    "Meet business goals by managing coupon codes from generation to redemption for single or multiuse scenarios."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Pricing and promotions involves creating and managing dynamic pricing and promotion rules to improve customer engagement and loyalty and boost sales across all customer touchpoints.​​"
+                },
+                "Recommerce Management": {
+                    "content": {
+                        "Recommerce Management (Recommerce)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/AF740456A03F1EDDAFED44E854D00DCC",
+                            "content": {
+                                "svp": "Enable businesses to offer rewards in exchange for used products that will be refurbished and resold",
+                                "parent_description": "Recomerce management involves enabling businesses to offer rewards, in store and online, in exchange for used products that will be refurbished and resold. It includes managing products in your catalog that are eligible for your recommerce program and the eligible conditions, managing offers and incentives for those products, and processing the used products through authentication, cleaning, and repairs.<br>",
+                                "description": [
+                                    "Manage which products in your catalog are eligible for your recommerce program and the conditions you are willing to accept those products in when a customer submits them.",
+                                    "Manage the offers and incentives you are willing to give for products in different conditions.",
+                                    "Enable customers to trade-in their items online or in-store.",
+                                    "Enable employees to process used products through authentication, cleaning, and repairs.",
+                                    "Empower Recommerce managers to have visibility into inventory at various stages of the recommerce process."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Recomerce management involves enabling businesses to offer rewards, in store and online, in exchange for used products that will be refurbished and resold. It includes managing products in your catalog that are eligible for your recommerce program and the eligible conditions, managing offers and incentives for those products, and processing the used products through authentication, cleaning, and repairs."
+                },
+                "Search and Navigation": {
+                    "content": {
+                        "Search and Navigation (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/0050568241CA1ED8A380DF92020FE0FE",
+                            "content": {
+                                "svp": "Improve personalization with search and navigation experience solutions for your customers",
+                                "parent_description": "Search and navigation involves helping ensure the most relevant results with faceted and auto-suggestion search, and managing misspelled words and synonyms during search and navigation.",
+                                "description": [
+                                    "Increase revenue by managing misspelled words and synonyms during search and navigation.",
+                                    "Maximize conversions by tailoring the storefront product search to your specific merchandising demands.",
+                                    "Improve the customer discovery experience and increase sales with advanced search tools."
+                                ]
+                            }
+                        },
+                        "Search and Navigation (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9281C8420E0CC",
+                            "content": {
+                                "svp": "Improve personalization with search and navigation experience solutions for your customers",
+                                "parent_description": "Search and navigation involves helping ensure the most relevant results with faceted and auto-suggestion search, and managing misspelled words and synonyms during search and navigation.",
+                                "description": [
+                                    "Increase revenue by managing misspelled words and synonyms during search and navigation.",
+                                    "Maximize conversions by tailoring the storefront product search to your specific merchandising demands.",
+                                    "Improve the customer discovery experience and increase sales with advanced search tools."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Search and navigation involves helping ensure the most relevant results with faceted and auto-suggestion search, and managing misspelled words and synonyms during search and navigation."
+                }
+            }
+        },
+        "Customer Data Management": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/005056821C321ED89FA9572D606500FE",
+            "content": {
+                "Audience and Journey Management": {
+                    "content": {
+                        "Audience and Journey Management (CustData Platform)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EED80D61E94350103B9",
+                            "content": {
+                                "svp": "Activate customer data in real time to create personalized engagements",
+                                "parent_description": "Audience and journey management involves leveraging customer profile and data insights to provide the right message at the right time to customers across the customer journey. It includes building and enhancing audiences, to manage campaigns and identify sales targets.",
+                                "description": [
+                                    "Create on-demand audiences based on the unified customer profile and data insights collected.",
+                                    "Relay the right message at the right time to customers across any channel at scale, using preconfigured connectors with real-time customer journeys.",
+                                    "Make account, contact, and household data available when needed.",
+                                    "Leverage the audience builder to create audiences on demand, based on the unified customer profile and data insights collected, and use them in managing campaigns and identifying sales targets.",
+                                    "Build an audience once and schedule it to run again when customer data is enriched and customers enter new segments."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Audience and journey management involves leveraging customer profile and data insights to provide the right message at the right time to customers across the customer journey. It includes building and enhancing audiences, to manage campaigns and identify sales targets."
+                },
+                "Customer Data Insights and Analytics": {
+                    "content": {
+                        "Customer Data Insights and Analytics (CustData Platform)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AAADBCE1EED80D5FC1B37F46B0F",
+                            "content": {
+                                "svp": "Monitor customer behavior in real time, track key customer activities, and segment customer data for personalized omnichannel experiences",
+                                "parent_description": "Customer data insights and analytics involves analyzing customer behavior, demands, and needs to gain insights. It includes tracking customer activities and segmenting data to provide personalized experiences.",
+                                "description": [
+                                    "Leverage activity tracking, artificial intelligence, and machine learning capabilities to analyze customer behavior, demands, and needs.",
+                                    "Segment customers for accounts, contacts, and households to provide deep and meaningful insights into your customers to better engage with them across omnichannel experiences."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer data insights and analytics involves analyzing customer behavior, demands, and needs to gain insights. It includes tracking customer activities and segmenting data to provide personalized experiences."
+                },
+                "Customer Data Platform": {
+                    "content": {
+                        "Customer Data Platform (CustData Platform)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3A4787E21EEB98AF1E6A80AE6F17",
+                            "content": {
+                                "svp": "Unify all customer data sources, respect data privacy, and activate rich insights in real time to deliver hyper-personalized experiences",
+                                "parent_description": "Customer data platform involves unifying anonymous and known first-party, second-party, and third-party data, ensuring customer data privacy and governance, and leveraging real-time customer insights to deliver hyper-personalized experiences.",
+                                "description": [
+                                    "Gain a holistic view of your customer by unifying customer data around a foundation identity, connecting back-office data to the front office, and processing high-volumes of customer date for use in other applications.",
+                                    "Address data privacy and governance requirements across all brands and regions by combining customers’ identity and purpose data and orchestrating the data across engagement systems based on data privacy permissions.",
+                                    "Define unique customer profile views for marketing and operational use cases enabling real-time decision-making and bush customer data, based on purpose, to the right engagement systems in real-time."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer data platform involves unifying anonymous and known first-party, second-party, and third-party data, ensuring customer data privacy and governance, and leveraging real-time customer insights to deliver hyper-personalized experiences."
+                },
+                "Customer Identity Management for B2B": {
+                    "content": {
+                        "Customer Identity Management for B2B (Cust Ident)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B28C5D91ED9B4B0428D7ABA60DF",
+                            "content": {
+                                "svp": "Build trusted business relationships and drive growth",
+                                "parent_description": "Customer identity management for B2B involves&nbsp;accelerating time to market through ​frictionless, personalized, self-service customer ​and partner onboarding to drive growth through ​trusted relationships​.​",
+                                "description": [
+                                    "Accelerate time to market through ​frictionless, personalized, self-service customer ​and partner onboarding to drive growth through ​trusted relationships​.",
+                                    "Simplify end-to-end partner onboarding ​management and reduce IT complexities to increase ​revenue and lower costs across all aspects of the ​value chain​",
+                                    "Protect​ the business by securely sharing ​intellectual property and sensitive data with the ​right partner users at the right time while addressing ​evolving privacy and compliance requirements to ​reduce security, legal, and regulatory risks."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer identity management for B2B involves accelerating time to market through ​frictionless, personalized, self-service customer ​and partner onboarding to drive growth through ​trusted relationships​.​"
+                },
+                "Customer Identity Management for B2C": {
+                    "content": {
+                        "Customer Identity Management for B2C (CustData CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9216463DC20CC",
+                            "content": {
+                                "svp": "Identify and engage customers across all channels and devices to improve customer experiences",
+                                "parent_description": "Customer identity management for B2C creates a frictionless experience across brands, channels and devices, with secure registration and social authentication&nbsp; and securely identify online visitors from any touchpoint.",
+                                "description": [
+                                    "Create a frictionless experience across brands, channels and devices, with secure registration and social authentication screens and flows customizable for your particular business case.",
+                                    "Securely identify online visitors from any touchpoint, with federation standards, single sign-on functionality, and risk-based, multi-factor, and password-less authentication options.",
+                                    "Capture customers’ permission-based likes and interests through progressive profiling"
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer identity management for B2C creates a frictionless experience across brands, channels and devices, with secure registration and social authentication  and securely identify online visitors from any touchpoint."
+                },
+                "Customer Profile Management": {
+                    "content": {
+                        "Customer Profile Management (CustData CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278A960CC",
+                            "content": {
+                                "svp": "Power trusted digital experiences with first-party data",
+                                "parent_description": "Customer profile management includes transforming customer identity, profile, and account status into a unified customer profile.",
+                                "description": [
+                                    "Transform customer identity, profile, and account status into a unified customer profile.",
+                                    "Share data from each profile to any application.",
+                                    "Manage and govern profile, status, and consent data across the enterprise for consistent customer experiences."
+                                ]
+                            }
+                        },
+                        "Customer Profile Management (CustData Platform)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/000D3AA914A11EDD80D5E1B086571BC7",
+                            "content": {
+                                "svp": "Unify customer data from the front to the back office, earning customer trust by respecting privacy and the purpose for providing their data",
+                                "parent_description": "Customer profile management includes transforming customer identity, profile, and account status into a unified customer profile.",
+                                "description": [
+                                    "Build rich customer profiles for accounts, contacts, and households with an extendable data model.",
+                                    "Assure data quality and consistency with validation, normalization, and data transformation capabilities.",
+                                    "Define rules to meet your business needs for unifying and merging data based on your business identifiers.",
+                                    "Allow your DPO to define which customer data can be used and where based on the consent provided."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Customer profile management includes transforming customer identity, profile, and account status into a unified customer profile."
+                },
+                "Enterprise Preference and Consent Management": {
+                    "content": {
+                        "Enterprise Preference and Consent Management (CustData CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E922E278A8C0CC",
+                            "content": {
+                                "svp": "Enable customers to control their profile, preference and consent data with a self-service preference center.​",
+                                "parent_description": "Enterprise preference and consent management​ involves enabling customers to control their profile, preference and consent data with a self-service preference center.",
+                                "description": [
+                                    "Gain loyal customers by allowing them to control their profile, preference and consent data.",
+                                    "Increase customer transparency and trust with a self-service preference center.",
+                                    "Remain regulatory compliant and audit ready with timestamped consent history."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Enterprise preference and consent management​ involves enabling customers to control their profile, preference and consent data with a self-service preference center."
+                }
+            }
+        },
+        "Product Content and Data Management": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B27FCC11ED892E99EADD511C0CC",
+            "content": {
+                "Data Aggregation and Validation": {
+                    "content": {
+                        "Data Aggregation and Validation (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8A3815FB4059780CB",
+                            "content": {
+                                "svp": "Reduce time and expense with better control of data aggregation and validation",
+                                "parent_description": "Data aggregation and validation involves collecting, cleansing, and combining data from in-house and third-party systems to create the foundation for marketing and commerce activities.",
+                                "description": [
+                                    "Reduce total cost of ownership and create experience-driven commerce strategies with accurate and consistent master data at the core.",
+                                    "Go to market with increased speed by reducing integration build and maintenance times",
+                                    "Help ensure high-quality, consistent data by integrating data from third-party systems with greater ease."
+                                ]
+                            }
+                        },
+                        "Data Aggregation and Validation (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9222375B200CC",
+                            "content": {
+                                "svp": "Reduce time and expense with better control of data aggregation and validation",
+                                "parent_description": "Data aggregation and validation involves collecting, cleansing, and combining data from in-house and third-party systems to create the foundation for marketing and commerce activities.",
+                                "description": [
+                                    "Reduce total cost of ownership and create experience-driven commerce strategies with accurate and consistent master data at the core.",
+                                    "Go to market with increased speed by reducing integration build and maintenance times",
+                                    "Help ensure high-quality, consistent data by integrating data from third-party systems with greater ease."
+                                ]
+                            }
+                        },
+                        "Data Aggregation and Validation (PCH)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/901B0ED1A0641ED9B4F7D0B32ABB40E7",
+                            "content": {
+                                "svp": "Reduce time and expense with easier data onboarding and faster control of data aggregation, data quality, and validation",
+                                "parent_description": "Data aggregation and validation involves collecting, cleansing, and combining data from in-house and third-party systems to create the foundation for marketing and commerce activities.",
+                                "description": [
+                                    "Reduce total cost of ownership and create experience-driven commerce strategies with accurate and consistent master data at the core.",
+                                    "Import data with ease from various data sources.",
+                                    "Measure data quality and gain insight in measures you can drive to improve data quality for your product master data."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Data aggregation and validation involves collecting, cleansing, and combining data from in-house and third-party systems to create the foundation for marketing and commerce activities."
+                },
+                "Localization and Internationalization": {
+                    "content": {
+                        "Localization and Internationalization (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8A381659EAEE320CB",
+                            "content": {
+                                "svp": "Expand into new segments, markets, and geographies by providing localized content on one platform",
+                                "parent_description": "Localization and internationalization involves providing localized content on one platform that supports multiple languages, currencies, payment methods, and product variations.",
+                                "description": [
+                                    "Grow your business by supporting multiple languages, currencies, payment methods, and product variations.",
+                                    "Deploy new sites quickly using existing catalogs, content, and infrastructure.",
+                                    "Meet the unique needs of geographic markets with their own localized catalogs, pricing, content, and branding."
+                                ]
+                            }
+                        },
+                        "Localization and Internationalization (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E924608162C0CC",
+                            "content": {
+                                "svp": "Expand into new segments, markets, and geographies by providing localized content on one platform",
+                                "parent_description": "Localization and internationalization involves providing localized content on one platform that supports multiple languages, currencies, payment methods, and product variations.",
+                                "description": [
+                                    "Grow your business by supporting multiple languages, currencies, payment methods, and product variations.",
+                                    "Deploy new sites quickly using existing catalogs, content, and infrastructure.",
+                                    "Meet the unique needs of geographic markets with their own localized catalogs, pricing, content, and branding."
+                                ]
+                            }
+                        },
+                        "Localization and Internationalization (PCH)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED9B4F7DF97019DE0DC",
+                            "content": {
+                                "svp": "Expand into new segments, markets, and geographies by providing localized content on one platform",
+                                "parent_description": "Localization and internationalization involves providing localized content on one platform that supports multiple languages, currencies, payment methods, and product variations.",
+                                "description": [
+                                    "Grow your business by supporting multiple languages, currencies, payment methods, and product variations.",
+                                    "Deploy new sites quickly using existing catalogs, content, and infrastructure.",
+                                    "Meet the unique needs of geographic markets with their own localized catalogs, pricing, content, and branding."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Localization and internationalization involves providing localized content on one platform that supports multiple languages, currencies, payment methods, and product variations."
+                },
+                "Media Management": {
+                    "content": {
+                        "Media Management (Commerce CLD, Open Text CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8BFAAAFD74BFFE0D2",
+                            "content": {
+                                "svp": "Simplify management of digital media assets with media conversion solutions",
+                                "parent_description": "Media management involves managing digital media assets through functionality that helps create, edit, compose, or convert almost any available bitmap image format.",
+                                "description": [
+                                    "Create, edit, compose, or convert almost any available bitmap image format with comprehensive media conversion.",
+                                    "Improve automation by defining media containers that can then be applied to a project and used as a business representation of one digital asset.",
+                                    "Support flexible media conversion with manual or automatic options."
+                                ]
+                            }
+                        },
+                        "Media Management (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9251FF873E0CC",
+                            "content": {
+                                "svp": "Simplify management of digital media assets with media conversion solutions",
+                                "parent_description": "Media management involves managing digital media assets through functionality that helps create, edit, compose, or convert almost any available bitmap image format.",
+                                "description": [
+                                    "Create, edit, compose, or convert almost any available bitmap image format with comprehensive media conversion.",
+                                    "Improve automation by defining media containers that can then be applied to a project and used as a business representation of one digital asset.",
+                                    "Support flexible media conversion with manual or automatic options."
+                                ]
+                            }
+                        },
+                        "Media Management (PCH)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631ED9B4F7EF205AD800EF",
+                            "content": {
+                                "svp": "Manage media assigned to your product catalogs",
+                                "parent_description": "Media management involves managing digital media assets through functionality that helps create, edit, compose, or convert almost any available bitmap image format.",
+                                "description": [
+                                    "Store and distribute binary files to manage multimedia assets for enriching product content.",
+                                    "Easy upload and import of compressed files that include media files.",
+                                    "Deliver media to consuming applications.&lt;/li&gt;&lt;li&gt;Embed URLs linking to media when using external systems for media management."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Media management involves managing digital media assets through functionality that helps create, edit, compose, or convert almost any available bitmap image format."
+                },
+                "Product Content and Catalog Management": {
+                    "content": {
+                        "Product Content and Catalog Management (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED8A3817A60961B20CD",
+                            "content": {
+                                "svp": "Empower business users to manage product content across channels and geographies",
+                                "parent_description": "Product content and catalog management involves managing, structuring, and displaying product content consistently across all channels without support from IT.",
+                                "description": [
+                                    "Increase marketing effectiveness by managing, structuring, and displaying product content consistently without support from IT.",
+                                    "Improve product management by importing product content from different sources, organizing it hierarchically, and assigning attributes.",
+                                    "Drive sales by distributing product content in catalogs geared to specific audiences."
+                                ]
+                            }
+                        },
+                        "Product Content and Catalog Management (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E9269E470080CC",
+                            "content": {
+                                "svp": "Empower business users to manage product content across channels and geographies",
+                                "parent_description": "Product content and catalog management involves managing, structuring, and displaying product content consistently across all channels without support from IT.",
+                                "description": [
+                                    "Increase marketing effectiveness by managing, structuring, and displaying product content consistently without support from IT.",
+                                    "Improve product management by importing product content from different sources, organizing it hierarchically, and assigning attributes.",
+                                    "Drive sales by distributing product content in catalogs geared to specific audiences."
+                                ]
+                            }
+                        },
+                        "Product Content and Catalog Management (PCH)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED9B4F7FB318D2BE0DE",
+                            "content": {
+                                "svp": "Empower business users to manage product content across channels and geographies",
+                                "parent_description": "Product content and catalog management involves managing, structuring, and displaying product content consistently across all channels without support from IT.",
+                                "description": [
+                                    "Increase marketing effectiveness by managing, structuring, and displaying product content consistently without support from IT.",
+                                    "Improve product management by importing product content from different sources, organizing it hierarchically, assigning attributes, search, (bulk) edit and compare.",
+                                    "Drive sales by distributing product content in catalogs geared to specific audiences."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Product content and catalog management involves managing, structuring, and displaying product content consistently across all channels without support from IT."
+                },
+                "Product Data Transformation and Syndication": {
+                    "content": {
+                        "Product Data Transformation and Syndication (PCH)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964F4E71ED9B4F81903F55880DC",
+                            "content": {
+                                "svp": "Syndicate product data to your relevant channels",
+                                "parent_description": "Product data transformation and syndication involves optimizing your product data feed to the data format of your preferred destination channel.​",
+                                "description": [
+                                    "Synchronize catalog versions to publish approved product data sets.",
+                                    "Connect your relevant marketplace, retail, social and marketing channels with a click of a button.",
+                                    "Optimize your product data feed to the data format of your preferred destination channel."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Product data transformation and syndication involves optimizing your product data feed to the data format of your preferred destination channel.​"
+                },
+                "Product Reporting and Analytics": {
+                    "content": {
+                        "Product Reporting and Analytics (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/40F2E9281A631ED9B4F8343D625A60EF",
+                            "content": {
+                                "svp": "Get insight into the status of your catalog and your  workflow progress",
+                                "parent_description": "Product reporting and analytics involves providing an ovevriew of&nbsp; the status of your product catalogsin their lifecycle.",
+                                "description": [
+                                    "Get role based insight into data quality coverage.",
+                                    "Understand the approval status for your product catalogs.",
+                                    "See a summary of the latest running workflows and pending tasks to immediate start acting.",
+                                    "View changes on attribute level over time including time stamp and author."
+                                ]
+                            }
+                        },
+                        "Product Reporting and Analytics (PCH)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED9B4F836212C2BA0DE",
+                            "content": {
+                                "svp": "Get insight into the status of your catalog and your  workflow progress",
+                                "parent_description": "Product reporting and analytics involves providing an ovevriew of&nbsp; the status of your product catalogsin their lifecycle.",
+                                "description": [
+                                    "Get role based insight into data quality coverage.",
+                                    "Understand the approval status for your product catalogs.",
+                                    "See a summary of the latest running workflows and pending tasks to immediate start acting.",
+                                    "View changes on attribute level over time including time stamp and author."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Product reporting and analytics involves providing an ovevriew of  the status of your product catalogsin their lifecycle."
+                },
+                "Workflow and Collaboration": {
+                    "content": {
+                        "Workflow and Collaboration (Commerce CLD)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED8A3819E06C78FE0CF",
+                            "content": {
+                                "svp": "Develop content more effectively with better workflow and collaboration",
+                                "parent_description": "Workflow and collaboration involves&nbsp;providing product-related content authored by business users from different organizations and defining tasks and access rights through advanced rights and role management.&nbsp;​",
+                                "description": [
+                                    "Build and publish product content authored by business users from different organizations&nbsp;with greater efficiency.",
+                                    "Define tasks and access rights through advanced rights and role management.",
+                                    "Help ensure that relevant tasks are assigned to the right team member."
+                                ]
+                            }
+                        },
+                        "Workflow and Collaboration (Commerce OP)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E928DB78C080CC",
+                            "content": {
+                                "svp": "Develop content more effectively with better workflow and collaboration",
+                                "parent_description": "Workflow and collaboration involves&nbsp;providing product-related content authored by business users from different organizations and defining tasks and access rights through advanced rights and role management.&nbsp;​",
+                                "description": [
+                                    "Build and publish product content authored by business users from different organizations&nbsp;with greater efficiency.",
+                                    "Define tasks and access rights through advanced rights and role management.",
+                                    "Help ensure that relevant tasks are assigned to the right team member."
+                                ]
+                            }
+                        },
+                        "Workflow and Collaboration (PCH)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/42F2E964FAAF1ED9B4F80816DA5980DE",
+                            "content": {
+                                "svp": "Develop content more effectively with better workflow and collaboration",
+                                "parent_description": "Workflow and collaboration involves&nbsp;providing product-related content authored by business users from different organizations and defining tasks and access rights through advanced rights and role management.&nbsp;​",
+                                "description": [
+                                    "Build and publish product content authored by business users from different organizations&nbsp;with greater efficiency.",
+                                    "Define tasks and access rights through advanced rights and role management.",
+                                    "Create, manage and visualize workflows.&lt;/li&gt;&lt;li&gt;Help ensure that relevant tasks are assigned to the right team member."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Workflow and collaboration involves providing product-related content authored by business users from different organizations and defining tasks and access rights through advanced rights and role management. ​"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "Disease Prevention": {
+        "Patient Engagement": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/6EAE8B27FCC11ED892EAF9D5E413E0CC",
+            "content": {
+                "Chronic Disease Management": {
+                    "content": {
+                        "Chronic Disease Management": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E92B18C67240CC",
+                            "content": {
+                                "svp": "Enable interaction and engagement between patients and caregivers for effective chronic disease management",
+                                "parent_description": "Chronic disease management includes managing specialized care programs, gaining real-time insights into a patient's well-being, and enabling interaction between patients and caregivers to improve health outcomes.",
+                                "description": [
+                                    "Manage specialized care programs for clinical scenarios, such as diabetes, pregnancy, post-surgery care, and more.",
+                                    "Encourage behavioral changes and improved adherence to treatment plans and medications.",
+                                    "Gain access to real-time insights of patients’ well-being for immediate or ongoing responses.",
+                                    "Draw important conclusions that provide for better patient outcomes and improved lives."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Chronic disease management includes managing specialized care programs, gaining real-time insights into a patient's well-being, and enabling interaction between patients and caregivers to improve health outcomes."
+                },
+                "Self Managed Care": {
+                    "content": {
+                        "Self Managed Care": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/6EAE8B27FCC11ED892E923A1435500CC",
+                            "content": {
+                                "svp": "Improve self-managed care with a health engagement foundation",
+                                "parent_description": "Self Managed Care includes linking patients with doctors and caregivers so they can interact remotely to improve self-managed care and adherence to treatment plans and medications.",
+                                "description": [
+                                    "Provide immediate responses by enabling patients to remotely interact with doctors and caregivers.",
+                                    "Improve adherence to treatment plans and medication with engagement solutions.",
+                                    "Process patient-centric health scenarios with flexibly built extensions."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Self Managed Care includes linking patients with doctors and caregivers so they can interact remotely to improve self-managed care and adherence to treatment plans and medications."
+                }
+            }
+        },
+        "Patient Outreach": {
+            "href": "https://solutionportfolio.net.sap/bcm/industry/HEALTH/object/42F2E964F4E71ED8BFA68404351FE0D2",
+            "content": {
+                "Patient Education": {
+                    "content": {
+                        "Patient Education (C4C)": {
+                            "href": "https://solutionportfolio.net.sap/industry/HEALTH/object/089E017A62AB1ED8BFA68830292200D1",
+                            "content": {
+                                "svp": "Help patients make more-informed choices about their care through high-quality information sharing, proactive outreach, and education",
+                                "parent_description": "Patient education involves proactively approaching patients and supporting them so they can learn about their health status and improve their well-being.",
+                                "description": [
+                                    "Educate patients about their disease state, health risks, and actively engage them in improving their health.",
+                                    "Include clinicians in education and engagement to personalize relevant content and increase overall patient involvement and satisfaction.",
+                                    "Drive patient visits through patient segmentation using approved patient and third-party data.",
+                                    "Use tracking, marketing, and sales performance evaluation tools to measure the conversion of leads to new patients for elective care and services."
+                                ]
+                            }
+                        }
+                    },
+                    "description": "Patient education involves proactively approaching patients and supporting them so they can learn about their health status and improve their well-being."
+                }
+            }
+        }
+    }
+}
