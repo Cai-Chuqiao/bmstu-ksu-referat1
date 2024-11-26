@@ -87,7 +87,7 @@ def split_json_to_files(input_json_path):
 json_file_path = "all_content.json"  # 替换为实际的JSON文件路径
 docx_file_path = "result_ru.docx"  # 替换为想要输出的DOCX文件路径
 num = split_json_to_files(json_file_path)
-for i in range(10, num):
+for i in range(1, num):
     subjson_file_path = f"temp{i}.json"
     json_to_docx(i, subjson_file_path, f"temp{i}.docx")
 
