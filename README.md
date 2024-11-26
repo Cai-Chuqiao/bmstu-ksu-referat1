@@ -3,6 +3,7 @@
 ```
 pip install -r requirements.txt
 ```
+其中selenium需要配合chromedriver使用，可以在cmd中运行指令```chromedriver```查看自己电脑上的chromedriver是否安装好，但是有可能发生chromedriver与你当前电脑上的chrome版本不匹配的问题，需要重新安装一下chromedriver，可以参照这篇博客https://blog.csdn.net/weixin_52122271/article/details/130885214
 # 将爬取主题对应的网页的信息并格式化储存到json文件中
 运行spider.py，记得将代码中的url换成自己主题的url <br>
 ```url = "https://solutionportfolio.net.sap/bcm/industry/HEALTH"``` <br>
