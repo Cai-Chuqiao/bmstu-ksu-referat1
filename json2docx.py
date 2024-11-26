@@ -102,11 +102,11 @@ def merge_docx_files(num, output_file):
     :param input_files: 输入的DOCX文件列表，包含要合并的各个文件的路径。
     :param output_file: 合并后输出的DOCX文件的路径。
     """
-    first_doc = Document("temp0.docx")
+    first_doc = Document("temp/temp0.docx")
     composer = Composer(first_doc)
 
     for i in range(1, num):
-        file_path = f"temp{i}.docx"
+        file_path = f"temp/temp{i}.docx"
         doc_to_add = Document(file_path)
         composer.append(doc_to_add)
 
