@@ -54,7 +54,7 @@ def json_to_docx(n0, json_file_path, docx_file_path):
                     for n2, k2 in enumerate(data[k0][k1]['content'].keys()):
                         # 三级标题样式
                         title_para = doc.add_heading(f'{n0+1}.{n1+1}.{n2+1} '+translate(k2), level=3)
-                        para = doc.add_paragraph(data[k0][k1]['content'][k2]['description'])
+                        para = doc.add_paragraph(translate(data[k0][k1]['content'][k2]['description']))
                         for n3, k3 in enumerate(data[k0][k1]['content'][k2]['content'].keys()):
                             # 四级标题样式
                             title_para = doc.add_heading(f'{n0+1}.{n1+1}.{n2+1}.{n3+1} '+translate(k3), level=4)
