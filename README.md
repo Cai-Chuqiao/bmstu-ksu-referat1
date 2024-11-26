@@ -18,12 +18,12 @@ pip install -r requirements.txt
 在代码<br>
 ```
 num = split_json_to_files(json_file_path)
-for i in range(1, num):
+for i in range(0, num):
     subjson_file_path = f"temp/temp{i}.json"
     json_to_docx(i, subjson_file_path, f"temp/temp{i}.docx")
 ```
 <br>
-的for i in range(1, num):中将1改成下一个需要生成的docx文档的index即可。 <br>
+的for i in range(0, num):中将0改成下一个需要生成的docx文档的index即可。 <br>
 <br>
 总体用时 - 1h
 <br>
